@@ -1,0 +1,22 @@
+# ngrok.yml — GeoMine AI tunnel configuration
+#
+# IMPORTANT: Do NOT add your authtoken here.
+# Configure it separately with: ngrok config add-authtoken <your-token>
+# (This stores it in your OS user directory, not in this file.)
+#
+# This file defines a single tunnel to the FastAPI backend (port 8000).
+# FastAPI serves both the API AND the production frontend (after npm run build).
+#
+# Usage:
+#   ngrok start geomine --config ngrok.yml
+#
+version: "3"
+
+tunnels:
+  geomine:
+    proto: http
+    addr: 8000
+    # Optional: uncomment to get a stable subdomain (requires paid ngrok plan)
+    # hostname: geomine.ngrok.dev
+    inspect: true
+

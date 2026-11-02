@@ -1,0 +1,2290 @@
+source_file,source_document,source_organization,chapter_number,chapter_title,source_page,industry,subcategory,relevance,relevance_reason,requirement_id,requirement_type,parameter,requirement,applicability,condition,limit_min,limit_max,limit_value,unit,comparison_operator,monitoring_location,required_action,responsible_entity,compliance_category,risk_category,notes,rag_text
+chap_18.csv,CPCB Regulatory Standards,CPCB,18,COAL MINES,1,Coal Mining,new coal mines coal mines coming up after dec 1998,DIRECT,specific ambient air quality standard for new coal mines,REQ-CM-AIR-001,air quality limit,suspended particulate matter (spm),Suspended Particulate Matter concentration at downwind direction at 500 m from dust generating sources shall not exceed prescribed annual limit,New Coal Mines (Coal Mines coming up after Dec. 1998),,,,360.0,µg/m3,<=,downwind direction considering predominant wind direction at 500 m from dust generating sources / nearest residential or commercial place (leeward direction),,Mine Management,air,not specified, Annual Arithmetic mean for measurements taken in a Year following frequency in para 18.2. Unauthorised construction not to be taken as reference.,"Chapter Title: COAL MINES
+Requirement Type: air quality limit
+Parameter: suspended particulate matter (spm)
+Requirement: Suspended Particulate Matter concentration at downwind direction at 500 m from dust generating sources shall not exceed prescribed annual limit
+Applicability: New Coal Mines (Coal Mines coming up after Dec. 1998)
+Limit Value: 360.0
+Unit: µg/m3
+Comparison Operator: <=
+Monitoring Location: downwind direction considering predominant wind direction at 500 m from dust generating sources / nearest residential or commercial place (leeward direction)
+Responsible Entity: Mine Management
+Compliance Category: air
+Risk Category: not specified
+Notes:  Annual Arithmetic mean for measurements taken in a Year following frequency in para 18.2. Unauthorised construction not to be taken as reference."
+chap_18.csv,CPCB Regulatory Standards,CPCB,18,COAL MINES,1,Coal Mining,new coal mines coal mines coming up after dec 1998,DIRECT,specific ambient air quality standard for new coal mines,REQ-CM-AIR-002,air quality limit,suspended particulate matter (spm),Suspended Particulate Matter concentration at downwind direction at 500 m from dust generating sources shall not exceed prescribed 24-hour limit,New Coal Mines (Coal Mines coming up after Dec. 1998),,,,500.0,µg/m3,<=,downwind direction considering predominant wind direction at 500 m from dust generating sources / nearest residential or commercial place (leeward direction),,Mine Management,air,not specified, 24 hourly / 8 hourly values should meet 98% of the time in a Year. May exceed 2% of time but not on two consecutive days.,"Chapter Title: COAL MINES
+Requirement Type: air quality limit
+Parameter: suspended particulate matter (spm)
+Requirement: Suspended Particulate Matter concentration at downwind direction at 500 m from dust generating sources shall not exceed prescribed 24-hour limit
+Applicability: New Coal Mines (Coal Mines coming up after Dec. 1998)
+Limit Value: 500.0
+Unit: µg/m3
+Comparison Operator: <=
+Monitoring Location: downwind direction considering predominant wind direction at 500 m from dust generating sources / nearest residential or commercial place (leeward direction)
+Responsible Entity: Mine Management
+Compliance Category: air
+Risk Category: not specified
+Notes:  24 hourly / 8 hourly values should meet 98% of the time in a Year. May exceed 2% of time but not on two consecutive days."
+chap_18.csv,CPCB Regulatory Standards,CPCB,18,COAL MINES,1,Coal Mining,new coal mines coal mines coming up after dec 1998,DIRECT,specific ambient air quality standard for new coal mines,REQ-CM-AIR-003,air quality limit,respirable particulate matter (rpm),Respirable Particulate Matter (size less than 10 µm) concentration shall not exceed prescribed annual limit,New Coal Mines (Coal Mines coming up after Dec. 1998),,,,180.0,µg/m3,<=,downwind direction considering predominant wind direction at 500 m from dust generating sources / nearest residential or commercial place (leeward direction),,Mine Management,air,not specified, Annual Arithmetic mean for measurements taken in a Year following frequency in para 18.2.,"Chapter Title: COAL MINES
+Requirement Type: air quality limit
+Parameter: respirable particulate matter (rpm)
+Requirement: Respirable Particulate Matter (size less than 10 µm) concentration shall not exceed prescribed annual limit
+Applicability: New Coal Mines (Coal Mines coming up after Dec. 1998)
+Limit Value: 180.0
+Unit: µg/m3
+Comparison Operator: <=
+Monitoring Location: downwind direction considering predominant wind direction at 500 m from dust generating sources / nearest residential or commercial place (leeward direction)
+Responsible Entity: Mine Management
+Compliance Category: air
+Risk Category: not specified
+Notes:  Annual Arithmetic mean for measurements taken in a Year following frequency in para 18.2."
+chap_18.csv,CPCB Regulatory Standards,CPCB,18,COAL MINES,1,Coal Mining,new coal mines coal mines coming up after dec 1998,DIRECT,specific ambient air quality standard for new coal mines,REQ-CM-AIR-004,air quality limit,respirable particulate matter (rpm),Respirable Particulate Matter (size less than 10 µm) concentration shall not exceed prescribed 24-hour limit,New Coal Mines (Coal Mines coming up after Dec. 1998),,,,250.0,µg/m3,<=,downwind direction considering predominant wind direction at 500 m from dust generating sources / nearest residential or commercial place (leeward direction),,Mine Management,air,not specified, 24 hourly / 8 hourly values should meet 98% of the time in a Year. May exceed 2% of time but not on two consecutive days.,"Chapter Title: COAL MINES
+Requirement Type: air quality limit
+Parameter: respirable particulate matter (rpm)
+Requirement: Respirable Particulate Matter (size less than 10 µm) concentration shall not exceed prescribed 24-hour limit
+Applicability: New Coal Mines (Coal Mines coming up after Dec. 1998)
+Limit Value: 250.0
+Unit: µg/m3
+Comparison Operator: <=
+Monitoring Location: downwind direction considering predominant wind direction at 500 m from dust generating sources / nearest residential or commercial place (leeward direction)
+Responsible Entity: Mine Management
+Compliance Category: air
+Risk Category: not specified
+Notes:  24 hourly / 8 hourly values should meet 98% of the time in a Year. May exceed 2% of time but not on two consecutive days."
+chap_18.csv,CPCB Regulatory Standards,CPCB,18,COAL MINES,1,Coal Mining,new coal mines coal mines coming up after dec 1998,DIRECT,specific ambient air quality standard for new coal mines,REQ-CM-AIR-005,air quality limit,sulphur dioxide (so2),Sulphur Dioxide (SO2) concentration shall not exceed prescribed annual limit,New Coal Mines (Coal Mines coming up after Dec. 1998),,,,80.0,µg/m3,<=,downwind direction considering predominant wind direction at 500 m from dust generating sources / nearest residential or commercial place (leeward direction),,Mine Management,air,not specified, Annual Arithmetic mean for measurements taken in a Year following frequency in para 18.2.,"Chapter Title: COAL MINES
+Requirement Type: air quality limit
+Parameter: sulphur dioxide (so2)
+Requirement: Sulphur Dioxide (SO2) concentration shall not exceed prescribed annual limit
+Applicability: New Coal Mines (Coal Mines coming up after Dec. 1998)
+Limit Value: 80.0
+Unit: µg/m3
+Comparison Operator: <=
+Monitoring Location: downwind direction considering predominant wind direction at 500 m from dust generating sources / nearest residential or commercial place (leeward direction)
+Responsible Entity: Mine Management
+Compliance Category: air
+Risk Category: not specified
+Notes:  Annual Arithmetic mean for measurements taken in a Year following frequency in para 18.2."
+chap_18.csv,CPCB Regulatory Standards,CPCB,18,COAL MINES,1,Coal Mining,new coal mines coal mines coming up after dec 1998,DIRECT,specific ambient air quality standard for new coal mines,REQ-CM-AIR-006,air quality limit,sulphur dioxide (so2),Sulphur Dioxide (SO2) concentration shall not exceed prescribed 24-hour limit,New Coal Mines (Coal Mines coming up after Dec. 1998),,,,120.0,µg/m3,<=,downwind direction considering predominant wind direction at 500 m from dust generating sources / nearest residential or commercial place (leeward direction),,Mine Management,air,not specified, 24 hourly / 8 hourly values should meet 98% of the time in a Year. May exceed 2% of time but not on two consecutive days.,"Chapter Title: COAL MINES
+Requirement Type: air quality limit
+Parameter: sulphur dioxide (so2)
+Requirement: Sulphur Dioxide (SO2) concentration shall not exceed prescribed 24-hour limit
+Applicability: New Coal Mines (Coal Mines coming up after Dec. 1998)
+Limit Value: 120.0
+Unit: µg/m3
+Comparison Operator: <=
+Monitoring Location: downwind direction considering predominant wind direction at 500 m from dust generating sources / nearest residential or commercial place (leeward direction)
+Responsible Entity: Mine Management
+Compliance Category: air
+Risk Category: not specified
+Notes:  24 hourly / 8 hourly values should meet 98% of the time in a Year. May exceed 2% of time but not on two consecutive days."
+chap_18.csv,CPCB Regulatory Standards,CPCB,18,COAL MINES,1,Coal Mining,new coal mines coal mines coming up after dec 1998,DIRECT,specific ambient air quality standard for new coal mines,REQ-CM-AIR-007,air quality limit,oxide of nitrogen as no2,Oxide of Nitrogen as NO2 concentration shall not exceed prescribed annual limit,New Coal Mines (Coal Mines coming up after Dec. 1998),,,,80.0,µg/m3,<=,downwind direction considering predominant wind direction at 500 m from dust generating sources / nearest residential or commercial place (leeward direction),,Mine Management,air,not specified, Annual Arithmetic mean for measurements taken in a Year following frequency in para 18.2.,"Chapter Title: COAL MINES
+Requirement Type: air quality limit
+Parameter: oxide of nitrogen as no2
+Requirement: Oxide of Nitrogen as NO2 concentration shall not exceed prescribed annual limit
+Applicability: New Coal Mines (Coal Mines coming up after Dec. 1998)
+Limit Value: 80.0
+Unit: µg/m3
+Comparison Operator: <=
+Monitoring Location: downwind direction considering predominant wind direction at 500 m from dust generating sources / nearest residential or commercial place (leeward direction)
+Responsible Entity: Mine Management
+Compliance Category: air
+Risk Category: not specified
+Notes:  Annual Arithmetic mean for measurements taken in a Year following frequency in para 18.2."
+chap_18.csv,CPCB Regulatory Standards,CPCB,18,COAL MINES,1,Coal Mining,new coal mines coal mines coming up after dec 1998,DIRECT,specific ambient air quality standard for new coal mines,REQ-CM-AIR-008,air quality limit,oxide of nitrogen as no2,Oxide of Nitrogen as NO2 concentration shall not exceed prescribed 24-hour limit,New Coal Mines (Coal Mines coming up after Dec. 1998),,,,120.0,µg/m3,<=,downwind direction considering predominant wind direction at 500 m from dust generating sources / nearest residential or commercial place (leeward direction),,Mine Management,air,not specified, 24 hourly / 8 hourly values should meet 98% of the time in a Year. May exceed 2% of time but not on two consecutive days.,"Chapter Title: COAL MINES
+Requirement Type: air quality limit
+Parameter: oxide of nitrogen as no2
+Requirement: Oxide of Nitrogen as NO2 concentration shall not exceed prescribed 24-hour limit
+Applicability: New Coal Mines (Coal Mines coming up after Dec. 1998)
+Limit Value: 120.0
+Unit: µg/m3
+Comparison Operator: <=
+Monitoring Location: downwind direction considering predominant wind direction at 500 m from dust generating sources / nearest residential or commercial place (leeward direction)
+Responsible Entity: Mine Management
+Compliance Category: air
+Risk Category: not specified
+Notes:  24 hourly / 8 hourly values should meet 98% of the time in a Year. May exceed 2% of time but not on two consecutive days."
+chap_18.csv,CPCB Regulatory Standards,CPCB,18,COAL MINES,2,Coal Mining,existing coal fieldsmines karanpura giridih rajhara wardha nagpur silewara pench kanhan patharkhera umrer korba chirimiri central india coalfields including baikunthpur and bisrampur singrauli ib valley talcher and godavary  vally coalfields,DIRECT,specific ambient air quality standard for listed existing coalfieldsmines,REQ-CM-AIR-009,air quality limit,suspended particulate matter (spm),Suspended Particulate Matter concentration at downwind direction at 500 m from dust generating sources shall not exceed prescribed annual limit,"Existing coal fields/mines (Karanpura, Giridih, Rajhara, Wardha, Nagpur, Silewara, Pench, Kanhan, Patharkhera, Umrer, Korba, Chirimiri, Central India Coalfields, Singrauli, Ib Valley, Talcher, Godavary Valley)",,,,430.0,µg/m3,<=,downwind direction considering predominant wind direction at 500 m from dust generating sources / nearest residential or commercial place (leeward direction),,Mine Management,air,not specified, Annual Arithmetic mean for measurements taken in a Year following frequency in para 18.2.,"Chapter Title: COAL MINES
+Requirement Type: air quality limit
+Parameter: suspended particulate matter (spm)
+Requirement: Suspended Particulate Matter concentration at downwind direction at 500 m from dust generating sources shall not exceed prescribed annual limit
+Applicability: Existing coal fields/mines (Karanpura, Giridih, Rajhara, Wardha, Nagpur, Silewara, Pench, Kanhan, Patharkhera, Umrer, Korba, Chirimiri, Central India Coalfields, Singrauli, Ib Valley, Talcher, Godavary Valley)
+Limit Value: 430.0
+Unit: µg/m3
+Comparison Operator: <=
+Monitoring Location: downwind direction considering predominant wind direction at 500 m from dust generating sources / nearest residential or commercial place (leeward direction)
+Responsible Entity: Mine Management
+Compliance Category: air
+Risk Category: not specified
+Notes:  Annual Arithmetic mean for measurements taken in a Year following frequency in para 18.2."
+chap_18.csv,CPCB Regulatory Standards,CPCB,18,COAL MINES,2,Coal Mining,existing coal fieldsmines karanpura giridih rajhara wardha nagpur silewara pench kanhan patharkhera umrer korba chirimiri central india coalfields including baikunthpur and bisrampur singrauli ib valley talcher and godavary  vally coalfields,DIRECT,specific ambient air quality standard for listed existing coalfieldsmines,REQ-CM-AIR-010,air quality limit,suspended particulate matter (spm),Suspended Particulate Matter concentration at downwind direction at 500 m from dust generating sources shall not exceed prescribed 24-hour limit,"Existing coal fields/mines (Karanpura, Giridih, Rajhara, Wardha, Nagpur, Silewara, Pench, Kanhan, Patharkhera, Umrer, Korba, Chirimiri, Central India Coalfields, Singrauli, Ib Valley, Talcher, Godavary Valley)",,,,600.0,µg/m3,<=,downwind direction considering predominant wind direction at 500 m from dust generating sources / nearest residential or commercial place (leeward direction),,Mine Management,air,not specified, 24 hourly / 8 hourly values should meet 98% of the time in a Year. May exceed 2% of time but not on two consecutive days.,"Chapter Title: COAL MINES
+Requirement Type: air quality limit
+Parameter: suspended particulate matter (spm)
+Requirement: Suspended Particulate Matter concentration at downwind direction at 500 m from dust generating sources shall not exceed prescribed 24-hour limit
+Applicability: Existing coal fields/mines (Karanpura, Giridih, Rajhara, Wardha, Nagpur, Silewara, Pench, Kanhan, Patharkhera, Umrer, Korba, Chirimiri, Central India Coalfields, Singrauli, Ib Valley, Talcher, Godavary Valley)
+Limit Value: 600.0
+Unit: µg/m3
+Comparison Operator: <=
+Monitoring Location: downwind direction considering predominant wind direction at 500 m from dust generating sources / nearest residential or commercial place (leeward direction)
+Responsible Entity: Mine Management
+Compliance Category: air
+Risk Category: not specified
+Notes:  24 hourly / 8 hourly values should meet 98% of the time in a Year. May exceed 2% of time but not on two consecutive days."
+chap_18.csv,CPCB Regulatory Standards,CPCB,18,COAL MINES,2,Coal Mining,existing coal fieldsmines karanpura giridih rajhara wardha nagpur silewara pench kanhan patharkhera umrer korba chirimiri central india coalfields including baikunthpur and bisrampur singrauli ib valley talcher and godavary  vally coalfields,DIRECT,specific ambient air quality standard for listed existing coalfieldsmines,REQ-CM-AIR-011,air quality limit,respirable particulate matter (rpm),Respirable Particulate Matter (size less than 10 µm) concentration shall not exceed prescribed annual limit,"Existing coal fields/mines (Karanpura, Giridih, Rajhara, Wardha, Nagpur, Silewara, Pench, Kanhan, Patharkhera, Umrer, Korba, Chirimiri, Central India Coalfields, Singrauli, Ib Valley, Talcher, Godavary Valley)",,,,215.0,µg/m3,<=,downwind direction considering predominant wind direction at 500 m from dust generating sources / nearest residential or commercial place (leeward direction),,Mine Management,air,not specified, Annual Arithmetic mean for measurements taken in a Year following frequency in para 18.2.,"Chapter Title: COAL MINES
+Requirement Type: air quality limit
+Parameter: respirable particulate matter (rpm)
+Requirement: Respirable Particulate Matter (size less than 10 µm) concentration shall not exceed prescribed annual limit
+Applicability: Existing coal fields/mines (Karanpura, Giridih, Rajhara, Wardha, Nagpur, Silewara, Pench, Kanhan, Patharkhera, Umrer, Korba, Chirimiri, Central India Coalfields, Singrauli, Ib Valley, Talcher, Godavary Valley)
+Limit Value: 215.0
+Unit: µg/m3
+Comparison Operator: <=
+Monitoring Location: downwind direction considering predominant wind direction at 500 m from dust generating sources / nearest residential or commercial place (leeward direction)
+Responsible Entity: Mine Management
+Compliance Category: air
+Risk Category: not specified
+Notes:  Annual Arithmetic mean for measurements taken in a Year following frequency in para 18.2."
+chap_18.csv,CPCB Regulatory Standards,CPCB,18,COAL MINES,2,Coal Mining,existing coal fieldsmines karanpura giridih rajhara wardha nagpur silewara pench kanhan patharkhera umrer korba chirimiri central india coalfields including baikunthpur and bisrampur singrauli ib valley talcher and godavary  vally coalfields,DIRECT,specific ambient air quality standard for listed existing coalfieldsmines,REQ-CM-AIR-012,air quality limit,respirable particulate matter (rpm),Respirable Particulate Matter (size less than 10 µm) concentration shall not exceed prescribed 24-hour limit,"Existing coal fields/mines (Karanpura, Giridih, Rajhara, Wardha, Nagpur, Silewara, Pench, Kanhan, Patharkhera, Umrer, Korba, Chirimiri, Central India Coalfields, Singrauli, Ib Valley, Talcher, Godavary Valley)",,,,300.0,µg/m3,<=,downwind direction considering predominant wind direction at 500 m from dust generating sources / nearest residential or commercial place (leeward direction),,Mine Management,air,not specified, 24 hourly / 8 hourly values should meet 98% of the time in a Year. May exceed 2% of time but not on two consecutive days.,"Chapter Title: COAL MINES
+Requirement Type: air quality limit
+Parameter: respirable particulate matter (rpm)
+Requirement: Respirable Particulate Matter (size less than 10 µm) concentration shall not exceed prescribed 24-hour limit
+Applicability: Existing coal fields/mines (Karanpura, Giridih, Rajhara, Wardha, Nagpur, Silewara, Pench, Kanhan, Patharkhera, Umrer, Korba, Chirimiri, Central India Coalfields, Singrauli, Ib Valley, Talcher, Godavary Valley)
+Limit Value: 300.0
+Unit: µg/m3
+Comparison Operator: <=
+Monitoring Location: downwind direction considering predominant wind direction at 500 m from dust generating sources / nearest residential or commercial place (leeward direction)
+Responsible Entity: Mine Management
+Compliance Category: air
+Risk Category: not specified
+Notes:  24 hourly / 8 hourly values should meet 98% of the time in a Year. May exceed 2% of time but not on two consecutive days."
+chap_18.csv,CPCB Regulatory Standards,CPCB,18,COAL MINES,2,Coal Mining,existing coal fieldsmines karanpura giridih rajhara wardha nagpur silewara pench kanhan patharkhera umrer korba chirimiri central india coalfields including baikunthpur and bisrampur singrauli ib valley talcher and godavary  vally coalfields,DIRECT,specific ambient air quality standard for listed existing coalfieldsmines,REQ-CM-AIR-013,air quality limit,sulphur dioxide (so2),Sulphur Dioxide (SO2) concentration shall not exceed prescribed annual limit,"Existing coal fields/mines (Karanpura, Giridih, Rajhara, Wardha, Nagpur, Silewara, Pench, Kanhan, Patharkhera, Umrer, Korba, Chirimiri, Central India Coalfields, Singrauli, Ib Valley, Talcher, Godavary Valley)",,,,80.0,µg/m3,<=,downwind direction considering predominant wind direction at 500 m from dust generating sources / nearest residential or commercial place (leeward direction),,Mine Management,air,not specified, Annual Arithmetic mean for measurements taken in a Year following frequency in para 18.2.,"Chapter Title: COAL MINES
+Requirement Type: air quality limit
+Parameter: sulphur dioxide (so2)
+Requirement: Sulphur Dioxide (SO2) concentration shall not exceed prescribed annual limit
+Applicability: Existing coal fields/mines (Karanpura, Giridih, Rajhara, Wardha, Nagpur, Silewara, Pench, Kanhan, Patharkhera, Umrer, Korba, Chirimiri, Central India Coalfields, Singrauli, Ib Valley, Talcher, Godavary Valley)
+Limit Value: 80.0
+Unit: µg/m3
+Comparison Operator: <=
+Monitoring Location: downwind direction considering predominant wind direction at 500 m from dust generating sources / nearest residential or commercial place (leeward direction)
+Responsible Entity: Mine Management
+Compliance Category: air
+Risk Category: not specified
+Notes:  Annual Arithmetic mean for measurements taken in a Year following frequency in para 18.2."
+chap_18.csv,CPCB Regulatory Standards,CPCB,18,COAL MINES,2,Coal Mining,existing coal fieldsmines karanpura giridih rajhara wardha nagpur silewara pench kanhan patharkhera umrer korba chirimiri central india coalfields including baikunthpur and bisrampur singrauli ib valley talcher and godavary  vally coalfields,DIRECT,specific ambient air quality standard for listed existing coalfieldsmines,REQ-CM-AIR-014,air quality limit,sulphur dioxide (so2),Sulphur Dioxide (SO2) concentration shall not exceed prescribed 24-hour limit,"Existing coal fields/mines (Karanpura, Giridih, Rajhara, Wardha, Nagpur, Silewara, Pench, Kanhan, Patharkhera, Umrer, Korba, Chirimiri, Central India Coalfields, Singrauli, Ib Valley, Talcher, Godavary Valley)",,,,120.0,µg/m3,<=,downwind direction considering predominant wind direction at 500 m from dust generating sources / nearest residential or commercial place (leeward direction),,Mine Management,air,not specified, 24 hourly / 8 hourly values should meet 98% of the time in a Year. May exceed 2% of time but not on two consecutive days.,"Chapter Title: COAL MINES
+Requirement Type: air quality limit
+Parameter: sulphur dioxide (so2)
+Requirement: Sulphur Dioxide (SO2) concentration shall not exceed prescribed 24-hour limit
+Applicability: Existing coal fields/mines (Karanpura, Giridih, Rajhara, Wardha, Nagpur, Silewara, Pench, Kanhan, Patharkhera, Umrer, Korba, Chirimiri, Central India Coalfields, Singrauli, Ib Valley, Talcher, Godavary Valley)
+Limit Value: 120.0
+Unit: µg/m3
+Comparison Operator: <=
+Monitoring Location: downwind direction considering predominant wind direction at 500 m from dust generating sources / nearest residential or commercial place (leeward direction)
+Responsible Entity: Mine Management
+Compliance Category: air
+Risk Category: not specified
+Notes:  24 hourly / 8 hourly values should meet 98% of the time in a Year. May exceed 2% of time but not on two consecutive days."
+chap_18.csv,CPCB Regulatory Standards,CPCB,18,COAL MINES,2,Coal Mining,existing coal fieldsmines karanpura giridih rajhara wardha nagpur silewara pench kanhan patharkhera umrer korba chirimiri central india coalfields including baikunthpur and bisrampur singrauli ib valley talcher and godavary  vally coalfields,DIRECT,specific ambient air quality standard for listed existing coalfieldsmines,REQ-CM-AIR-015,air quality limit,oxide of nitrogen as no2,Oxide of Nitrogen as NO2 concentration shall not exceed prescribed annual limit,"Existing coal fields/mines (Karanpura, Giridih, Rajhara, Wardha, Nagpur, Silewara, Pench, Kanhan, Patharkhera, Umrer, Korba, Chirimiri, Central India Coalfields, Singrauli, Ib Valley, Talcher, Godavary Valley)",,,,80.0,µg/m3,<=,downwind direction considering predominant wind direction at 500 m from dust generating sources / nearest residential or commercial place (leeward direction),,Mine Management,air,not specified, Annual Arithmetic mean for measurements taken in a Year following frequency in para 18.2.,"Chapter Title: COAL MINES
+Requirement Type: air quality limit
+Parameter: oxide of nitrogen as no2
+Requirement: Oxide of Nitrogen as NO2 concentration shall not exceed prescribed annual limit
+Applicability: Existing coal fields/mines (Karanpura, Giridih, Rajhara, Wardha, Nagpur, Silewara, Pench, Kanhan, Patharkhera, Umrer, Korba, Chirimiri, Central India Coalfields, Singrauli, Ib Valley, Talcher, Godavary Valley)
+Limit Value: 80.0
+Unit: µg/m3
+Comparison Operator: <=
+Monitoring Location: downwind direction considering predominant wind direction at 500 m from dust generating sources / nearest residential or commercial place (leeward direction)
+Responsible Entity: Mine Management
+Compliance Category: air
+Risk Category: not specified
+Notes:  Annual Arithmetic mean for measurements taken in a Year following frequency in para 18.2."
+chap_18.csv,CPCB Regulatory Standards,CPCB,18,COAL MINES,2,Coal Mining,existing coal fieldsmines karanpura giridih rajhara wardha nagpur silewara pench kanhan patharkhera umrer korba chirimiri central india coalfields including baikunthpur and bisrampur singrauli ib valley talcher and godavary  vally coalfields,DIRECT,specific ambient air quality standard for listed existing coalfieldsmines,REQ-CM-AIR-016,air quality limit,oxide of nitrogen as no2,Oxide of Nitrogen as NO2 concentration shall not exceed prescribed 24-hour limit,"Existing coal fields/mines (Karanpura, Giridih, Rajhara, Wardha, Nagpur, Silewara, Pench, Kanhan, Patharkhera, Umrer, Korba, Chirimiri, Central India Coalfields, Singrauli, Ib Valley, Talcher, Godavary Valley)",,,,120.0,µg/m3,<=,downwind direction considering predominant wind direction at 500 m from dust generating sources / nearest residential or commercial place (leeward direction),,Mine Management,air,not specified, 24 hourly / 8 hourly values should meet 98% of the time in a Year. May exceed 2% of time but not on two consecutive days.,"Chapter Title: COAL MINES
+Requirement Type: air quality limit
+Parameter: oxide of nitrogen as no2
+Requirement: Oxide of Nitrogen as NO2 concentration shall not exceed prescribed 24-hour limit
+Applicability: Existing coal fields/mines (Karanpura, Giridih, Rajhara, Wardha, Nagpur, Silewara, Pench, Kanhan, Patharkhera, Umrer, Korba, Chirimiri, Central India Coalfields, Singrauli, Ib Valley, Talcher, Godavary Valley)
+Limit Value: 120.0
+Unit: µg/m3
+Comparison Operator: <=
+Monitoring Location: downwind direction considering predominant wind direction at 500 m from dust generating sources / nearest residential or commercial place (leeward direction)
+Responsible Entity: Mine Management
+Compliance Category: air
+Risk Category: not specified
+Notes:  24 hourly / 8 hourly values should meet 98% of the time in a Year. May exceed 2% of time but not on two consecutive days."
+chap_18.csv,CPCB Regulatory Standards,CPCB,18,COAL MINES,2,Coal Mining,old coal mines jharia raniganj bokaro,DIRECT,specific ambient air quality standard for old coal mines,REQ-CM-AIR-017,air quality limit,suspended particulate matter (spm),Suspended Particulate Matter concentration at downwind direction at 500 m from dust generating sources shall not exceed prescribed annual limit,Old Coal Mines (Jharia Raniganj Bokaro),,,,500.0,µg/m3,<=,downwind direction considering predominant wind direction at 500 m from dust generating sources / nearest residential or commercial place (leeward direction),,Mine Management,air,not specified, Annual Arithmetic mean for measurements taken in a Year following frequency in para 18.2.,"Chapter Title: COAL MINES
+Requirement Type: air quality limit
+Parameter: suspended particulate matter (spm)
+Requirement: Suspended Particulate Matter concentration at downwind direction at 500 m from dust generating sources shall not exceed prescribed annual limit
+Applicability: Old Coal Mines (Jharia Raniganj Bokaro)
+Limit Value: 500.0
+Unit: µg/m3
+Comparison Operator: <=
+Monitoring Location: downwind direction considering predominant wind direction at 500 m from dust generating sources / nearest residential or commercial place (leeward direction)
+Responsible Entity: Mine Management
+Compliance Category: air
+Risk Category: not specified
+Notes:  Annual Arithmetic mean for measurements taken in a Year following frequency in para 18.2."
+chap_18.csv,CPCB Regulatory Standards,CPCB,18,COAL MINES,2,Coal Mining,old coal mines jharia raniganj bokaro,DIRECT,specific ambient air quality standard for old coal mines,REQ-CM-AIR-018,air quality limit,suspended particulate matter (spm),Suspended Particulate Matter concentration at downwind direction at 500 m from dust generating sources shall not exceed prescribed 24-hour limit,Old Coal Mines (Jharia Raniganj Bokaro),,,,700.0,µg/m3,<=,downwind direction considering predominant wind direction at 500 m from dust generating sources / nearest residential or commercial place (leeward direction),,Mine Management,air,not specified, 24 hourly / 8 hourly values should meet 98% of the time in a Year. May exceed 2% of time but not on two consecutive days.,"Chapter Title: COAL MINES
+Requirement Type: air quality limit
+Parameter: suspended particulate matter (spm)
+Requirement: Suspended Particulate Matter concentration at downwind direction at 500 m from dust generating sources shall not exceed prescribed 24-hour limit
+Applicability: Old Coal Mines (Jharia Raniganj Bokaro)
+Limit Value: 700.0
+Unit: µg/m3
+Comparison Operator: <=
+Monitoring Location: downwind direction considering predominant wind direction at 500 m from dust generating sources / nearest residential or commercial place (leeward direction)
+Responsible Entity: Mine Management
+Compliance Category: air
+Risk Category: not specified
+Notes:  24 hourly / 8 hourly values should meet 98% of the time in a Year. May exceed 2% of time but not on two consecutive days."
+chap_18.csv,CPCB Regulatory Standards,CPCB,18,COAL MINES,2,Coal Mining,old coal mines jharia raniganj bokaro,DIRECT,specific ambient air quality standard for old coal mines,REQ-CM-AIR-019,air quality limit,respirable particulate matter (rpm),Respirable Particulate Matter (size less than 10 µm) concentration shall not exceed prescribed annual limit,Old Coal Mines (Jharia Raniganj Bokaro),,,,250.0,µg/m3,<=,downwind direction considering predominant wind direction at 500 m from dust generating sources / nearest residential or commercial place (leeward direction),,Mine Management,air,not specified, Annual Arithmetic mean for measurements taken in a Year following frequency in para 18.2.,"Chapter Title: COAL MINES
+Requirement Type: air quality limit
+Parameter: respirable particulate matter (rpm)
+Requirement: Respirable Particulate Matter (size less than 10 µm) concentration shall not exceed prescribed annual limit
+Applicability: Old Coal Mines (Jharia Raniganj Bokaro)
+Limit Value: 250.0
+Unit: µg/m3
+Comparison Operator: <=
+Monitoring Location: downwind direction considering predominant wind direction at 500 m from dust generating sources / nearest residential or commercial place (leeward direction)
+Responsible Entity: Mine Management
+Compliance Category: air
+Risk Category: not specified
+Notes:  Annual Arithmetic mean for measurements taken in a Year following frequency in para 18.2."
+chap_18.csv,CPCB Regulatory Standards,CPCB,18,COAL MINES,2,Coal Mining,old coal mines jharia raniganj bokaro,DIRECT,specific ambient air quality standard for old coal mines,REQ-CM-AIR-020,air quality limit,respirable particulate matter (rpm),Respirable Particulate Matter (size less than 10 µm) concentration shall not exceed prescribed 24-hour limit,Old Coal Mines (Jharia Raniganj Bokaro),,,,300.0,µg/m3,<=,downwind direction considering predominant wind direction at 500 m from dust generating sources / nearest residential or commercial place (leeward direction),,Mine Management,air,not specified, 24 hourly / 8 hourly values should meet 98% of the time in a Year. May exceed 2% of time but not on two consecutive days.,"Chapter Title: COAL MINES
+Requirement Type: air quality limit
+Parameter: respirable particulate matter (rpm)
+Requirement: Respirable Particulate Matter (size less than 10 µm) concentration shall not exceed prescribed 24-hour limit
+Applicability: Old Coal Mines (Jharia Raniganj Bokaro)
+Limit Value: 300.0
+Unit: µg/m3
+Comparison Operator: <=
+Monitoring Location: downwind direction considering predominant wind direction at 500 m from dust generating sources / nearest residential or commercial place (leeward direction)
+Responsible Entity: Mine Management
+Compliance Category: air
+Risk Category: not specified
+Notes:  24 hourly / 8 hourly values should meet 98% of the time in a Year. May exceed 2% of time but not on two consecutive days."
+chap_18.csv,CPCB Regulatory Standards,CPCB,18,COAL MINES,2,Coal Mining,old coal mines jharia raniganj bokaro,DIRECT,specific ambient air quality standard for old coal mines,REQ-CM-AIR-021,air quality limit,sulphur dioxide (so2),Sulphur Dioxide (SO2) concentration shall not exceed prescribed annual limit,Old Coal Mines (Jharia Raniganj Bokaro),,,,80.0,µg/m3,<=,downwind direction considering predominant wind direction at 500 m from dust generating sources / nearest residential or commercial place (leeward direction),,Mine Management,air,not specified, Annual Arithmetic mean for measurements taken in a Year following frequency in para 18.2.,"Chapter Title: COAL MINES
+Requirement Type: air quality limit
+Parameter: sulphur dioxide (so2)
+Requirement: Sulphur Dioxide (SO2) concentration shall not exceed prescribed annual limit
+Applicability: Old Coal Mines (Jharia Raniganj Bokaro)
+Limit Value: 80.0
+Unit: µg/m3
+Comparison Operator: <=
+Monitoring Location: downwind direction considering predominant wind direction at 500 m from dust generating sources / nearest residential or commercial place (leeward direction)
+Responsible Entity: Mine Management
+Compliance Category: air
+Risk Category: not specified
+Notes:  Annual Arithmetic mean for measurements taken in a Year following frequency in para 18.2."
+chap_18.csv,CPCB Regulatory Standards,CPCB,18,COAL MINES,2,Coal Mining,old coal mines jharia raniganj bokaro,DIRECT,specific ambient air quality standard for old coal mines,REQ-CM-AIR-022,air quality limit,sulphur dioxide (so2),Sulphur Dioxide (SO2) concentration shall not exceed prescribed 24-hour limit,Old Coal Mines (Jharia Raniganj Bokaro),,,,120.0,µg/m3,<=,downwind direction considering predominant wind direction at 500 m from dust generating sources / nearest residential or commercial place (leeward direction),,Mine Management,air,not specified, 24 hourly / 8 hourly values should meet 98% of the time in a Year. May exceed 2% of time but not on two consecutive days.,"Chapter Title: COAL MINES
+Requirement Type: air quality limit
+Parameter: sulphur dioxide (so2)
+Requirement: Sulphur Dioxide (SO2) concentration shall not exceed prescribed 24-hour limit
+Applicability: Old Coal Mines (Jharia Raniganj Bokaro)
+Limit Value: 120.0
+Unit: µg/m3
+Comparison Operator: <=
+Monitoring Location: downwind direction considering predominant wind direction at 500 m from dust generating sources / nearest residential or commercial place (leeward direction)
+Responsible Entity: Mine Management
+Compliance Category: air
+Risk Category: not specified
+Notes:  24 hourly / 8 hourly values should meet 98% of the time in a Year. May exceed 2% of time but not on two consecutive days."
+chap_18.csv,CPCB Regulatory Standards,CPCB,18,COAL MINES,2,Coal Mining,old coal mines jharia raniganj bokaro,DIRECT,specific ambient air quality standard for old coal mines,REQ-CM-AIR-023,air quality limit,oxide of nitrogen as no2,Oxide of Nitrogen as NO2 concentration shall not exceed prescribed annual limit,Old Coal Mines (Jharia Raniganj Bokaro),,,,80.0,µg/m3,<=,downwind direction considering predominant wind direction at 500 m from dust generating sources / nearest residential or commercial place (leeward direction),,Mine Management,air,not specified, Annual Arithmetic mean for measurements taken in a Year following frequency in para 18.2.,"Chapter Title: COAL MINES
+Requirement Type: air quality limit
+Parameter: oxide of nitrogen as no2
+Requirement: Oxide of Nitrogen as NO2 concentration shall not exceed prescribed annual limit
+Applicability: Old Coal Mines (Jharia Raniganj Bokaro)
+Limit Value: 80.0
+Unit: µg/m3
+Comparison Operator: <=
+Monitoring Location: downwind direction considering predominant wind direction at 500 m from dust generating sources / nearest residential or commercial place (leeward direction)
+Responsible Entity: Mine Management
+Compliance Category: air
+Risk Category: not specified
+Notes:  Annual Arithmetic mean for measurements taken in a Year following frequency in para 18.2."
+chap_18.csv,CPCB Regulatory Standards,CPCB,18,COAL MINES,2,Coal Mining,old coal mines jharia raniganj bokaro,DIRECT,specific ambient air quality standard for old coal mines,REQ-CM-AIR-024,air quality limit,oxide of nitrogen as no2,Oxide of Nitrogen as NO2 concentration shall not exceed prescribed 24-hour limit,Old Coal Mines (Jharia Raniganj Bokaro),,,,120.0,µg/m3,<=,downwind direction considering predominant wind direction at 500 m from dust generating sources / nearest residential or commercial place (leeward direction),,Mine Management,air,not specified, 24 hourly / 8 hourly values should meet 98% of the time in a Year. May exceed 2% of time but not on two consecutive days.,"Chapter Title: COAL MINES
+Requirement Type: air quality limit
+Parameter: oxide of nitrogen as no2
+Requirement: Oxide of Nitrogen as NO2 concentration shall not exceed prescribed 24-hour limit
+Applicability: Old Coal Mines (Jharia Raniganj Bokaro)
+Limit Value: 120.0
+Unit: µg/m3
+Comparison Operator: <=
+Monitoring Location: downwind direction considering predominant wind direction at 500 m from dust generating sources / nearest residential or commercial place (leeward direction)
+Responsible Entity: Mine Management
+Compliance Category: air
+Risk Category: not specified
+Notes:  24 hourly / 8 hourly values should meet 98% of the time in a Year. May exceed 2% of time but not on two consecutive days."
+chap_18.csv,CPCB Regulatory Standards,CPCB,18,COAL MINES,3,Coal Mining,,DIRECT,baseline sampling frequency for air quality monitoring,REQ-CM-MON-025,monitoring requirement,air quality monitoring frequency,Air quality monitoring at a frequency of two days in a month at the nearest residential / commercial place may be carried out,All coal mines,routine monthly monitoring,,,,two days in a month,nearest residential / commercial place (leeward direction),conduct routine air quality monitoring,,Unauthorised construction will not be taken as a reference.,not specified,not specified,not specified,"Chapter Title: COAL MINES
+Requirement Type: monitoring requirement
+Parameter: air quality monitoring frequency
+Requirement: Air quality monitoring at a frequency of two days in a month at the nearest residential / commercial place may be carried out
+Applicability: All coal mines
+Condition: routine monthly monitoring
+Unit: two days in a month
+Comparison Operator: nearest residential / commercial place (leeward direction)
+Monitoring Location: conduct routine air quality monitoring
+Responsible Entity: Unauthorised construction will not be taken as a reference.
+Compliance Category: not specified
+Risk Category: not specified
+Notes: not specified"
+chap_18.csv,CPCB Regulatory Standards,CPCB,18,COAL MINES,3,Coal Mining,,DIRECT,relaxation of monitoring frequency under consistent lowpollution conditions,REQ-CM-MON-026,monitoring requirement,air quality monitoring frequency (reduced),If value of pollutant is less than 50% of prescribed standards for three consecutive months sampling frequency may be shifted to two days in a quarter,All coal mines,pollutant concentration < 50% of prescribed standards for 3 consecutive months,,,,two days in a quarter (3 months),nearest residential / commercial place (leeward direction),shift sampling frequency to two days in a quarter,,Applicable as a result of monthly monitoring.,not specified,not specified,not specified,"Chapter Title: COAL MINES
+Requirement Type: monitoring requirement
+Parameter: air quality monitoring frequency (reduced)
+Requirement: If value of pollutant is less than 50% of prescribed standards for three consecutive months sampling frequency may be shifted to two days in a quarter
+Applicability: All coal mines
+Condition: pollutant concentration < 50% of prescribed standards for 3 consecutive months
+Unit: two days in a quarter (3 months)
+Comparison Operator: nearest residential / commercial place (leeward direction)
+Monitoring Location: shift sampling frequency to two days in a quarter
+Responsible Entity: Applicable as a result of monthly monitoring.
+Compliance Category: not specified
+Risk Category: not specified
+Notes: not specified"
+chap_18.csv,CPCB Regulatory Standards,CPCB,18,COAL MINES,3,Coal Mining,,DIRECT,escalation of monitoring frequency when limits are exceeded,REQ-CM-MON-027,monitoring requirement,air quality monitoring frequency (exceeded),In case the value exceeds prescribed standard air quality sampling should be done twice a week,All coal mines,pollutant concentration exceeds prescribed standard,,,,twice a week,nearest residential / commercial place (leeward direction),conduct air quality sampling twice a week,,If results of 4 consecutive weeks indicate concentration within prescribed standards monthly monitoring may be reverted to.,not specified,not specified,not specified,"Chapter Title: COAL MINES
+Requirement Type: monitoring requirement
+Parameter: air quality monitoring frequency (exceeded)
+Requirement: In case the value exceeds prescribed standard air quality sampling should be done twice a week
+Applicability: All coal mines
+Condition: pollutant concentration exceeds prescribed standard
+Unit: twice a week
+Comparison Operator: nearest residential / commercial place (leeward direction)
+Monitoring Location: conduct air quality sampling twice a week
+Responsible Entity: If results of 4 consecutive weeks indicate concentration within prescribed standards monthly monitoring may be reverted to.
+Compliance Category: not specified
+Risk Category: not specified
+Notes: not specified"
+chap_18.csv,CPCB Regulatory Standards,CPCB,18,COAL MINES,3,Coal Mining,,DIRECT,reversion to baseline monitoring frequency after compliance stabilization,REQ-CM-MON-028,monitoring requirement,air quality monitoring frequency (reversion),If results of four consecutive weeks indicate concentration of pollutants is within prescribed standards monthly monitoring may be reverted to,All coal mines,results of 4 consecutive weeks within prescribed standards after exceedance,,,,two days in a month,nearest residential / commercial place (leeward direction),revert to monthly monitoring (two days in a month),,Follows exceedance protocol.,not specified,not specified,not specified,"Chapter Title: COAL MINES
+Requirement Type: monitoring requirement
+Parameter: air quality monitoring frequency (reversion)
+Requirement: If results of four consecutive weeks indicate concentration of pollutants is within prescribed standards monthly monitoring may be reverted to
+Applicability: All coal mines
+Condition: results of 4 consecutive weeks within prescribed standards after exceedance
+Unit: two days in a month
+Comparison Operator: nearest residential / commercial place (leeward direction)
+Monitoring Location: revert to monthly monitoring (two days in a month)
+Responsible Entity: Follows exceedance protocol.
+Compliance Category: not specified
+Risk Category: not specified
+Notes: not specified"
+chap_18.csv,CPCB Regulatory Standards,CPCB,18,COAL MINES,3,Coal Mining,,DIRECT,statutory effluent discharge standard for ph,REQ-CM-EFF-029,effluent limit,ph,Effluent discharge pH must be within 5.5 to 9.0,Effluent discharge into sewer / stream / land,,5.5,9.0,,ph,>= and <=,discharge point into sewer / stream / land,comply with effluent discharge limits,Mine Management,effluent,not specified,Discharge standard into sewer/stream/land.,"Chapter Title: COAL MINES
+Requirement Type: effluent limit
+Parameter: ph
+Requirement: Effluent discharge pH must be within 5.5 to 9.0
+Applicability: Effluent discharge into sewer / stream / land
+Limit Min: 5.5
+Limit Max: 9.0
+Unit: ph
+Comparison Operator: >= and <=
+Monitoring Location: discharge point into sewer / stream / land
+Required Action: comply with effluent discharge limits
+Responsible Entity: Mine Management
+Compliance Category: effluent
+Risk Category: not specified
+Notes: Discharge standard into sewer/stream/land."
+chap_18.csv,CPCB Regulatory Standards,CPCB,18,COAL MINES,3,Coal Mining,,DIRECT,statutory effluent discharge standard for total suspended solids,REQ-CM-EFF-030,effluent limit,total suspended solids,Effluent discharge TSS shall not exceed 100 mg / l for discharge into sewer / stream / land,Effluent discharge into sewer / stream / land,,0.0,100.0,100.0,mg/l,<=,discharge point into sewer / stream / land,comply with effluent discharge limits,Mine Management,effluent,not specified,General discharge into sewer/stream/land.,"Chapter Title: COAL MINES
+Requirement Type: effluent limit
+Parameter: total suspended solids
+Requirement: Effluent discharge TSS shall not exceed 100 mg / l for discharge into sewer / stream / land
+Applicability: Effluent discharge into sewer / stream / land
+Limit Min: 0.0
+Limit Max: 100.0
+Limit Value: 100.0
+Unit: mg/l
+Comparison Operator: <=
+Monitoring Location: discharge point into sewer / stream / land
+Required Action: comply with effluent discharge limits
+Responsible Entity: Mine Management
+Compliance Category: effluent
+Risk Category: not specified
+Notes: General discharge into sewer/stream/land."
+chap_18.csv,CPCB Regulatory Standards,CPCB,18,COAL MINES,3,Coal Mining,,DIRECT,statutory effluent discharge standard for total suspended solids when used for land irrigation,REQ-CM-EFF-031,effluent limit,total suspended solids (land for irrigation),Effluent discharge TSS shall not exceed 200 mg / l when discharged onto land for irrigation,Effluent discharge on land for irrigation,,0.0,200.0,200.0,mg/l,<=,discharge point to land for irrigation,comply with effluent discharge limits,Mine Management,effluent,not specified,Specific standard for Land for irrigation.,"Chapter Title: COAL MINES
+Requirement Type: effluent limit
+Parameter: total suspended solids (land for irrigation)
+Requirement: Effluent discharge TSS shall not exceed 200 mg / l when discharged onto land for irrigation
+Applicability: Effluent discharge on land for irrigation
+Limit Min: 0.0
+Limit Max: 200.0
+Limit Value: 200.0
+Unit: mg/l
+Comparison Operator: <=
+Monitoring Location: discharge point to land for irrigation
+Required Action: comply with effluent discharge limits
+Responsible Entity: Mine Management
+Compliance Category: effluent
+Risk Category: not specified
+Notes: Specific standard for Land for irrigation."
+chap_18.csv,CPCB Regulatory Standards,CPCB,18,COAL MINES,3,Coal Mining,,DIRECT,statutory effluent discharge standard for oil & grease,REQ-CM-EFF-032,effluent limit,oil and grease,Effluent discharge Oil & Grease shall not exceed 10 mg / l,Effluent discharge into sewer / stream / land,,0.0,10.0,10.0,mg/l,<=,discharge point into sewer / stream / land,comply with effluent discharge limits,Mine Management,effluent,not specified,Discharge standard into sewer/stream/land.,"Chapter Title: COAL MINES
+Requirement Type: effluent limit
+Parameter: oil and grease
+Requirement: Effluent discharge Oil & Grease shall not exceed 10 mg / l
+Applicability: Effluent discharge into sewer / stream / land
+Limit Min: 0.0
+Limit Max: 10.0
+Limit Value: 10.0
+Unit: mg/l
+Comparison Operator: <=
+Monitoring Location: discharge point into sewer / stream / land
+Required Action: comply with effluent discharge limits
+Responsible Entity: Mine Management
+Compliance Category: effluent
+Risk Category: not specified
+Notes: Discharge standard into sewer/stream/land."
+chap_18.csv,CPCB Regulatory Standards,CPCB,18,COAL MINES,3,Coal Mining,,DIRECT,statutory effluent discharge standard for nitrate nitrogen,REQ-CM-EFF-033,effluent limit,nitrate nitrogen,Effluent discharge Nitrate Nitrogen shall not exceed 10 mg / l,Effluent discharge into sewer / stream / land,,0.0,10.0,10.0,mg/l,<=,discharge point into sewer / stream / land,comply with effluent discharge limits,Mine Management,effluent,not specified,Discharge standard into sewer/stream/land.,"Chapter Title: COAL MINES
+Requirement Type: effluent limit
+Parameter: nitrate nitrogen
+Requirement: Effluent discharge Nitrate Nitrogen shall not exceed 10 mg / l
+Applicability: Effluent discharge into sewer / stream / land
+Limit Min: 0.0
+Limit Max: 10.0
+Limit Value: 10.0
+Unit: mg/l
+Comparison Operator: <=
+Monitoring Location: discharge point into sewer / stream / land
+Required Action: comply with effluent discharge limits
+Responsible Entity: Mine Management
+Compliance Category: effluent
+Risk Category: not specified
+Notes: Discharge standard into sewer/stream/land."
+chap_18.csv,CPCB Regulatory Standards,CPCB,18,COAL MINES,3,Coal Mining,,DIRECT,day time ambient noise level limit,REQ-CM-NOISE-034,noise limit,noise level (day time),Noise level shall not exceed 75 dB(A) Leq between 6.00 AM to 9.00 PM,Coal mine area,,0.0,75.0,75.0,db(a) leq,<=,not specified,,,mine management,noise,not specified,"Chapter Title: COAL MINES
+Requirement Type: noise limit
+Parameter: noise level (day time)
+Requirement: Noise level shall not exceed 75 dB(A) Leq between 6.00 AM to 9.00 PM
+Applicability: Coal mine area
+Limit Min: 0.0
+Limit Max: 75.0
+Limit Value: 75.0
+Unit: db(a) leq
+Comparison Operator: <=
+Monitoring Location: not specified
+Compliance Category: mine management
+Risk Category: noise
+Notes: not specified"
+chap_18.csv,CPCB Regulatory Standards,CPCB,18,COAL MINES,3,Coal Mining,,DIRECT,night time ambient noise level limit,REQ-CM-NOISE-035,noise limit,noise level (night time),Noise level shall not exceed 70 dB(A) Leq between 9.00 PM to 6.00 AM,Coal mine area,,0.0,70.0,70.0,db(a) leq,<=,not specified,,,mine management,noise,not specified,"Chapter Title: COAL MINES
+Requirement Type: noise limit
+Parameter: noise level (night time)
+Requirement: Noise level shall not exceed 70 dB(A) Leq between 9.00 PM to 6.00 AM
+Applicability: Coal mine area
+Limit Min: 0.0
+Limit Max: 70.0
+Limit Value: 70.0
+Unit: db(a) leq
+Comparison Operator: <=
+Monitoring Location: not specified
+Compliance Category: mine management
+Risk Category: noise
+Notes: not specified"
+chap_18.csv,CPCB Regulatory Standards,CPCB,18,COAL MINES,3,Coal Mining,,DIRECT,mandatory compliance with dgms occupational noise exposure standards,REQ-CM-NOISE-036,statutory requirement,occupational exposure limit of noise,Occupational exposure limit of noise prescribed by the Director General Mines & Safety (DGMS) shall be complied with,Coal mine workers / occupational areas,,,,,leq db(a),<=,occupational / work environment,comply with dgms occupational exposure limits,Mine Management / DGMS,safety,not specified,Cross-regulatory compliance requirement referencing DGMS.,"Chapter Title: COAL MINES
+Requirement Type: statutory requirement
+Parameter: occupational exposure limit of noise
+Requirement: Occupational exposure limit of noise prescribed by the Director General Mines & Safety (DGMS) shall be complied with
+Applicability: Coal mine workers / occupational areas
+Unit: leq db(a)
+Comparison Operator: <=
+Monitoring Location: occupational / work environment
+Required Action: comply with dgms occupational exposure limits
+Responsible Entity: Mine Management / DGMS
+Compliance Category: safety
+Risk Category: not specified
+Notes: Cross-regulatory compliance requirement referencing DGMS."
+chap_19.csv,"EPA, 1986 [GSR 7, dated December 27, 1998]",CPCB,19.0,COAL WASHERIES,1,Coal Washeries,,DIRECT,directly regulates fugitive emissions from coal crushing plants in coal washeries,REQ-CW-AIR-001,emission limit,suspended particulate matter (fugitive emission delta δ),The difference in the value of suspended particulate matter delta (Δ) measured between 25 and 30 metre from the enclosure of coal crushing plant in downward and leeward wind direction shall not exceed 150 microgram per cubic meter,Coal Washery coal crushing plant,,,150.0,150.0,µg/m3,<=,between 25 and 30 metre from enclosure of coal crushing plant in downward and leeward wind direction,maintain dust control measures at coal crushing plant,Washery Management,emission,not specified,"Source: EPA, 1986 [GSR 7, dated December 27, 1998]","Chapter Title: COAL WASHERIES
+Requirement Type: emission limit
+Parameter: suspended particulate matter (fugitive emission delta δ)
+Requirement: The difference in the value of suspended particulate matter delta (Δ) measured between 25 and 30 metre from the enclosure of coal crushing plant in downward and leeward wind direction shall not exceed 150 microgram per cubic meter
+Applicability: Coal Washery coal crushing plant
+Limit Max: 150.0
+Limit Value: 150.0
+Unit: µg/m3
+Comparison Operator: <=
+Monitoring Location: between 25 and 30 metre from enclosure of coal crushing plant in downward and leeward wind direction
+Required Action: maintain dust control measures at coal crushing plant
+Responsible Entity: Washery Management
+Compliance Category: emission
+Risk Category: not specified
+Notes: Source: EPA, 1986 [GSR 7, dated December 27, 1998]"
+chap_19.csv,"EPA, 1986 [GSR 7, dated December 27, 1998]",CPCB,19.0,COAL WASHERIES,1,Coal Washeries,,DIRECT,mandatory operational requirement for closedcircuit zero liquid discharge,REQ-CW-EFF-002,operational requirement,zero effluent discharge,The coal washeries shall maintain the close circuit operation with zero effluent discharge,Coal Washeries,normal operation,,,0.0,discharge,=,entire coal washery circuit,maintain close circuit operation with zero effluent discharge,Washery Management,effluent,high,Baseline mandatory operating condition.,"Chapter Title: COAL WASHERIES
+Requirement Type: operational requirement
+Parameter: zero effluent discharge
+Requirement: The coal washeries shall maintain the close circuit operation with zero effluent discharge
+Applicability: Coal Washeries
+Condition: normal operation
+Limit Value: 0.0
+Unit: discharge
+Comparison Operator: =
+Monitoring Location: entire coal washery circuit
+Required Action: maintain close circuit operation with zero effluent discharge
+Responsible Entity: Washery Management
+Compliance Category: effluent
+Risk Category: high
+Notes: Baseline mandatory operating condition."
+chap_19.csv,"EPA, 1986 [GSR 7, dated December 27, 1998]",CPCB,19.0,COAL WASHERIES,1,Coal Washeries,,DIRECT,effluent discharge standard for ph during contingency discharge,REQ-CW-EFF-003,effluent limit,ph,Effluent discharge pH must be within 5.5 to 9.0 at the final outlet,Coal Washery final outlet,"genuine problems like periodic cleaning of the system, heavy rainfall etc. requiring discharge into sewer/land/stream",5.5,9.0,,ph,>= and <=,final outlet of the coal washery,conform to effluent standards prior to discharge,Washery Management,effluent,not specified,Applies when emergency/contingency discharge occurs.,"Chapter Title: COAL WASHERIES
+Requirement Type: effluent limit
+Parameter: ph
+Requirement: Effluent discharge pH must be within 5.5 to 9.0 at the final outlet
+Applicability: Coal Washery final outlet
+Condition: genuine problems like periodic cleaning of the system, heavy rainfall etc. requiring discharge into sewer/land/stream
+Limit Min: 5.5
+Limit Max: 9.0
+Unit: ph
+Comparison Operator: >= and <=
+Monitoring Location: final outlet of the coal washery
+Required Action: conform to effluent standards prior to discharge
+Responsible Entity: Washery Management
+Compliance Category: effluent
+Risk Category: not specified
+Notes: Applies when emergency/contingency discharge occurs."
+chap_19.csv,"EPA, 1986 [GSR 7, dated December 27, 1998]",CPCB,19.0,COAL WASHERIES,1,Coal Washeries,,DIRECT,effluent discharge standard for total suspended solids during contingency discharge,REQ-CW-EFF-004,effluent limit,total suspended solids,Total suspended solids shall not exceed 100 mg / l at the final outlet,Coal Washery final outlet,periodic cleaning of system or heavy rainfall requiring discharge,0.0,100.0,100.0,mg/l,<=,final outlet of the coal washery,conform to effluent standards prior to discharge,Washery Management,effluent,not specified,Applies when emergency/contingency discharge occurs.,"Chapter Title: COAL WASHERIES
+Requirement Type: effluent limit
+Parameter: total suspended solids
+Requirement: Total suspended solids shall not exceed 100 mg / l at the final outlet
+Applicability: Coal Washery final outlet
+Condition: periodic cleaning of system or heavy rainfall requiring discharge
+Limit Min: 0.0
+Limit Max: 100.0
+Limit Value: 100.0
+Unit: mg/l
+Comparison Operator: <=
+Monitoring Location: final outlet of the coal washery
+Required Action: conform to effluent standards prior to discharge
+Responsible Entity: Washery Management
+Compliance Category: effluent
+Risk Category: not specified
+Notes: Applies when emergency/contingency discharge occurs."
+chap_19.csv,"EPA, 1986 [GSR 7, dated December 27, 1998]",CPCB,19.0,COAL WASHERIES,1,Coal Washeries,,DIRECT,effluent discharge standard for oil & grease during contingency discharge,REQ-CW-EFF-005,effluent limit,oil and grease,Oil & grease shall not exceed 10 mg / l at the final outlet,Coal Washery final outlet,periodic cleaning of system or heavy rainfall requiring discharge,0.0,10.0,10.0,mg/l,<=,final outlet of the coal washery,conform to effluent standards prior to discharge,Washery Management,effluent,not specified,Applies when emergency/contingency discharge occurs.,"Chapter Title: COAL WASHERIES
+Requirement Type: effluent limit
+Parameter: oil and grease
+Requirement: Oil & grease shall not exceed 10 mg / l at the final outlet
+Applicability: Coal Washery final outlet
+Condition: periodic cleaning of system or heavy rainfall requiring discharge
+Limit Min: 0.0
+Limit Max: 10.0
+Limit Value: 10.0
+Unit: mg/l
+Comparison Operator: <=
+Monitoring Location: final outlet of the coal washery
+Required Action: conform to effluent standards prior to discharge
+Responsible Entity: Washery Management
+Compliance Category: effluent
+Risk Category: not specified
+Notes: Applies when emergency/contingency discharge occurs."
+chap_19.csv,"EPA, 1986 [GSR 7, dated December 27, 1998]",CPCB,19.0,COAL WASHERIES,1,Coal Washeries,,DIRECT,effluent discharge standard for bod during contingency discharge,REQ-CW-EFF-006,effluent limit,"b.o.d. (3 days, 27° c)",B.O.D. (3 days at 27°C) shall not exceed 30 mg / l at the final outlet,Coal Washery final outlet,periodic cleaning of system or heavy rainfall requiring discharge,0.0,30.0,30.0,mg/l,<=,final outlet of the coal washery,conform to effluent standards prior to discharge,Washery Management,effluent,not specified,Applies when emergency/contingency discharge occurs.,"Chapter Title: COAL WASHERIES
+Requirement Type: effluent limit
+Parameter: b.o.d. (3 days, 27° c)
+Requirement: B.O.D. (3 days at 27°C) shall not exceed 30 mg / l at the final outlet
+Applicability: Coal Washery final outlet
+Condition: periodic cleaning of system or heavy rainfall requiring discharge
+Limit Min: 0.0
+Limit Max: 30.0
+Limit Value: 30.0
+Unit: mg/l
+Comparison Operator: <=
+Monitoring Location: final outlet of the coal washery
+Required Action: conform to effluent standards prior to discharge
+Responsible Entity: Washery Management
+Compliance Category: effluent
+Risk Category: not specified
+Notes: Applies when emergency/contingency discharge occurs."
+chap_19.csv,"EPA, 1986 [GSR 7, dated December 27, 1998]",CPCB,19.0,COAL WASHERIES,1,Coal Washeries,,DIRECT,effluent discharge standard for cod during contingency discharge,REQ-CW-EFF-007,effluent limit,cod,COD shall not exceed 250 mg / l at the final outlet,Coal Washery final outlet,periodic cleaning of system or heavy rainfall requiring discharge,0.0,250.0,250.0,mg/l,<=,final outlet of the coal washery,conform to effluent standards prior to discharge,Washery Management,effluent,not specified,Applies when emergency/contingency discharge occurs.,"Chapter Title: COAL WASHERIES
+Requirement Type: effluent limit
+Parameter: cod
+Requirement: COD shall not exceed 250 mg / l at the final outlet
+Applicability: Coal Washery final outlet
+Condition: periodic cleaning of system or heavy rainfall requiring discharge
+Limit Min: 0.0
+Limit Max: 250.0
+Limit Value: 250.0
+Unit: mg/l
+Comparison Operator: <=
+Monitoring Location: final outlet of the coal washery
+Required Action: conform to effluent standards prior to discharge
+Responsible Entity: Washery Management
+Compliance Category: effluent
+Risk Category: not specified
+Notes: Applies when emergency/contingency discharge occurs."
+chap_19.csv,"EPA, 1986 [GSR 7, dated December 27, 1998]",CPCB,19.0,COAL WASHERIES,1,Coal Washeries,,DIRECT,effluent discharge standard for phenolics during contingency discharge,REQ-CW-EFF-008,effluent limit,phenolics,Phenolics shall not exceed 1.0 mg / l at the final outlet,Coal Washery final outlet,periodic cleaning of system or heavy rainfall requiring discharge,0.0,1.0,1.0,mg/l,<=,final outlet of the coal washery,conform to effluent standards prior to discharge,Washery Management,effluent,not specified,Applies when emergency/contingency discharge occurs.,"Chapter Title: COAL WASHERIES
+Requirement Type: effluent limit
+Parameter: phenolics
+Requirement: Phenolics shall not exceed 1.0 mg / l at the final outlet
+Applicability: Coal Washery final outlet
+Condition: periodic cleaning of system or heavy rainfall requiring discharge
+Limit Min: 0.0
+Limit Max: 1.0
+Limit Value: 1.0
+Unit: mg/l
+Comparison Operator: <=
+Monitoring Location: final outlet of the coal washery
+Required Action: conform to effluent standards prior to discharge
+Responsible Entity: Washery Management
+Compliance Category: effluent
+Risk Category: not specified
+Notes: Applies when emergency/contingency discharge occurs."
+chap_19.csv,"EPA, 1986 [GSR 7, dated December 27, 1998]",CPCB,19.0,COAL WASHERIES,1,Coal Washeries,,DIRECT,occupational noise exposure limit for coal washery operational zone,REQ-CW-NOISE-009,noise limit,noise level (operational / working zone),Operational / Working zone noise level not to exceed 85 dB(A) Leq for 8 hours exposure,Coal Washery operational / working zone,,0.0,85.0,85.0,db(a) leq,<=,operational / working zone of coal washery,comply with occupational noise limits,Washery Management,noise,not specified,not specified,"Chapter Title: COAL WASHERIES
+Requirement Type: noise limit
+Parameter: noise level (operational / working zone)
+Requirement: Operational / Working zone noise level not to exceed 85 dB(A) Leq for 8 hours exposure
+Applicability: Coal Washery operational / working zone
+Limit Min: 0.0
+Limit Max: 85.0
+Limit Value: 85.0
+Unit: db(a) leq
+Comparison Operator: <=
+Monitoring Location: operational / working zone of coal washery
+Required Action: comply with occupational noise limits
+Responsible Entity: Washery Management
+Compliance Category: noise
+Risk Category: not specified
+Notes: not specified"
+chap_19.csv,"EPA, 1986 [GSR 7, dated December 27, 1998]",CPCB,19.0,COAL WASHERIES,1,Coal Washeries,,DIRECT,ambient noise quality standard compliance at boundary line,REQ-CW-NOISE-010,noise limit,ambient noise level (boundary line),"The ambient air quality standards in respect of noise as notified under Environmental (Protection) Rules, 1986 shall be followed at the boundary line of the coal washery",Coal Washery boundary line,,,,,db(a) leq,<=,boundary line of the coal washery,follow noise standards as notified under ep rules 1986,Washery Management,noise,not specified,"Cross references Environmental (Protection) Rules, 1986 ambient noise limits.","Chapter Title: COAL WASHERIES
+Requirement Type: noise limit
+Parameter: ambient noise level (boundary line)
+Requirement: The ambient air quality standards in respect of noise as notified under Environmental (Protection) Rules, 1986 shall be followed at the boundary line of the coal washery
+Applicability: Coal Washery boundary line
+Unit: db(a) leq
+Comparison Operator: <=
+Monitoring Location: boundary line of the coal washery
+Required Action: follow noise standards as notified under ep rules 1986
+Responsible Entity: Washery Management
+Compliance Category: noise
+Risk Category: not specified
+Notes: Cross references Environmental (Protection) Rules, 1986 ambient noise limits."
+chap_19.csv,"EPA, 1986 [GSR 7, dated December 27, 1998]",CPCB,19.0,COAL WASHERIES,1,Coal Washeries,,DIRECT,mandatory dust suppression and enclosures at transfer points,REQ-CW-COP-011,operational requirement,dust suppression and enclosure at transfer points,"Water or Water mixed chemical shall be sprayed at all strategic coal transfer points such as conveyors, loading unloading points etc. As far as practically possible conveyors, transfer points etc. shall be provided with enclosures","Conveyors, loading/unloading points, and strategic transfer points",,,,,not specified,unknown,"conveyors, loading/unloading points, and strategic transfer points",spray water or water mixed chemical and provide enclosures where practically possible,Washery Management,operational,not specified,not specified,"Chapter Title: COAL WASHERIES
+Requirement Type: operational requirement
+Parameter: dust suppression and enclosure at transfer points
+Requirement: Water or Water mixed chemical shall be sprayed at all strategic coal transfer points such as conveyors, loading unloading points etc. As far as practically possible conveyors, transfer points etc. shall be provided with enclosures
+Applicability: Conveyors, loading/unloading points, and strategic transfer points
+Unit: not specified
+Comparison Operator: unknown
+Monitoring Location: conveyors, loading/unloading points, and strategic transfer points
+Required Action: spray water or water mixed chemical and provide enclosures where practically possible
+Responsible Entity: Washery Management
+Compliance Category: operational
+Risk Category: not specified
+Notes: not specified"
+chap_19.csv,"EPA, 1986 [GSR 7, dated December 27, 1998]",CPCB,19.0,COAL WASHERIES,1,Coal Washeries,,DIRECT,stack height and particulate emission standard for crusherspulverisers,REQ-CW-COP-012,emission limit,particulate matter (stack emission / crusher),"The crushers / pulverisers of coal washeries shall be provided with enclosures, fitted with suitable APCD, emitted through stack of min height 30 m, conforming particulate emission standard of 150 mg / Nm3 or provided with adequate water sprinkling arrangement",Crushers and pulverisers in coal washery,,0.0,150.0,150.0,mg/nm3,<=,stack of crushers/pulverisers (minimum height 30 m),"provide enclosures, apcd, 30 m minimum stack height, conform to 150 mg/nm3 limit or provide adequate water sprinkling arrangement",Washery Management,emission,high,Crusher/pulveriser stack minimum height: 30 m.,"Chapter Title: COAL WASHERIES
+Requirement Type: emission limit
+Parameter: particulate matter (stack emission / crusher)
+Requirement: The crushers / pulverisers of coal washeries shall be provided with enclosures, fitted with suitable APCD, emitted through stack of min height 30 m, conforming particulate emission standard of 150 mg / Nm3 or provided with adequate water sprinkling arrangement
+Applicability: Crushers and pulverisers in coal washery
+Limit Min: 0.0
+Limit Max: 150.0
+Limit Value: 150.0
+Unit: mg/nm3
+Comparison Operator: <=
+Monitoring Location: stack of crushers/pulverisers (minimum height 30 m)
+Required Action: provide enclosures, apcd, 30 m minimum stack height, conform to 150 mg/nm3 limit or provide adequate water sprinkling arrangement
+Responsible Entity: Washery Management
+Compliance Category: emission
+Risk Category: high
+Notes: Crusher/pulveriser stack minimum height: 30 m."
+chap_19.csv,"EPA, 1986 [GSR 7, dated December 27, 1998]",CPCB,19.0,COAL WASHERIES,2,Coal Washeries,,DIRECT,fine atomizer nozzle water sprinkling requirement for heaps and crushing area,REQ-CW-COP-013,environmental management,water sprinkling with fine atomizer nozzles,Water sprinkling by using fine atomizer nozzeles arrangement shall be provided on the coal heaps and on land around the crushers / pulverisers,Coal heaps and land around crushers/pulverisers,,,,,not specified,unknown,coal heaps and land around crushers/pulverisers,install and operate fine atomizer nozzles arrangement for water sprinkling,Washery Management,environment,not specified,not specified,"Chapter Title: COAL WASHERIES
+Requirement Type: environmental management
+Parameter: water sprinkling with fine atomizer nozzles
+Requirement: Water sprinkling by using fine atomizer nozzeles arrangement shall be provided on the coal heaps and on land around the crushers / pulverisers
+Applicability: Coal heaps and land around crushers/pulverisers
+Unit: not specified
+Comparison Operator: unknown
+Monitoring Location: coal heaps and land around crushers/pulverisers
+Required Action: install and operate fine atomizer nozzles arrangement for water sprinkling
+Responsible Entity: Washery Management
+Compliance Category: environment
+Risk Category: not specified
+Notes: not specified"
+chap_19.csv,"EPA, 1986 [GSR 7, dated December 27, 1998]",CPCB,19.0,COAL WASHERIES,2,Coal Washeries,,DIRECT,paving requirement in and around coal washery,REQ-CW-COP-014,operational requirement,pucca / paved surface requirement,"Area, in and around the coal washery shall be pucca either asphalted or concreted",Area in and around coal washery,,,,,not specified,unknown,area in and around coal washery,pave surfaces with either asphalt or concrete,Washery Management,operational,not specified,not specified,"Chapter Title: COAL WASHERIES
+Requirement Type: operational requirement
+Parameter: pucca / paved surface requirement
+Requirement: Area, in and around the coal washery shall be pucca either asphalted or concreted
+Applicability: Area in and around coal washery
+Unit: not specified
+Comparison Operator: unknown
+Monitoring Location: area in and around coal washery
+Required Action: pave surfaces with either asphalt or concrete
+Responsible Entity: Washery Management
+Compliance Category: operational
+Risk Category: not specified
+Notes: not specified"
+chap_19.csv,"EPA, 1986 [GSR 7, dated December 27, 1998]",CPCB,19.0,COAL WASHERIES,2,Coal Washeries,,DIRECT,specific water consumption limit per tonne of coal processed,REQ-CW-COP-015,numerical standard,water consumption,Water consumption in the coal washery shall not exceed 1.5 cubic meter per tonne of coal,Coal Washery operations,,0.0,1.5,1.5,m3/tonne of coal,<=,entire coal washery,monitor and maintain specific water consumption within 1.5 m3/tonne,Washery Management,operational,medium,not specified,"Chapter Title: COAL WASHERIES
+Requirement Type: numerical standard
+Parameter: water consumption
+Requirement: Water consumption in the coal washery shall not exceed 1.5 cubic meter per tonne of coal
+Applicability: Coal Washery operations
+Limit Min: 0.0
+Limit Max: 1.5
+Limit Value: 1.5
+Unit: m3/tonne of coal
+Comparison Operator: <=
+Monitoring Location: entire coal washery
+Required Action: monitor and maintain specific water consumption within 1.5 m3/tonne
+Responsible Entity: Washery Management
+Compliance Category: operational
+Risk Category: medium
+Notes: not specified"
+chap_19.csv,"EPA, 1986 [GSR 7, dated December 27, 1998]",CPCB,19.0,COAL WASHERIES,2,Coal Washeries,,DIRECT,minimum efficiency threshold for wastewater settling ponds,REQ-CW-COP-016,numerical standard,settling pond efficiency,The efficiency of the settling ponds of the waste water treatment system of the coal washery shall not be less than 90%,Waste water treatment system settling ponds,,90.0,100.0,90.0,%,>=,settling ponds of wastewater treatment system,maintain wastewater settling ponds efficiency at >= 90%,Washery Management,water,high,not specified,"Chapter Title: COAL WASHERIES
+Requirement Type: numerical standard
+Parameter: settling pond efficiency
+Requirement: The efficiency of the settling ponds of the waste water treatment system of the coal washery shall not be less than 90%
+Applicability: Waste water treatment system settling ponds
+Limit Min: 90.0
+Limit Max: 100.0
+Limit Value: 90.0
+Unit: %
+Comparison Operator: >=
+Monitoring Location: settling ponds of wastewater treatment system
+Required Action: maintain wastewater settling ponds efficiency at >= 90%
+Responsible Entity: Washery Management
+Compliance Category: water
+Risk Category: high
+Notes: not specified"
+chap_19.csv,"EPA, 1986 [GSR 7, dated December 27, 1998]",CPCB,19.0,COAL WASHERIES,2,Coal Washeries,,DIRECT,mandatory green belt development around washery boundary and infrastructure,REQ-CW-COP-017,environmental management,green belt development,"Green belt shall be developed along the road side, coal handling plants, residential complex, office builing an all around the boundary line of the coal washery","Road sides, coal handling plants, residential complex, office building, boundary line",,,,,not specified,unknown,"roadside, chp, residential complex, office building, boundary line",develop and maintain green belt vegetation,Washery Management,environment,not specified,not specified,"Chapter Title: COAL WASHERIES
+Requirement Type: environmental management
+Parameter: green belt development
+Requirement: Green belt shall be developed along the road side, coal handling plants, residential complex, office builing an all around the boundary line of the coal washery
+Applicability: Road sides, coal handling plants, residential complex, office building, boundary line
+Unit: not specified
+Comparison Operator: unknown
+Monitoring Location: roadside, chp, residential complex, office building, boundary line
+Required Action: develop and maintain green belt vegetation
+Responsible Entity: Washery Management
+Compliance Category: environment
+Risk Category: not specified
+Notes: not specified"
+chap_19.csv,"EPA, 1986 [GSR 7, dated December 27, 1998]",CPCB,19.0,COAL WASHERIES,2,Coal Washeries,,DIRECT,noise and abrasion reduction via rubber linings in material handling equipment,REQ-CW-COP-018,operational requirement,rubber lining for storage bunkers and chutes,"Storage bunkers, hoppers, rubber decks in chutes and centrifugal chutes shall be provided with proper rubber linings","Storage bunkers, hoppers, chutes, centrifugal chutes",,,,,not specified,unknown,"storage bunkers, hoppers, chutes, centrifugal chutes",install proper rubber linings,Washery Management,operational,not specified,not specified,"Chapter Title: COAL WASHERIES
+Requirement Type: operational requirement
+Parameter: rubber lining for storage bunkers and chutes
+Requirement: Storage bunkers, hoppers, rubber decks in chutes and centrifugal chutes shall be provided with proper rubber linings
+Applicability: Storage bunkers, hoppers, chutes, centrifugal chutes
+Unit: not specified
+Comparison Operator: unknown
+Monitoring Location: storage bunkers, hoppers, chutes, centrifugal chutes
+Required Action: install proper rubber linings
+Responsible Entity: Washery Management
+Compliance Category: operational
+Risk Category: not specified
+Notes: not specified"
+chap_19.csv,"EPA, 1986 [GSR 7, dated December 27, 1998]",CPCB,19.0,COAL WASHERIES,2,Coal Washeries,,DIRECT,traffic management in washery area,REQ-CW-COP-019,operational requirement,vehicles movement regulation,Vehicles movement in the coal washery area shall be regulated effectively to avoid traffic congestion,Coal washery internal roads and transport area,,,,,not specified,unknown,coal washery transport routes,regulate vehicular movement to prevent congestion,Washery Management,operational,not specified,not specified,"Chapter Title: COAL WASHERIES
+Requirement Type: operational requirement
+Parameter: vehicles movement regulation
+Requirement: Vehicles movement in the coal washery area shall be regulated effectively to avoid traffic congestion
+Applicability: Coal washery internal roads and transport area
+Unit: not specified
+Comparison Operator: unknown
+Monitoring Location: coal washery transport routes
+Required Action: regulate vehicular movement to prevent congestion
+Responsible Entity: Washery Management
+Compliance Category: operational
+Risk Category: not specified
+Notes: not specified"
+chap_19.csv,"EPA, 1986 [GSR 7, dated December 27, 1998]",CPCB,19.0,COAL WASHERIES,2,Coal Washeries,,DIRECT,prohibition of high pressure horns,REQ-CW-COP-020,prohibition,high pressure horn,High pressure horn shall be prohibited,All vehicles operating in coal washery area,,,,,not specified,prohibited,entire coal washery area,enforce strict prohibition on high pressure horn use,Washery Management / Transport Operators,noise,medium,not specified,"Chapter Title: COAL WASHERIES
+Requirement Type: prohibition
+Parameter: high pressure horn
+Requirement: High pressure horn shall be prohibited
+Applicability: All vehicles operating in coal washery area
+Unit: not specified
+Comparison Operator: prohibited
+Monitoring Location: entire coal washery area
+Required Action: enforce strict prohibition on high pressure horn use
+Responsible Entity: Washery Management / Transport Operators
+Compliance Category: noise
+Risk Category: medium
+Notes: not specified"
+chap_19.csv,"EPA, 1986 [GSR 7, dated December 27, 1998]",CPCB,19.0,COAL WASHERIES,2,Coal Washeries,,DIRECT,mandatory vehicle smoke emission compliance with motor vehicle rules 1989,REQ-CW-COP-021,emission limit,vehicle smoke emission,Smoke emission from heavy duty vehicle operating in the coal washeries should conform the standards prescribed under Motor Vehicle Rules 1989,Heavy duty vehicles operating in coal washeries,,,,,not specified,<=,heavy duty vehicles / exhaust,ensure heavy duty vehicles comply with motor vehicle rules 1989 standards,Vehicle Owners / Washery Management,emission,medium,Statutory cross-reference: Motor Vehicle Rules 1989.,"Chapter Title: COAL WASHERIES
+Requirement Type: emission limit
+Parameter: vehicle smoke emission
+Requirement: Smoke emission from heavy duty vehicle operating in the coal washeries should conform the standards prescribed under Motor Vehicle Rules 1989
+Applicability: Heavy duty vehicles operating in coal washeries
+Unit: not specified
+Comparison Operator: <=
+Monitoring Location: heavy duty vehicles / exhaust
+Required Action: ensure heavy duty vehicles comply with motor vehicle rules 1989 standards
+Responsible Entity: Vehicle Owners / Washery Management
+Compliance Category: emission
+Risk Category: medium
+Notes: Statutory cross-reference: Motor Vehicle Rules 1989."
+chap_22.csv,Emission Regulations Part IV:COINDS/26/1986-87,CPCB,22.0,DIESEL GENERATOR SETS : STACK HEIGHT,19,General / DG Sets,stack height,INDIRECT,coal mines utilize diesel generator sets for backup power and must comply with these stack height regulations for proper air dispersion,REQ-DG-STK-001,operational requirement,minimum stack height (formula),The minimum height of stack to be provided with each generator set can be worked out using the formula: H = h + 0.2 x sqrt(KVA),All Generator Sets,,,,h + 0.2 * sqrt(kva),metre,>=,dg set stack,provide minimum stack height per formula,Mine Management,emission,not specified,H = Total height of stack in metre; h = Height of the building in metres where the generator set is installed; KVA = Total generator capacity of the set in KVA.,"Chapter Title: DIESEL GENERATOR SETS : STACK HEIGHT
+Requirement Type: operational requirement
+Parameter: minimum stack height (formula)
+Requirement: The minimum height of stack to be provided with each generator set can be worked out using the formula: H = h + 0.2 x sqrt(KVA)
+Applicability: All Generator Sets
+Limit Value: h + 0.2 * sqrt(kva)
+Unit: metre
+Comparison Operator: >=
+Monitoring Location: dg set stack
+Required Action: provide minimum stack height per formula
+Responsible Entity: Mine Management
+Compliance Category: emission
+Risk Category: not specified
+Notes: H = Total height of stack in metre; h = Height of the building in metres where the generator set is installed; KVA = Total generator capacity of the set in KVA."
+chap_22.csv,Emission Regulations Part IV:COINDS/26/1986-87,CPCB,22.0,DIESEL GENERATOR SETS : STACK HEIGHT,19,General / DG Sets,stack height,INDIRECT,coal mines utilize diesel generator sets for backup power and must comply with these stack height regulations for proper air dispersion,REQ-DG-STK-002,operational requirement,minimum stack height (50 kva),Minimum stack height to be provided is Height of the building + 1.5 metre,Generator Sets 50 KVA,,h + 1.5,,h + 1.5,metre,>=,dg set stack,provide minimum stack height,Mine Management,emission,not specified,h = Height of the building in metres where the generator set is installed,"Chapter Title: DIESEL GENERATOR SETS : STACK HEIGHT
+Requirement Type: operational requirement
+Parameter: minimum stack height (50 kva)
+Requirement: Minimum stack height to be provided is Height of the building + 1.5 metre
+Applicability: Generator Sets 50 KVA
+Limit Min: h + 1.5
+Limit Value: h + 1.5
+Unit: metre
+Comparison Operator: >=
+Monitoring Location: dg set stack
+Required Action: provide minimum stack height
+Responsible Entity: Mine Management
+Compliance Category: emission
+Risk Category: not specified
+Notes: h = Height of the building in metres where the generator set is installed"
+chap_22.csv,Emission Regulations Part IV:COINDS/26/1986-87,CPCB,22.0,DIESEL GENERATOR SETS : STACK HEIGHT,19,General / DG Sets,stack height,INDIRECT,coal mines utilize diesel generator sets for backup power and must comply with these stack height regulations for proper air dispersion,REQ-DG-STK-003,operational requirement,minimum stack height (50-100 kva),Minimum stack height to be provided is Height of the building + 2.0 metre,Generator Sets 50-100 KVA,,h + 2.0,,h + 2.0,metre,>=,dg set stack,provide minimum stack height,Mine Management,emission,not specified,h = Height of the building in metres where the generator set is installed,"Chapter Title: DIESEL GENERATOR SETS : STACK HEIGHT
+Requirement Type: operational requirement
+Parameter: minimum stack height (50-100 kva)
+Requirement: Minimum stack height to be provided is Height of the building + 2.0 metre
+Applicability: Generator Sets 50-100 KVA
+Limit Min: h + 2.0
+Limit Value: h + 2.0
+Unit: metre
+Comparison Operator: >=
+Monitoring Location: dg set stack
+Required Action: provide minimum stack height
+Responsible Entity: Mine Management
+Compliance Category: emission
+Risk Category: not specified
+Notes: h = Height of the building in metres where the generator set is installed"
+chap_22.csv,Emission Regulations Part IV:COINDS/26/1986-87,CPCB,22.0,DIESEL GENERATOR SETS : STACK HEIGHT,19,General / DG Sets,stack height,INDIRECT,coal mines utilize diesel generator sets for backup power and must comply with these stack height regulations for proper air dispersion,REQ-DG-STK-004,operational requirement,minimum stack height (100-150 kva),Minimum stack height to be provided is Height of the building + 2.5 metre,Generator Sets 100-150 KVA,,h + 2.5,,h + 2.5,metre,>=,dg set stack,provide minimum stack height,Mine Management,emission,not specified,h = Height of the building in metres where the generator set is installed,"Chapter Title: DIESEL GENERATOR SETS : STACK HEIGHT
+Requirement Type: operational requirement
+Parameter: minimum stack height (100-150 kva)
+Requirement: Minimum stack height to be provided is Height of the building + 2.5 metre
+Applicability: Generator Sets 100-150 KVA
+Limit Min: h + 2.5
+Limit Value: h + 2.5
+Unit: metre
+Comparison Operator: >=
+Monitoring Location: dg set stack
+Required Action: provide minimum stack height
+Responsible Entity: Mine Management
+Compliance Category: emission
+Risk Category: not specified
+Notes: h = Height of the building in metres where the generator set is installed"
+chap_22.csv,Emission Regulations Part IV:COINDS/26/1986-87,CPCB,22.0,DIESEL GENERATOR SETS : STACK HEIGHT,19,General / DG Sets,stack height,INDIRECT,coal mines utilize diesel generator sets for backup power and must comply with these stack height regulations for proper air dispersion,REQ-DG-STK-005,operational requirement,minimum stack height (150-200 kva),Minimum stack height to be provided is Height of the building + 3.0 metre,Generator Sets 150-200 KVA,,h + 3.0,,h + 3.0,metre,>=,dg set stack,provide minimum stack height,Mine Management,emission,not specified,h = Height of the building in metres where the generator set is installed,"Chapter Title: DIESEL GENERATOR SETS : STACK HEIGHT
+Requirement Type: operational requirement
+Parameter: minimum stack height (150-200 kva)
+Requirement: Minimum stack height to be provided is Height of the building + 3.0 metre
+Applicability: Generator Sets 150-200 KVA
+Limit Min: h + 3.0
+Limit Value: h + 3.0
+Unit: metre
+Comparison Operator: >=
+Monitoring Location: dg set stack
+Required Action: provide minimum stack height
+Responsible Entity: Mine Management
+Compliance Category: emission
+Risk Category: not specified
+Notes: h = Height of the building in metres where the generator set is installed"
+chap_22.csv,Emission Regulations Part IV:COINDS/26/1986-87,CPCB,22.0,DIESEL GENERATOR SETS : STACK HEIGHT,19,General / DG Sets,stack height,INDIRECT,coal mines utilize diesel generator sets for backup power and must comply with these stack height regulations for proper air dispersion,REQ-DG-STK-006,operational requirement,minimum stack height (200-250 kva),Minimum stack height to be provided is Height of the building + 3.5 metre,Generator Sets 200-250 KVA,,h + 3.5,,h + 3.5,metre,>=,dg set stack,provide minimum stack height,Mine Management,emission,not specified,h = Height of the building in metres where the generator set is installed,"Chapter Title: DIESEL GENERATOR SETS : STACK HEIGHT
+Requirement Type: operational requirement
+Parameter: minimum stack height (200-250 kva)
+Requirement: Minimum stack height to be provided is Height of the building + 3.5 metre
+Applicability: Generator Sets 200-250 KVA
+Limit Min: h + 3.5
+Limit Value: h + 3.5
+Unit: metre
+Comparison Operator: >=
+Monitoring Location: dg set stack
+Required Action: provide minimum stack height
+Responsible Entity: Mine Management
+Compliance Category: emission
+Risk Category: not specified
+Notes: h = Height of the building in metres where the generator set is installed"
+chap_22.csv,Emission Regulations Part IV:COINDS/26/1986-87,CPCB,22.0,DIESEL GENERATOR SETS : STACK HEIGHT,19,General / DG Sets,stack height,INDIRECT,coal mines utilize diesel generator sets for backup power and must comply with these stack height regulations for proper air dispersion,REQ-DG-STK-007,operational requirement,minimum stack height (250-300 kva),Minimum stack height to be provided is Height of the building + 3.5 metre,Generator Sets 250-300 KVA,,h + 3.5,,h + 3.5,metre,>=,dg set stack,provide minimum stack height,Mine Management,emission,not specified,h = Height of the building in metres where the generator set is installed,"Chapter Title: DIESEL GENERATOR SETS : STACK HEIGHT
+Requirement Type: operational requirement
+Parameter: minimum stack height (250-300 kva)
+Requirement: Minimum stack height to be provided is Height of the building + 3.5 metre
+Applicability: Generator Sets 250-300 KVA
+Limit Min: h + 3.5
+Limit Value: h + 3.5
+Unit: metre
+Comparison Operator: >=
+Monitoring Location: dg set stack
+Required Action: provide minimum stack height
+Responsible Entity: Mine Management
+Compliance Category: emission
+Risk Category: not specified
+Notes: h = Height of the building in metres where the generator set is installed"
+chap_32.csv,CPCB General Standards,CPCB,32.0,GENERAL STANDARDS FOR DISCHARGE OF ENVIRONMENTAL POLLUTANTS,1,General,mining,INDIRECT,applicable to mining per annexurei clause 7,REQ-GEN-EFF-001,effluent limit,total suspended solids,Suspended solids shall not exceed 100 mg / l for discharge into inland surface water,Discharge to inland surface water,,0.0,100.0,100.0,mg/l,<=,not specified,,Mine Management,effluent,medium,not specified,"Chapter Title: GENERAL STANDARDS FOR DISCHARGE OF ENVIRONMENTAL POLLUTANTS
+Requirement Type: effluent limit
+Parameter: total suspended solids
+Requirement: Suspended solids shall not exceed 100 mg / l for discharge into inland surface water
+Applicability: Discharge to inland surface water
+Limit Min: 0.0
+Limit Max: 100.0
+Limit Value: 100.0
+Unit: mg/l
+Comparison Operator: <=
+Monitoring Location: not specified
+Responsible Entity: Mine Management
+Compliance Category: effluent
+Risk Category: medium
+Notes: not specified"
+chap_32.csv,CPCB General Standards,CPCB,32.0,GENERAL STANDARDS FOR DISCHARGE OF ENVIRONMENTAL POLLUTANTS,1,General,mining,INDIRECT,applicable to mining per annexurei clause 7,REQ-GEN-EFF-002,effluent limit,total suspended solids,Suspended solids shall not exceed 200 mg / l for discharge onto land for irrigation,Discharge to land for irrigation,,0.0,200.0,200.0,mg/l,<=,not specified,,Mine Management,effluent,medium,not specified,"Chapter Title: GENERAL STANDARDS FOR DISCHARGE OF ENVIRONMENTAL POLLUTANTS
+Requirement Type: effluent limit
+Parameter: total suspended solids
+Requirement: Suspended solids shall not exceed 200 mg / l for discharge onto land for irrigation
+Applicability: Discharge to land for irrigation
+Limit Min: 0.0
+Limit Max: 200.0
+Limit Value: 200.0
+Unit: mg/l
+Comparison Operator: <=
+Monitoring Location: not specified
+Responsible Entity: Mine Management
+Compliance Category: effluent
+Risk Category: medium
+Notes: not specified"
+chap_32.csv,CPCB General Standards,CPCB,32.0,GENERAL STANDARDS FOR DISCHARGE OF ENVIRONMENTAL POLLUTANTS,1,General,mining,INDIRECT,applicable to mining per annexurei clause 7,REQ-GEN-EFF-003,effluent limit,ph,pH value shall be between 5.5 and 9.0,Discharge to inland surface water and land for irrigation,,5.5,9.0,,ph,>= and <=,not specified,,Mine Management,effluent,medium,not specified,"Chapter Title: GENERAL STANDARDS FOR DISCHARGE OF ENVIRONMENTAL POLLUTANTS
+Requirement Type: effluent limit
+Parameter: ph
+Requirement: pH value shall be between 5.5 and 9.0
+Applicability: Discharge to inland surface water and land for irrigation
+Limit Min: 5.5
+Limit Max: 9.0
+Unit: ph
+Comparison Operator: >= and <=
+Monitoring Location: not specified
+Responsible Entity: Mine Management
+Compliance Category: effluent
+Risk Category: medium
+Notes: not specified"
+chap_32.csv,CPCB General Standards,CPCB,32.0,GENERAL STANDARDS FOR DISCHARGE OF ENVIRONMENTAL POLLUTANTS,1,General,mining,INDIRECT,applicable to mining per annexurei clause 7,REQ-GEN-EFF-004,effluent limit,temperature,Temperature shall not exceed 5°C above the receiving water temperature,Discharge to inland surface water,,0.0,5.0,5.0,°c,<=,not specified,,Mine Management,effluent,low,not specified,"Chapter Title: GENERAL STANDARDS FOR DISCHARGE OF ENVIRONMENTAL POLLUTANTS
+Requirement Type: effluent limit
+Parameter: temperature
+Requirement: Temperature shall not exceed 5°C above the receiving water temperature
+Applicability: Discharge to inland surface water
+Limit Min: 0.0
+Limit Max: 5.0
+Limit Value: 5.0
+Unit: °c
+Comparison Operator: <=
+Monitoring Location: not specified
+Responsible Entity: Mine Management
+Compliance Category: effluent
+Risk Category: low
+Notes: not specified"
+chap_32.csv,CPCB General Standards,CPCB,32.0,GENERAL STANDARDS FOR DISCHARGE OF ENVIRONMENTAL POLLUTANTS,1,General,mining,INDIRECT,applicable to mining per annexurei clause 7,REQ-GEN-EFF-005,effluent limit,oil and grease,Oil and grease shall not exceed 10 mg / l,Discharge to inland surface water and land for irrigation,,0.0,10.0,10.0,mg/l,<=,not specified,,Mine Management,effluent,high,not specified,"Chapter Title: GENERAL STANDARDS FOR DISCHARGE OF ENVIRONMENTAL POLLUTANTS
+Requirement Type: effluent limit
+Parameter: oil and grease
+Requirement: Oil and grease shall not exceed 10 mg / l
+Applicability: Discharge to inland surface water and land for irrigation
+Limit Min: 0.0
+Limit Max: 10.0
+Limit Value: 10.0
+Unit: mg/l
+Comparison Operator: <=
+Monitoring Location: not specified
+Responsible Entity: Mine Management
+Compliance Category: effluent
+Risk Category: high
+Notes: not specified"
+chap_32.csv,CPCB General Standards,CPCB,32.0,GENERAL STANDARDS FOR DISCHARGE OF ENVIRONMENTAL POLLUTANTS,1,General,mining,INDIRECT,applicable to mining per annexurei clause 7,REQ-GEN-EFF-006,effluent limit,ammonical nitrogen (as n),Ammonical nitrogen shall not exceed 50 mg / l,Discharge to inland surface water,,0.0,50.0,50.0,mg/l,<=,not specified,,Mine Management,effluent,medium,not specified,"Chapter Title: GENERAL STANDARDS FOR DISCHARGE OF ENVIRONMENTAL POLLUTANTS
+Requirement Type: effluent limit
+Parameter: ammonical nitrogen (as n)
+Requirement: Ammonical nitrogen shall not exceed 50 mg / l
+Applicability: Discharge to inland surface water
+Limit Min: 0.0
+Limit Max: 50.0
+Limit Value: 50.0
+Unit: mg/l
+Comparison Operator: <=
+Monitoring Location: not specified
+Responsible Entity: Mine Management
+Compliance Category: effluent
+Risk Category: medium
+Notes: not specified"
+chap_32.csv,CPCB General Standards,CPCB,32.0,GENERAL STANDARDS FOR DISCHARGE OF ENVIRONMENTAL POLLUTANTS,1,General,mining,INDIRECT,applicable to mining per annexurei clause 7,REQ-GEN-EFF-007,effluent limit,biochemical oxygen demand (3 days at 27°c),BOD shall not exceed 30 mg / l for discharge into inland surface water,Discharge to inland surface water,,0.0,30.0,30.0,mg/l,<=,not specified,,Mine Management,effluent,high,not specified,"Chapter Title: GENERAL STANDARDS FOR DISCHARGE OF ENVIRONMENTAL POLLUTANTS
+Requirement Type: effluent limit
+Parameter: biochemical oxygen demand (3 days at 27°c)
+Requirement: BOD shall not exceed 30 mg / l for discharge into inland surface water
+Applicability: Discharge to inland surface water
+Limit Min: 0.0
+Limit Max: 30.0
+Limit Value: 30.0
+Unit: mg/l
+Comparison Operator: <=
+Monitoring Location: not specified
+Responsible Entity: Mine Management
+Compliance Category: effluent
+Risk Category: high
+Notes: not specified"
+chap_32.csv,CPCB General Standards,CPCB,32.0,GENERAL STANDARDS FOR DISCHARGE OF ENVIRONMENTAL POLLUTANTS,1,General,mining,INDIRECT,applicable to mining per annexurei clause 7,REQ-GEN-EFF-008,effluent limit,biochemical oxygen demand (3 days at 27°c),BOD shall not exceed 100 mg / l for discharge onto land for irrigation,Discharge to land for irrigation,,0.0,100.0,100.0,mg/l,<=,not specified,,Mine Management,effluent,medium,not specified,"Chapter Title: GENERAL STANDARDS FOR DISCHARGE OF ENVIRONMENTAL POLLUTANTS
+Requirement Type: effluent limit
+Parameter: biochemical oxygen demand (3 days at 27°c)
+Requirement: BOD shall not exceed 100 mg / l for discharge onto land for irrigation
+Applicability: Discharge to land for irrigation
+Limit Min: 0.0
+Limit Max: 100.0
+Limit Value: 100.0
+Unit: mg/l
+Comparison Operator: <=
+Monitoring Location: not specified
+Responsible Entity: Mine Management
+Compliance Category: effluent
+Risk Category: medium
+Notes: not specified"
+chap_32.csv,CPCB General Standards,CPCB,32.0,GENERAL STANDARDS FOR DISCHARGE OF ENVIRONMENTAL POLLUTANTS,2,General,mining,INDIRECT,applicable to mining per annexurei clause 7,REQ-GEN-EFF-009,effluent limit,cod,COD shall not exceed 250 mg / l,Discharge to inland surface water,,0.0,250.0,250.0,mg/l,<=,not specified,identify chemicals if persistently > 250 mg/l,Mine Management,effluent,high,Annexure-I clause 13 states tertiary treatment may be stipulated if toxic.,"Chapter Title: GENERAL STANDARDS FOR DISCHARGE OF ENVIRONMENTAL POLLUTANTS
+Requirement Type: effluent limit
+Parameter: cod
+Requirement: COD shall not exceed 250 mg / l
+Applicability: Discharge to inland surface water
+Limit Min: 0.0
+Limit Max: 250.0
+Limit Value: 250.0
+Unit: mg/l
+Comparison Operator: <=
+Monitoring Location: not specified
+Required Action: identify chemicals if persistently > 250 mg/l
+Responsible Entity: Mine Management
+Compliance Category: effluent
+Risk Category: high
+Notes: Annexure-I clause 13 states tertiary treatment may be stipulated if toxic."
+chap_32.csv,CPCB General Standards,CPCB,32.0,GENERAL STANDARDS FOR DISCHARGE OF ENVIRONMENTAL POLLUTANTS,2,General,mining,INDIRECT,applicable to mining per annexurei clause 7,REQ-GEN-EFF-010,effluent limit,arsenic (as as),Arsenic shall not exceed 0.2 mg / l,Discharge to inland surface water and land for irrigation,,0.0,0.2,0.2,mg/l,<=,not specified,,Mine Management,effluent,high,not specified,"Chapter Title: GENERAL STANDARDS FOR DISCHARGE OF ENVIRONMENTAL POLLUTANTS
+Requirement Type: effluent limit
+Parameter: arsenic (as as)
+Requirement: Arsenic shall not exceed 0.2 mg / l
+Applicability: Discharge to inland surface water and land for irrigation
+Limit Min: 0.0
+Limit Max: 0.2
+Limit Value: 0.2
+Unit: mg/l
+Comparison Operator: <=
+Monitoring Location: not specified
+Responsible Entity: Mine Management
+Compliance Category: effluent
+Risk Category: high
+Notes: not specified"
+chap_32.csv,CPCB General Standards,CPCB,32.0,GENERAL STANDARDS FOR DISCHARGE OF ENVIRONMENTAL POLLUTANTS,2,General,mining,INDIRECT,applicable to mining per annexurei clause 7,REQ-GEN-EFF-011,effluent limit,mercury (as hg),Mercury shall not exceed 0.01 mg / l,Discharge to inland surface water,,0.0,0.01,0.01,mg/l,<=,not specified,,Mine Management,effluent,high,not specified,"Chapter Title: GENERAL STANDARDS FOR DISCHARGE OF ENVIRONMENTAL POLLUTANTS
+Requirement Type: effluent limit
+Parameter: mercury (as hg)
+Requirement: Mercury shall not exceed 0.01 mg / l
+Applicability: Discharge to inland surface water
+Limit Min: 0.0
+Limit Max: 0.01
+Limit Value: 0.01
+Unit: mg/l
+Comparison Operator: <=
+Monitoring Location: not specified
+Responsible Entity: Mine Management
+Compliance Category: effluent
+Risk Category: high
+Notes: not specified"
+chap_32.csv,CPCB General Standards,CPCB,32.0,GENERAL STANDARDS FOR DISCHARGE OF ENVIRONMENTAL POLLUTANTS,2,General,mining,INDIRECT,applicable to mining per annexurei clause 7,REQ-GEN-EFF-012,effluent limit,lead (as pb),Lead shall not exceed 0.1 mg / l,Discharge to inland surface water,,0.0,0.1,0.1,mg/l,<=,not specified,,Mine Management,effluent,high,not specified,"Chapter Title: GENERAL STANDARDS FOR DISCHARGE OF ENVIRONMENTAL POLLUTANTS
+Requirement Type: effluent limit
+Parameter: lead (as pb)
+Requirement: Lead shall not exceed 0.1 mg / l
+Applicability: Discharge to inland surface water
+Limit Min: 0.0
+Limit Max: 0.1
+Limit Value: 0.1
+Unit: mg/l
+Comparison Operator: <=
+Monitoring Location: not specified
+Responsible Entity: Mine Management
+Compliance Category: effluent
+Risk Category: high
+Notes: not specified"
+chap_32.csv,CPCB General Standards,CPCB,32.0,GENERAL STANDARDS FOR DISCHARGE OF ENVIRONMENTAL POLLUTANTS,2,General,mining,INDIRECT,applicable to mining per annexurei clause 7,REQ-GEN-EFF-013,effluent limit,cadmium (as cd),Cadmium shall not exceed 2.0 mg / l,Discharge to inland surface water,,0.0,2.0,2.0,mg/l,<=,not specified,,Mine Management,effluent,high,not specified,"Chapter Title: GENERAL STANDARDS FOR DISCHARGE OF ENVIRONMENTAL POLLUTANTS
+Requirement Type: effluent limit
+Parameter: cadmium (as cd)
+Requirement: Cadmium shall not exceed 2.0 mg / l
+Applicability: Discharge to inland surface water
+Limit Min: 0.0
+Limit Max: 2.0
+Limit Value: 2.0
+Unit: mg/l
+Comparison Operator: <=
+Monitoring Location: not specified
+Responsible Entity: Mine Management
+Compliance Category: effluent
+Risk Category: high
+Notes: not specified"
+chap_32.csv,CPCB General Standards,CPCB,32.0,GENERAL STANDARDS FOR DISCHARGE OF ENVIRONMENTAL POLLUTANTS,2,General,mining,INDIRECT,applicable to mining per annexurei clause 7,REQ-GEN-EFF-014,effluent limit,total chromium (as cr),Total chromium shall not exceed 2.0 mg / l,Discharge to inland surface water,,0.0,2.0,2.0,mg/l,<=,not specified,,Mine Management,effluent,high,not specified,"Chapter Title: GENERAL STANDARDS FOR DISCHARGE OF ENVIRONMENTAL POLLUTANTS
+Requirement Type: effluent limit
+Parameter: total chromium (as cr)
+Requirement: Total chromium shall not exceed 2.0 mg / l
+Applicability: Discharge to inland surface water
+Limit Min: 0.0
+Limit Max: 2.0
+Limit Value: 2.0
+Unit: mg/l
+Comparison Operator: <=
+Monitoring Location: not specified
+Responsible Entity: Mine Management
+Compliance Category: effluent
+Risk Category: high
+Notes: not specified"
+chap_32.csv,CPCB General Standards,CPCB,32.0,GENERAL STANDARDS FOR DISCHARGE OF ENVIRONMENTAL POLLUTANTS,2,General,mining,INDIRECT,applicable to mining per annexurei clause 7,REQ-GEN-EFF-015,effluent limit,copper (as cu),Copper shall not exceed 3.0 mg / l,Discharge to inland surface water,,0.0,3.0,3.0,mg/l,<=,not specified,,Mine Management,effluent,medium,not specified,"Chapter Title: GENERAL STANDARDS FOR DISCHARGE OF ENVIRONMENTAL POLLUTANTS
+Requirement Type: effluent limit
+Parameter: copper (as cu)
+Requirement: Copper shall not exceed 3.0 mg / l
+Applicability: Discharge to inland surface water
+Limit Min: 0.0
+Limit Max: 3.0
+Limit Value: 3.0
+Unit: mg/l
+Comparison Operator: <=
+Monitoring Location: not specified
+Responsible Entity: Mine Management
+Compliance Category: effluent
+Risk Category: medium
+Notes: not specified"
+chap_32.csv,CPCB General Standards,CPCB,32.0,GENERAL STANDARDS FOR DISCHARGE OF ENVIRONMENTAL POLLUTANTS,2,General,mining,INDIRECT,applicable to mining per annexurei clause 7,REQ-GEN-EFF-016,effluent limit,zinc (as zn),Zinc shall not exceed 5.0 mg / l,Discharge to inland surface water,,0.0,5.0,5.0,mg/l,<=,not specified,,Mine Management,effluent,medium,not specified,"Chapter Title: GENERAL STANDARDS FOR DISCHARGE OF ENVIRONMENTAL POLLUTANTS
+Requirement Type: effluent limit
+Parameter: zinc (as zn)
+Requirement: Zinc shall not exceed 5.0 mg / l
+Applicability: Discharge to inland surface water
+Limit Min: 0.0
+Limit Max: 5.0
+Limit Value: 5.0
+Unit: mg/l
+Comparison Operator: <=
+Monitoring Location: not specified
+Responsible Entity: Mine Management
+Compliance Category: effluent
+Risk Category: medium
+Notes: not specified"
+chap_32.csv,CPCB General Standards,CPCB,32.0,GENERAL STANDARDS FOR DISCHARGE OF ENVIRONMENTAL POLLUTANTS,2,General,mining,INDIRECT,applicable to mining per annexurei clause 7,REQ-GEN-EFF-017,effluent limit,fluoride (as f),Fluoride shall not exceed 2.0 mg / l,Discharge to inland surface water,,0.0,2.0,2.0,mg/l,<=,not specified,,Mine Management,effluent,medium,not specified,"Chapter Title: GENERAL STANDARDS FOR DISCHARGE OF ENVIRONMENTAL POLLUTANTS
+Requirement Type: effluent limit
+Parameter: fluoride (as f)
+Requirement: Fluoride shall not exceed 2.0 mg / l
+Applicability: Discharge to inland surface water
+Limit Min: 0.0
+Limit Max: 2.0
+Limit Value: 2.0
+Unit: mg/l
+Comparison Operator: <=
+Monitoring Location: not specified
+Responsible Entity: Mine Management
+Compliance Category: effluent
+Risk Category: medium
+Notes: not specified"
+chap_32.csv,CPCB General Standards,CPCB,32.0,GENERAL STANDARDS FOR DISCHARGE OF ENVIRONMENTAL POLLUTANTS,2,General,mining,INDIRECT,applicable to mining per annexurei clause 7,REQ-GEN-EFF-018,effluent limit,phenolic compounds (as c6h5oh),Phenolic compounds shall not exceed 1.0 mg / l,Discharge to inland surface water,,0.0,1.0,1.0,mg/l,<=,not specified,,Mine Management,effluent,high,not specified,"Chapter Title: GENERAL STANDARDS FOR DISCHARGE OF ENVIRONMENTAL POLLUTANTS
+Requirement Type: effluent limit
+Parameter: phenolic compounds (as c6h5oh)
+Requirement: Phenolic compounds shall not exceed 1.0 mg / l
+Applicability: Discharge to inland surface water
+Limit Min: 0.0
+Limit Max: 1.0
+Limit Value: 1.0
+Unit: mg/l
+Comparison Operator: <=
+Monitoring Location: not specified
+Responsible Entity: Mine Management
+Compliance Category: effluent
+Risk Category: high
+Notes: not specified"
+chap_32.csv,CPCB General Standards,CPCB,32.0,GENERAL STANDARDS FOR DISCHARGE OF ENVIRONMENTAL POLLUTANTS,2,General,mining,INDIRECT,applicable to mining per annexurei clause 7,REQ-GEN-EFF-019,effluent limit,bio-assay test,90% survival of fish after 96 hours in 100% effluent,Discharge to inland surface water and land for irrigation,,90.0,100.0,90.0,%,>=,not specified,,Mine Management,effluent,high,Annexure-I clause 10 makes Bio-assay compulsory where toxic/non-biodegradable chemicals are involved.,"Chapter Title: GENERAL STANDARDS FOR DISCHARGE OF ENVIRONMENTAL POLLUTANTS
+Requirement Type: effluent limit
+Parameter: bio-assay test
+Requirement: 90% survival of fish after 96 hours in 100% effluent
+Applicability: Discharge to inland surface water and land for irrigation
+Limit Min: 90.0
+Limit Max: 100.0
+Limit Value: 90.0
+Unit: %
+Comparison Operator: >=
+Monitoring Location: not specified
+Responsible Entity: Mine Management
+Compliance Category: effluent
+Risk Category: high
+Notes: Annexure-I clause 10 makes Bio-assay compulsory where toxic/non-biodegradable chemicals are involved."
+chap_32.csv,CPCB General Standards,CPCB,32.0,GENERAL STANDARDS FOR DISCHARGE OF ENVIRONMENTAL POLLUTANTS,2,General,mining,INDIRECT,applicable to mining per annexurei clause 7,REQ-GEN-EFF-020,effluent limit,manganese,Manganese shall not exceed 2 mg / l,Discharge to inland surface water,,0.0,2.0,2.0,mg/l,<=,not specified,,Mine Management,effluent,medium,not specified,"Chapter Title: GENERAL STANDARDS FOR DISCHARGE OF ENVIRONMENTAL POLLUTANTS
+Requirement Type: effluent limit
+Parameter: manganese
+Requirement: Manganese shall not exceed 2 mg / l
+Applicability: Discharge to inland surface water
+Limit Min: 0.0
+Limit Max: 2.0
+Limit Value: 2.0
+Unit: mg/l
+Comparison Operator: <=
+Monitoring Location: not specified
+Responsible Entity: Mine Management
+Compliance Category: effluent
+Risk Category: medium
+Notes: not specified"
+chap_32.csv,CPCB General Standards,CPCB,32.0,GENERAL STANDARDS FOR DISCHARGE OF ENVIRONMENTAL POLLUTANTS,2,General,mining,INDIRECT,applicable to mining per annexurei clause 7,REQ-GEN-EFF-021,effluent limit,iron (as fe),Iron shall not exceed 3 mg / l,Discharge to inland surface water,,0.0,3.0,3.0,mg/l,<=,not specified,,Mine Management,effluent,medium,not specified,"Chapter Title: GENERAL STANDARDS FOR DISCHARGE OF ENVIRONMENTAL POLLUTANTS
+Requirement Type: effluent limit
+Parameter: iron (as fe)
+Requirement: Iron shall not exceed 3 mg / l
+Applicability: Discharge to inland surface water
+Limit Min: 0.0
+Limit Max: 3.0
+Limit Value: 3.0
+Unit: mg/l
+Comparison Operator: <=
+Monitoring Location: not specified
+Responsible Entity: Mine Management
+Compliance Category: effluent
+Risk Category: medium
+Notes: not specified"
+chap_32.csv,CPCB General Standards,CPCB,32.0,GENERAL STANDARDS FOR DISCHARGE OF ENVIRONMENTAL POLLUTANTS,2,General,mining,INDIRECT,applicable to mining per annexurei clause 7,REQ-GEN-EFF-022,effluent limit,nitrate nitrogen,Nitrate Nitrogen shall not exceed 10 mg / l,Discharge to inland surface water,,0.0,10.0,10.0,mg/l,<=,not specified,,Mine Management,effluent,medium,not specified,"Chapter Title: GENERAL STANDARDS FOR DISCHARGE OF ENVIRONMENTAL POLLUTANTS
+Requirement Type: effluent limit
+Parameter: nitrate nitrogen
+Requirement: Nitrate Nitrogen shall not exceed 10 mg / l
+Applicability: Discharge to inland surface water
+Limit Min: 0.0
+Limit Max: 10.0
+Limit Value: 10.0
+Unit: mg/l
+Comparison Operator: <=
+Monitoring Location: not specified
+Responsible Entity: Mine Management
+Compliance Category: effluent
+Risk Category: medium
+Notes: not specified"
+chap_32.csv,CPCB General Standards,CPCB,32.0,GENERAL STANDARDS FOR DISCHARGE OF ENVIRONMENTAL POLLUTANTS,4,General,mining,INDIRECT,general baseline emission standard,REQ-GEN-AIR-023,emission limit,particulate matter (pm),Particulate matter concentration not to exceed 150 mg / Nm3,General emissions where no specific standard applies,,0.0,150.0,150.0,mg/nm3,<=,not specified,,Mine Management,emission,medium,Part-D Concentration Based Standards.,"Chapter Title: GENERAL STANDARDS FOR DISCHARGE OF ENVIRONMENTAL POLLUTANTS
+Requirement Type: emission limit
+Parameter: particulate matter (pm)
+Requirement: Particulate matter concentration not to exceed 150 mg / Nm3
+Applicability: General emissions where no specific standard applies
+Limit Min: 0.0
+Limit Max: 150.0
+Limit Value: 150.0
+Unit: mg/nm3
+Comparison Operator: <=
+Monitoring Location: not specified
+Responsible Entity: Mine Management
+Compliance Category: emission
+Risk Category: medium
+Notes: Part-D Concentration Based Standards."
+chap_32.csv,CPCB General Standards,CPCB,32.0,GENERAL STANDARDS FOR DISCHARGE OF ENVIRONMENTAL POLLUTANTS,4,General,mining,INDIRECT,general baseline emission standard,REQ-GEN-AIR-024,emission limit,carbon monoxide,Carbon monoxide concentration not to exceed 1%,General emissions where no specific standard applies,,0.0,1.0,1.0,%,<=,not specified,,Mine Management,emission,medium,Part-D Concentration Based Standards.,"Chapter Title: GENERAL STANDARDS FOR DISCHARGE OF ENVIRONMENTAL POLLUTANTS
+Requirement Type: emission limit
+Parameter: carbon monoxide
+Requirement: Carbon monoxide concentration not to exceed 1%
+Applicability: General emissions where no specific standard applies
+Limit Min: 0.0
+Limit Max: 1.0
+Limit Value: 1.0
+Unit: %
+Comparison Operator: <=
+Monitoring Location: not specified
+Responsible Entity: Mine Management
+Compliance Category: emission
+Risk Category: medium
+Notes: Part-D Concentration Based Standards."
+chap_32.csv,CPCB General Standards,CPCB,32.0,GENERAL STANDARDS FOR DISCHARGE OF ENVIRONMENTAL POLLUTANTS,7,General,mining,INDIRECT,explicitly extends standards to mining,REQ-GEN-MGT-025,environmental management,best available technology (bat),The wastewater and gases are to be treated with the best available technology (BAT) in order to achieve the prescribed standards,All industries including mining,,,,,not specified,unknown,not specified,treat wastewater and gases using bat,Mine Management,environment,not specified,Annexure-I Guideline 1.,"Chapter Title: GENERAL STANDARDS FOR DISCHARGE OF ENVIRONMENTAL POLLUTANTS
+Requirement Type: environmental management
+Parameter: best available technology (bat)
+Requirement: The wastewater and gases are to be treated with the best available technology (BAT) in order to achieve the prescribed standards
+Applicability: All industries including mining
+Unit: not specified
+Comparison Operator: unknown
+Monitoring Location: not specified
+Required Action: treat wastewater and gases using bat
+Responsible Entity: Mine Management
+Compliance Category: environment
+Risk Category: not specified
+Notes: Annexure-I Guideline 1."
+chap_32.csv,CPCB General Standards,CPCB,32.0,GENERAL STANDARDS FOR DISCHARGE OF ENVIRONMENTAL POLLUTANTS,7,General,mining,DIRECT,explicitly extends standards to mining,REQ-GEN-MGT-026,environmental management,applicability to mining,The standards mentioned in this Schedule shall also apply to all other effluents discharged such as mining and mineral processing activities and sewage,Mining effluents,,,,,not specified,unknown,not specified,comply with general effluent standards,Mine Management,effluent,not specified,Annexure-I Guideline 7.,"Chapter Title: GENERAL STANDARDS FOR DISCHARGE OF ENVIRONMENTAL POLLUTANTS
+Requirement Type: environmental management
+Parameter: applicability to mining
+Requirement: The standards mentioned in this Schedule shall also apply to all other effluents discharged such as mining and mineral processing activities and sewage
+Applicability: Mining effluents
+Unit: not specified
+Comparison Operator: unknown
+Monitoring Location: not specified
+Required Action: comply with general effluent standards
+Responsible Entity: Mine Management
+Compliance Category: effluent
+Risk Category: not specified
+Notes: Annexure-I Guideline 7."
+chap_32.csv,CPCB General Standards,CPCB,32.0,GENERAL STANDARDS FOR DISCHARGE OF ENVIRONMENTAL POLLUTANTS,7,General,mining,INDIRECT,compulsory test requirement,REQ-GEN-MON-027,monitoring requirement,compulsory bio-assay,Bio-assay shall be made compulsory for all the industries where toxic and non-biodegradable chemicals are involved,Industries using toxic/non-biodegradable chemicals,,,,,not specified,unknown,not specified,conduct compulsory bio-assay test,Mine Management,monitoring,high,Annexure-I Guideline 10.,"Chapter Title: GENERAL STANDARDS FOR DISCHARGE OF ENVIRONMENTAL POLLUTANTS
+Requirement Type: monitoring requirement
+Parameter: compulsory bio-assay
+Requirement: Bio-assay shall be made compulsory for all the industries where toxic and non-biodegradable chemicals are involved
+Applicability: Industries using toxic/non-biodegradable chemicals
+Unit: not specified
+Comparison Operator: unknown
+Monitoring Location: not specified
+Required Action: conduct compulsory bio-assay test
+Responsible Entity: Mine Management
+Compliance Category: monitoring
+Risk Category: high
+Notes: Annexure-I Guideline 10."
+chap_44.csv,CPCB,CPCB,44.0,NOISE: (AMBIENT STANDARDS),1,General,ambient noise,INDIRECT,general ambient noise limits apply to mine boundaries and adjacent sensitive receptors,REQ-AMB-NOISE-001,noise limit,ambient noise (day time),Ambient noise limit for Industrial area during day time shall not exceed 75 dB(A) Leq,Industrial area (Area code A),,0,75.0,75,db (a) leq,<=,not specified,comply with ambient noise limits,Mine Management,noise,not specified,Day time is reckoned in between 6 a.m. and 9 p.m. Mixed categories apply as declared by Competent Authority.,"Chapter Title: NOISE: (AMBIENT STANDARDS)
+Requirement Type: noise limit
+Parameter: ambient noise (day time)
+Requirement: Ambient noise limit for Industrial area during day time shall not exceed 75 dB(A) Leq
+Applicability: Industrial area (Area code A)
+Limit Min: 0
+Limit Max: 75.0
+Limit Value: 75
+Unit: db (a) leq
+Comparison Operator: <=
+Monitoring Location: not specified
+Required Action: comply with ambient noise limits
+Responsible Entity: Mine Management
+Compliance Category: noise
+Risk Category: not specified
+Notes: Day time is reckoned in between 6 a.m. and 9 p.m. Mixed categories apply as declared by Competent Authority."
+chap_44.csv,CPCB,CPCB,44.0,NOISE: (AMBIENT STANDARDS),1,General,ambient noise,INDIRECT,general ambient noise limits apply to mine boundaries and adjacent sensitive receptors,REQ-AMB-NOISE-002,noise limit,ambient noise (night time),Ambient noise limit for Industrial area during night time shall not exceed 70 dB(A) Leq,Industrial area (Area code A),,0,70.0,70,db (a) leq,<=,not specified,comply with ambient noise limits,Mine Management,noise,not specified,Night time is reckoned in between 9 p.m. and 6 a.m. Mixed categories apply as declared by Competent Authority.,"Chapter Title: NOISE: (AMBIENT STANDARDS)
+Requirement Type: noise limit
+Parameter: ambient noise (night time)
+Requirement: Ambient noise limit for Industrial area during night time shall not exceed 70 dB(A) Leq
+Applicability: Industrial area (Area code A)
+Limit Min: 0
+Limit Max: 70.0
+Limit Value: 70
+Unit: db (a) leq
+Comparison Operator: <=
+Monitoring Location: not specified
+Required Action: comply with ambient noise limits
+Responsible Entity: Mine Management
+Compliance Category: noise
+Risk Category: not specified
+Notes: Night time is reckoned in between 9 p.m. and 6 a.m. Mixed categories apply as declared by Competent Authority."
+chap_44.csv,CPCB,CPCB,44.0,NOISE: (AMBIENT STANDARDS),1,General,ambient noise,INDIRECT,general ambient noise limits apply to mine boundaries and adjacent sensitive receptors,REQ-AMB-NOISE-003,noise limit,ambient noise (day time),Ambient noise limit for Commercial area during day time shall not exceed 65 dB(A) Leq,Commercial area (Area code B),,0,65.0,65,db (a) leq,<=,not specified,comply with ambient noise limits,Mine Management,noise,not specified,Day time is reckoned in between 6 a.m. and 9 p.m. Mixed categories apply as declared by Competent Authority.,"Chapter Title: NOISE: (AMBIENT STANDARDS)
+Requirement Type: noise limit
+Parameter: ambient noise (day time)
+Requirement: Ambient noise limit for Commercial area during day time shall not exceed 65 dB(A) Leq
+Applicability: Commercial area (Area code B)
+Limit Min: 0
+Limit Max: 65.0
+Limit Value: 65
+Unit: db (a) leq
+Comparison Operator: <=
+Monitoring Location: not specified
+Required Action: comply with ambient noise limits
+Responsible Entity: Mine Management
+Compliance Category: noise
+Risk Category: not specified
+Notes: Day time is reckoned in between 6 a.m. and 9 p.m. Mixed categories apply as declared by Competent Authority."
+chap_44.csv,CPCB,CPCB,44.0,NOISE: (AMBIENT STANDARDS),1,General,ambient noise,INDIRECT,general ambient noise limits apply to mine boundaries and adjacent sensitive receptors,REQ-AMB-NOISE-004,noise limit,ambient noise (night time),Ambient noise limit for Commercial area during night time shall not exceed 55 dB(A) Leq,Commercial area (Area code B),,0,55.0,55,db (a) leq,<=,not specified,comply with ambient noise limits,Mine Management,noise,not specified,Night time is reckoned in between 9 p.m. and 6 a.m. Mixed categories apply as declared by Competent Authority.,"Chapter Title: NOISE: (AMBIENT STANDARDS)
+Requirement Type: noise limit
+Parameter: ambient noise (night time)
+Requirement: Ambient noise limit for Commercial area during night time shall not exceed 55 dB(A) Leq
+Applicability: Commercial area (Area code B)
+Limit Min: 0
+Limit Max: 55.0
+Limit Value: 55
+Unit: db (a) leq
+Comparison Operator: <=
+Monitoring Location: not specified
+Required Action: comply with ambient noise limits
+Responsible Entity: Mine Management
+Compliance Category: noise
+Risk Category: not specified
+Notes: Night time is reckoned in between 9 p.m. and 6 a.m. Mixed categories apply as declared by Competent Authority."
+chap_44.csv,CPCB,CPCB,44.0,NOISE: (AMBIENT STANDARDS),1,General,ambient noise,INDIRECT,general ambient noise limits apply to mine boundaries and adjacent sensitive receptors,REQ-AMB-NOISE-005,noise limit,ambient noise (day time),Ambient noise limit for Residential area during day time shall not exceed 55 dB(A) Leq,Residential area (Area code C),,0,55.0,55,db (a) leq,<=,not specified,comply with ambient noise limits,Mine Management,noise,not specified,Day time is reckoned in between 6 a.m. and 9 p.m. Mixed categories apply as declared by Competent Authority.,"Chapter Title: NOISE: (AMBIENT STANDARDS)
+Requirement Type: noise limit
+Parameter: ambient noise (day time)
+Requirement: Ambient noise limit for Residential area during day time shall not exceed 55 dB(A) Leq
+Applicability: Residential area (Area code C)
+Limit Min: 0
+Limit Max: 55.0
+Limit Value: 55
+Unit: db (a) leq
+Comparison Operator: <=
+Monitoring Location: not specified
+Required Action: comply with ambient noise limits
+Responsible Entity: Mine Management
+Compliance Category: noise
+Risk Category: not specified
+Notes: Day time is reckoned in between 6 a.m. and 9 p.m. Mixed categories apply as declared by Competent Authority."
+chap_44.csv,CPCB,CPCB,44.0,NOISE: (AMBIENT STANDARDS),1,General,ambient noise,INDIRECT,general ambient noise limits apply to mine boundaries and adjacent sensitive receptors,REQ-AMB-NOISE-006,noise limit,ambient noise (night time),Ambient noise limit for Residential area during night time shall not exceed 45 dB(A) Leq,Residential area (Area code C),,0,45.0,45,db (a) leq,<=,not specified,comply with ambient noise limits,Mine Management,noise,not specified,Night time is reckoned in between 9 p.m. and 6 a.m. Mixed categories apply as declared by Competent Authority.,"Chapter Title: NOISE: (AMBIENT STANDARDS)
+Requirement Type: noise limit
+Parameter: ambient noise (night time)
+Requirement: Ambient noise limit for Residential area during night time shall not exceed 45 dB(A) Leq
+Applicability: Residential area (Area code C)
+Limit Min: 0
+Limit Max: 45.0
+Limit Value: 45
+Unit: db (a) leq
+Comparison Operator: <=
+Monitoring Location: not specified
+Required Action: comply with ambient noise limits
+Responsible Entity: Mine Management
+Compliance Category: noise
+Risk Category: not specified
+Notes: Night time is reckoned in between 9 p.m. and 6 a.m. Mixed categories apply as declared by Competent Authority."
+chap_44.csv,CPCB,CPCB,44.0,NOISE: (AMBIENT STANDARDS),1,General,ambient noise,INDIRECT,general ambient noise limits apply to mine boundaries and adjacent sensitive receptors,REQ-AMB-NOISE-007,noise limit,ambient noise (day time),Ambient noise limit for Silence zone during day time shall not exceed 50 dB(A) Leq,Silence zone (Area code D),areas up to 100 metres around hospitals educational institutions and courts,0,50.0,50,db (a) leq,<=,not specified,comply with ambient noise limits,Mine Management,noise,not specified,Day time is reckoned in between 6 a.m. and 9 p.m. Silence zones are to be declared by Competent Authority.,"Chapter Title: NOISE: (AMBIENT STANDARDS)
+Requirement Type: noise limit
+Parameter: ambient noise (day time)
+Requirement: Ambient noise limit for Silence zone during day time shall not exceed 50 dB(A) Leq
+Applicability: Silence zone (Area code D)
+Condition: areas up to 100 metres around hospitals educational institutions and courts
+Limit Min: 0
+Limit Max: 50.0
+Limit Value: 50
+Unit: db (a) leq
+Comparison Operator: <=
+Monitoring Location: not specified
+Required Action: comply with ambient noise limits
+Responsible Entity: Mine Management
+Compliance Category: noise
+Risk Category: not specified
+Notes: Day time is reckoned in between 6 a.m. and 9 p.m. Silence zones are to be declared by Competent Authority."
+chap_44.csv,CPCB,CPCB,44.0,NOISE: (AMBIENT STANDARDS),1,General,ambient noise,INDIRECT,general ambient noise limits apply to mine boundaries and adjacent sensitive receptors,REQ-AMB-NOISE-008,noise limit,ambient noise (night time),Ambient noise limit for Silence zone during night time shall not exceed 40 dB(A) Leq,Silence zone (Area code D),areas up to 100 metres around hospitals educational institutions and courts,0,40.0,40,db (a) leq,<=,not specified,comply with ambient noise limits,Mine Management,noise,not specified,Night time is reckoned in between 9 p.m. and 6 a.m. Silence zones are to be declared by Competent Authority.,"Chapter Title: NOISE: (AMBIENT STANDARDS)
+Requirement Type: noise limit
+Parameter: ambient noise (night time)
+Requirement: Ambient noise limit for Silence zone during night time shall not exceed 40 dB(A) Leq
+Applicability: Silence zone (Area code D)
+Condition: areas up to 100 metres around hospitals educational institutions and courts
+Limit Min: 0
+Limit Max: 40.0
+Limit Value: 40
+Unit: db (a) leq
+Comparison Operator: <=
+Monitoring Location: not specified
+Required Action: comply with ambient noise limits
+Responsible Entity: Mine Management
+Compliance Category: noise
+Risk Category: not specified
+Notes: Night time is reckoned in between 9 p.m. and 6 a.m. Silence zones are to be declared by Competent Authority."
+chap_63b.csv,"EPA Notification [GSR 7, dt. Dec. 22, 1998]",CPCB,63b,Thermal Power Plant (Gas/Naptha Based),1,Thermal Power Plant,gasnaptha based,INDIRECT,captive thermal power plants gasnaphtha based may be associated with large mining or industrial complexes,REQ-GT-AIR-001,emission limit,nox,Limit for emission of NOx for existing units is 150 ppm (v / v),Existing units,at 15% excess oxygen,0.0,150.0,150.0,ppm (v/v),<=,stack,maintain nox emissions within limit,Plant Management,emission,medium,not specified,"Chapter Title: Thermal Power Plant (Gas/Naptha Based)
+Requirement Type: emission limit
+Parameter: nox
+Requirement: Limit for emission of NOx for existing units is 150 ppm (v / v)
+Applicability: Existing units
+Condition: at 15% excess oxygen
+Limit Min: 0.0
+Limit Max: 150.0
+Limit Value: 150.0
+Unit: ppm (v/v)
+Comparison Operator: <=
+Monitoring Location: stack
+Required Action: maintain nox emissions within limit
+Responsible Entity: Plant Management
+Compliance Category: emission
+Risk Category: medium
+Notes: not specified"
+chap_63b.csv,"EPA Notification [GSR 7, dt. Dec. 22, 1998]",CPCB,63b,Thermal Power Plant (Gas/Naptha Based),1,Thermal Power Plant,gasnaptha based,INDIRECT,captive thermal power plants gasnaphtha based may be associated with large mining or industrial complexes,REQ-GT-AIR-002,emission limit,nox,Limit for Stack NOx emission is 50 ppm for units burning natural gas,New units (with effect from 1-6-99) / Total generation 400 MW and above,units burning natural gas; at 15% excess oxygen,0.0,50.0,50.0,ppm (v/v),<=,stack,maintain nox emissions within limit,Plant Management,emission,medium,not specified,"Chapter Title: Thermal Power Plant (Gas/Naptha Based)
+Requirement Type: emission limit
+Parameter: nox
+Requirement: Limit for Stack NOx emission is 50 ppm for units burning natural gas
+Applicability: New units (with effect from 1-6-99) / Total generation 400 MW and above
+Condition: units burning natural gas; at 15% excess oxygen
+Limit Min: 0.0
+Limit Max: 50.0
+Limit Value: 50.0
+Unit: ppm (v/v)
+Comparison Operator: <=
+Monitoring Location: stack
+Required Action: maintain nox emissions within limit
+Responsible Entity: Plant Management
+Compliance Category: emission
+Risk Category: medium
+Notes: not specified"
+chap_63b.csv,"EPA Notification [GSR 7, dt. Dec. 22, 1998]",CPCB,63b,Thermal Power Plant (Gas/Naptha Based),1,Thermal Power Plant,gasnaptha based,INDIRECT,captive thermal power plants gasnaphtha based may be associated with large mining or industrial complexes,REQ-GT-AIR-003,emission limit,nox,Limit for Stack NOx emission is 100 ppm for units burning naphtha,New units (with effect from 1-6-99) / Total generation 400 MW and above,units burning naphtha; at 15% excess oxygen,0.0,100.0,100.0,ppm (v/v),<=,stack,maintain nox emissions within limit,Plant Management,emission,medium,not specified,"Chapter Title: Thermal Power Plant (Gas/Naptha Based)
+Requirement Type: emission limit
+Parameter: nox
+Requirement: Limit for Stack NOx emission is 100 ppm for units burning naphtha
+Applicability: New units (with effect from 1-6-99) / Total generation 400 MW and above
+Condition: units burning naphtha; at 15% excess oxygen
+Limit Min: 0.0
+Limit Max: 100.0
+Limit Value: 100.0
+Unit: ppm (v/v)
+Comparison Operator: <=
+Monitoring Location: stack
+Required Action: maintain nox emissions within limit
+Responsible Entity: Plant Management
+Compliance Category: emission
+Risk Category: medium
+Notes: not specified"
+chap_63b.csv,"EPA Notification [GSR 7, dt. Dec. 22, 1998]",CPCB,63b,Thermal Power Plant (Gas/Naptha Based),1,Thermal Power Plant,gasnaptha based,INDIRECT,captive thermal power plants gasnaphtha based may be associated with large mining or industrial complexes,REQ-GT-AIR-004,emission limit,nox,Limit for Stack NOx emission is 75 ppm for units burning natural gas,New units (with effect from 1-6-99) / Less than 400 MW but upto 100 MW,units burning natural gas; at 15% excess oxygen,0.0,75.0,75.0,ppm (v/v),<=,stack,maintain nox emissions within limit,Plant Management,emission,medium,not specified,"Chapter Title: Thermal Power Plant (Gas/Naptha Based)
+Requirement Type: emission limit
+Parameter: nox
+Requirement: Limit for Stack NOx emission is 75 ppm for units burning natural gas
+Applicability: New units (with effect from 1-6-99) / Less than 400 MW but upto 100 MW
+Condition: units burning natural gas; at 15% excess oxygen
+Limit Min: 0.0
+Limit Max: 75.0
+Limit Value: 75.0
+Unit: ppm (v/v)
+Comparison Operator: <=
+Monitoring Location: stack
+Required Action: maintain nox emissions within limit
+Responsible Entity: Plant Management
+Compliance Category: emission
+Risk Category: medium
+Notes: not specified"
+chap_63b.csv,"EPA Notification [GSR 7, dt. Dec. 22, 1998]",CPCB,63b,Thermal Power Plant (Gas/Naptha Based),1,Thermal Power Plant,gasnaptha based,INDIRECT,captive thermal power plants gasnaphtha based may be associated with large mining or industrial complexes,REQ-GT-AIR-005,emission limit,nox,Limit for Stack NOx emission is 100 ppm for units burning naphtha,New units (with effect from 1-6-99) / Less than 400 MW but upto 100 MW,units burning naphtha; at 15% excess oxygen,0.0,100.0,100.0,ppm (v/v),<=,stack,maintain nox emissions within limit,Plant Management,emission,medium,not specified,"Chapter Title: Thermal Power Plant (Gas/Naptha Based)
+Requirement Type: emission limit
+Parameter: nox
+Requirement: Limit for Stack NOx emission is 100 ppm for units burning naphtha
+Applicability: New units (with effect from 1-6-99) / Less than 400 MW but upto 100 MW
+Condition: units burning naphtha; at 15% excess oxygen
+Limit Min: 0.0
+Limit Max: 100.0
+Limit Value: 100.0
+Unit: ppm (v/v)
+Comparison Operator: <=
+Monitoring Location: stack
+Required Action: maintain nox emissions within limit
+Responsible Entity: Plant Management
+Compliance Category: emission
+Risk Category: medium
+Notes: not specified"
+chap_63b.csv,"EPA Notification [GSR 7, dt. Dec. 22, 1998]",CPCB,63b,Thermal Power Plant (Gas/Naptha Based),1,Thermal Power Plant,gasnaptha based,INDIRECT,captive thermal power plants gasnaphtha based may be associated with large mining or industrial complexes,REQ-GT-AIR-006,emission limit,nox,Limit for Stack NOx emission is 100 ppm for units burning natural gas or naphtha as fuel,New units (with effect from 1-6-99) / Less than 100 MW,units burning natural gas or naphtha; at 15% excess oxygen,0.0,100.0,100.0,ppm (v/v),<=,stack,maintain nox emissions within limit,Plant Management,emission,medium,not specified,"Chapter Title: Thermal Power Plant (Gas/Naptha Based)
+Requirement Type: emission limit
+Parameter: nox
+Requirement: Limit for Stack NOx emission is 100 ppm for units burning natural gas or naphtha as fuel
+Applicability: New units (with effect from 1-6-99) / Less than 100 MW
+Condition: units burning natural gas or naphtha; at 15% excess oxygen
+Limit Min: 0.0
+Limit Max: 100.0
+Limit Value: 100.0
+Unit: ppm (v/v)
+Comparison Operator: <=
+Monitoring Location: stack
+Required Action: maintain nox emissions within limit
+Responsible Entity: Plant Management
+Compliance Category: emission
+Risk Category: medium
+Notes: not specified"
+chap_63b.csv,"EPA Notification [GSR 7, dt. Dec. 22, 1998]",CPCB,63b,Thermal Power Plant (Gas/Naptha Based),1,Thermal Power Plant,gasnaptha based,INDIRECT,captive thermal power plants gasnaphtha based may be associated with large mining or industrial complexes,REQ-GT-AIR-007,emission limit,nox,Limit for Stack NOx emission is 100 ppm,New units (with effect from 1-6-99) / Plants burning gas in a conventional boiler,at 15% excess oxygen,0.0,100.0,100.0,ppm (v/v),<=,stack,maintain nox emissions within limit,Plant Management,emission,medium,not specified,"Chapter Title: Thermal Power Plant (Gas/Naptha Based)
+Requirement Type: emission limit
+Parameter: nox
+Requirement: Limit for Stack NOx emission is 100 ppm
+Applicability: New units (with effect from 1-6-99) / Plants burning gas in a conventional boiler
+Condition: at 15% excess oxygen
+Limit Min: 0.0
+Limit Max: 100.0
+Limit Value: 100.0
+Unit: ppm (v/v)
+Comparison Operator: <=
+Monitoring Location: stack
+Required Action: maintain nox emissions within limit
+Responsible Entity: Plant Management
+Compliance Category: emission
+Risk Category: medium
+Notes: not specified"
+chap_63b.csv,"EPA Notification [GSR 7, dt. Dec. 22, 1998]",CPCB,63b,Thermal Power Plant (Gas/Naptha Based),1,Thermal Power Plant,gasnaptha based,INDIRECT,captive thermal power plants gasnaphtha based may be associated with large mining or industrial complexes,REQ-GT-STK-008,operational requirement,stack height,"Stack height H in m should be calculated using the formula H = 14 Q^0.3, subject to a minimum of 30 mts",Thermal power plant (Gas/Naptha based),where q is the emission of so2 in kg/hr,30.0,,,m,>=,stack,ensure stack meets required height calculation and minimum threshold,Plant Management,emission,not specified,not specified,"Chapter Title: Thermal Power Plant (Gas/Naptha Based)
+Requirement Type: operational requirement
+Parameter: stack height
+Requirement: Stack height H in m should be calculated using the formula H = 14 Q^0.3, subject to a minimum of 30 mts
+Applicability: Thermal power plant (Gas/Naptha based)
+Condition: where q is the emission of so2 in kg/hr
+Limit Min: 30.0
+Unit: m
+Comparison Operator: >=
+Monitoring Location: stack
+Required Action: ensure stack meets required height calculation and minimum threshold
+Responsible Entity: Plant Management
+Compliance Category: emission
+Risk Category: not specified
+Notes: not specified"
+chap_63b.csv,"EPA Notification [GSR 7, dt. Dec. 22, 1998]",CPCB,63b,Thermal Power Plant (Gas/Naptha Based),2,Thermal Power Plant,gasnaptha based,INDIRECT,captive thermal power plants gasnaphtha based may be associated with large mining or industrial complexes,REQ-GT-EFF-009,effluent limit,ph,pH limit is between 6.5 and 8.5,Liquid waste discharge,,6.5,8.5,,ph,>= and <=,discharge point,maintain ph within limits,Plant Management,effluent,not specified,not specified,"Chapter Title: Thermal Power Plant (Gas/Naptha Based)
+Requirement Type: effluent limit
+Parameter: ph
+Requirement: pH limit is between 6.5 and 8.5
+Applicability: Liquid waste discharge
+Limit Min: 6.5
+Limit Max: 8.5
+Unit: ph
+Comparison Operator: >= and <=
+Monitoring Location: discharge point
+Required Action: maintain ph within limits
+Responsible Entity: Plant Management
+Compliance Category: effluent
+Risk Category: not specified
+Notes: not specified"
+chap_63b.csv,"EPA Notification [GSR 7, dt. Dec. 22, 1998]",CPCB,63b,Thermal Power Plant (Gas/Naptha Based),2,Thermal Power Plant,gasnaptha based,INDIRECT,captive thermal power plants gasnaphtha based may be associated with large mining or industrial complexes,REQ-GT-EFF-010,effluent limit,temperature,As applicable for other thermal power plants,Liquid waste discharge,,,,,not specified,unknown,discharge point,maintain temperature per standard thermal power plant limits,Plant Management,effluent,not specified,References general thermal power plant temperature limits.,"Chapter Title: Thermal Power Plant (Gas/Naptha Based)
+Requirement Type: effluent limit
+Parameter: temperature
+Requirement: As applicable for other thermal power plants
+Applicability: Liquid waste discharge
+Unit: not specified
+Comparison Operator: unknown
+Monitoring Location: discharge point
+Required Action: maintain temperature per standard thermal power plant limits
+Responsible Entity: Plant Management
+Compliance Category: effluent
+Risk Category: not specified
+Notes: References general thermal power plant temperature limits."
+chap_63b.csv,"EPA Notification [GSR 7, dt. Dec. 22, 1998]",CPCB,63b,Thermal Power Plant (Gas/Naptha Based),2,Thermal Power Plant,gasnaptha based,INDIRECT,captive thermal power plants gasnaphtha based may be associated with large mining or industrial complexes,REQ-GT-EFF-011,effluent limit,free available chlorine,Maximum limit of concentration is 0.5 mg / l,Liquid waste discharge,,0.0,0.5,0.5,mg/l,<=,discharge point,maintain free available chlorine limit,Plant Management,effluent,not specified,not specified,"Chapter Title: Thermal Power Plant (Gas/Naptha Based)
+Requirement Type: effluent limit
+Parameter: free available chlorine
+Requirement: Maximum limit of concentration is 0.5 mg / l
+Applicability: Liquid waste discharge
+Limit Min: 0.0
+Limit Max: 0.5
+Limit Value: 0.5
+Unit: mg/l
+Comparison Operator: <=
+Monitoring Location: discharge point
+Required Action: maintain free available chlorine limit
+Responsible Entity: Plant Management
+Compliance Category: effluent
+Risk Category: not specified
+Notes: not specified"
+chap_63b.csv,"EPA Notification [GSR 7, dt. Dec. 22, 1998]",CPCB,63b,Thermal Power Plant (Gas/Naptha Based),2,Thermal Power Plant,gasnaptha based,INDIRECT,captive thermal power plants gasnaphtha based may be associated with large mining or industrial complexes,REQ-GT-EFF-012,effluent limit,total suspended solids,Maximum limit of concentration is 100.0 mg / l,Liquid waste discharge,,0.0,100.0,100.0,mg/l,<=,discharge point,maintain suspended solids limit,Plant Management,effluent,not specified,not specified,"Chapter Title: Thermal Power Plant (Gas/Naptha Based)
+Requirement Type: effluent limit
+Parameter: total suspended solids
+Requirement: Maximum limit of concentration is 100.0 mg / l
+Applicability: Liquid waste discharge
+Limit Min: 0.0
+Limit Max: 100.0
+Limit Value: 100.0
+Unit: mg/l
+Comparison Operator: <=
+Monitoring Location: discharge point
+Required Action: maintain suspended solids limit
+Responsible Entity: Plant Management
+Compliance Category: effluent
+Risk Category: not specified
+Notes: not specified"
+chap_63b.csv,"EPA Notification [GSR 7, dt. Dec. 22, 1998]",CPCB,63b,Thermal Power Plant (Gas/Naptha Based),2,Thermal Power Plant,gasnaptha based,INDIRECT,captive thermal power plants gasnaphtha based may be associated with large mining or industrial complexes,REQ-GT-EFF-013,effluent limit,oil and grease,Maximum limit of concentration is 20.0 mg / l,Liquid waste discharge,,0.0,20.0,20.0,mg/l,<=,discharge point,maintain oil & grease limit,Plant Management,effluent,not specified,not specified,"Chapter Title: Thermal Power Plant (Gas/Naptha Based)
+Requirement Type: effluent limit
+Parameter: oil and grease
+Requirement: Maximum limit of concentration is 20.0 mg / l
+Applicability: Liquid waste discharge
+Limit Min: 0.0
+Limit Max: 20.0
+Limit Value: 20.0
+Unit: mg/l
+Comparison Operator: <=
+Monitoring Location: discharge point
+Required Action: maintain oil & grease limit
+Responsible Entity: Plant Management
+Compliance Category: effluent
+Risk Category: not specified
+Notes: not specified"
+chap_63b.csv,"EPA Notification [GSR 7, dt. Dec. 22, 1998]",CPCB,63b,Thermal Power Plant (Gas/Naptha Based),2,Thermal Power Plant,gasnaptha based,INDIRECT,captive thermal power plants gasnaphtha based may be associated with large mining or industrial complexes,REQ-GT-EFF-014,effluent limit,copper (total),Maximum limit of concentration is 1.0 mg / l,Liquid waste discharge,,0.0,1.0,1.0,mg/l,<=,discharge point,maintain copper limit,Plant Management,effluent,not specified,not specified,"Chapter Title: Thermal Power Plant (Gas/Naptha Based)
+Requirement Type: effluent limit
+Parameter: copper (total)
+Requirement: Maximum limit of concentration is 1.0 mg / l
+Applicability: Liquid waste discharge
+Limit Min: 0.0
+Limit Max: 1.0
+Limit Value: 1.0
+Unit: mg/l
+Comparison Operator: <=
+Monitoring Location: discharge point
+Required Action: maintain copper limit
+Responsible Entity: Plant Management
+Compliance Category: effluent
+Risk Category: not specified
+Notes: not specified"
+chap_63b.csv,"EPA Notification [GSR 7, dt. Dec. 22, 1998]",CPCB,63b,Thermal Power Plant (Gas/Naptha Based),2,Thermal Power Plant,gasnaptha based,INDIRECT,captive thermal power plants gasnaphtha based may be associated with large mining or industrial complexes,REQ-GT-EFF-015,effluent limit,iron (total),Maximum limit of concentration is 1.0 mg / l,Liquid waste discharge,,0.0,1.0,1.0,mg/l,<=,discharge point,maintain iron limit,Plant Management,effluent,not specified,not specified,"Chapter Title: Thermal Power Plant (Gas/Naptha Based)
+Requirement Type: effluent limit
+Parameter: iron (total)
+Requirement: Maximum limit of concentration is 1.0 mg / l
+Applicability: Liquid waste discharge
+Limit Min: 0.0
+Limit Max: 1.0
+Limit Value: 1.0
+Unit: mg/l
+Comparison Operator: <=
+Monitoring Location: discharge point
+Required Action: maintain iron limit
+Responsible Entity: Plant Management
+Compliance Category: effluent
+Risk Category: not specified
+Notes: not specified"
+chap_63b.csv,"EPA Notification [GSR 7, dt. Dec. 22, 1998]",CPCB,63b,Thermal Power Plant (Gas/Naptha Based),2,Thermal Power Plant,gasnaptha based,INDIRECT,captive thermal power plants gasnaphtha based may be associated with large mining or industrial complexes,REQ-GT-EFF-016,effluent limit,zinc,Maximum limit of concentration is 1.0 mg / l,Liquid waste discharge,,0.0,1.0,1.0,mg/l,<=,discharge point,maintain zinc limit,Plant Management,effluent,not specified,not specified,"Chapter Title: Thermal Power Plant (Gas/Naptha Based)
+Requirement Type: effluent limit
+Parameter: zinc
+Requirement: Maximum limit of concentration is 1.0 mg / l
+Applicability: Liquid waste discharge
+Limit Min: 0.0
+Limit Max: 1.0
+Limit Value: 1.0
+Unit: mg/l
+Comparison Operator: <=
+Monitoring Location: discharge point
+Required Action: maintain zinc limit
+Responsible Entity: Plant Management
+Compliance Category: effluent
+Risk Category: not specified
+Notes: not specified"
+chap_63b.csv,"EPA Notification [GSR 7, dt. Dec. 22, 1998]",CPCB,63b,Thermal Power Plant (Gas/Naptha Based),2,Thermal Power Plant,gasnaptha based,INDIRECT,captive thermal power plants gasnaphtha based may be associated with large mining or industrial complexes,REQ-GT-EFF-017,effluent limit,chromium (total),Maximum limit of concentration is 0.2 mg / l,Liquid waste discharge,,0.0,0.2,0.2,mg/l,<=,discharge point,maintain chromium limit,Plant Management,effluent,not specified,not specified,"Chapter Title: Thermal Power Plant (Gas/Naptha Based)
+Requirement Type: effluent limit
+Parameter: chromium (total)
+Requirement: Maximum limit of concentration is 0.2 mg / l
+Applicability: Liquid waste discharge
+Limit Min: 0.0
+Limit Max: 0.2
+Limit Value: 0.2
+Unit: mg/l
+Comparison Operator: <=
+Monitoring Location: discharge point
+Required Action: maintain chromium limit
+Responsible Entity: Plant Management
+Compliance Category: effluent
+Risk Category: not specified
+Notes: not specified"
+chap_63b.csv,"EPA Notification [GSR 7, dt. Dec. 22, 1998]",CPCB,63b,Thermal Power Plant (Gas/Naptha Based),2,Thermal Power Plant,gasnaptha based,INDIRECT,captive thermal power plants gasnaphtha based may be associated with large mining or industrial complexes,REQ-GT-EFF-018,effluent limit,phosphate,Maximum limit of concentration is 5.0 mg / l,Liquid waste discharge,,0.0,5.0,5.0,mg/l,<=,discharge point,maintain phosphate limit,Plant Management,effluent,not specified,not specified,"Chapter Title: Thermal Power Plant (Gas/Naptha Based)
+Requirement Type: effluent limit
+Parameter: phosphate
+Requirement: Maximum limit of concentration is 5.0 mg / l
+Applicability: Liquid waste discharge
+Limit Min: 0.0
+Limit Max: 5.0
+Limit Value: 5.0
+Unit: mg/l
+Comparison Operator: <=
+Monitoring Location: discharge point
+Required Action: maintain phosphate limit
+Responsible Entity: Plant Management
+Compliance Category: effluent
+Risk Category: not specified
+Notes: not specified"
+chap_63c.csv,CPCB Regulatory Standards,CPCB,63c,Thermal Power Plant - Temperature Limit for Discharge of Condenser Cooling Water,99,Thermal Power Plant,condenser cooling water,INDIRECT,captive thermal power plants located within or adjacent to coal mines must comply with these discharge temperature limits,REQ-TPP-TEMP-001,operational requirement,cooling system installation,New thermal power plants shall install cooling towers irrespective of location and capacity,"New thermal power plants commissioned after June 1, 1999",which will be using water from rivers/lakes/reservoirs,,,,not specified,unknown,not specified,install cooling towers,Plant Management,water,not specified,Does not apply to plants using sea water (see B),"Chapter Title: Thermal Power Plant - Temperature Limit for Discharge of Condenser Cooling Water
+Requirement Type: operational requirement
+Parameter: cooling system installation
+Requirement: New thermal power plants shall install cooling towers irrespective of location and capacity
+Applicability: New thermal power plants commissioned after June 1, 1999
+Condition: which will be using water from rivers/lakes/reservoirs
+Unit: not specified
+Comparison Operator: unknown
+Monitoring Location: not specified
+Required Action: install cooling towers
+Responsible Entity: Plant Management
+Compliance Category: water
+Risk Category: not specified
+Notes: Does not apply to plants using sea water (see B)"
+chap_63c.csv,CPCB Regulatory Standards,CPCB,63c,Thermal Power Plant - Temperature Limit for Discharge of Condenser Cooling Water,99,Thermal Power Plant,condenser cooling water,INDIRECT,captive thermal power plants located within or adjacent to coal mines must comply with these discharge temperature limits,REQ-TPP-TEMP-002,effluent limit,temperature rise (receiving water),Adopt suitable system to reduce water temperature at the final discharge point so that the resultant rise in the temperature of receiving water does not exceed 7°C over and above the ambient temperature of the receiving water bodies,New projects in coastal areas using sea water,,0.0,7.0,7.0,°c over ambient temperature,<=,final discharge point / receiving water body,adopt suitable system to reduce water temperature,Plant Management,water,not specified,not specified,"Chapter Title: Thermal Power Plant - Temperature Limit for Discharge of Condenser Cooling Water
+Requirement Type: effluent limit
+Parameter: temperature rise (receiving water)
+Requirement: Adopt suitable system to reduce water temperature at the final discharge point so that the resultant rise in the temperature of receiving water does not exceed 7°C over and above the ambient temperature of the receiving water bodies
+Applicability: New projects in coastal areas using sea water
+Limit Min: 0.0
+Limit Max: 7.0
+Limit Value: 7.0
+Unit: °c over ambient temperature
+Comparison Operator: <=
+Monitoring Location: final discharge point / receiving water body
+Required Action: adopt suitable system to reduce water temperature
+Responsible Entity: Plant Management
+Compliance Category: water
+Risk Category: not specified
+Notes: not specified"
+chap_63c.csv,CPCB Regulatory Standards,CPCB,63c,Thermal Power Plant - Temperature Limit for Discharge of Condenser Cooling Water,99,Thermal Power Plant,condenser cooling water,INDIRECT,captive thermal power plants located within or adjacent to coal mines must comply with these discharge temperature limits,REQ-TPP-TEMP-003,effluent limit,temperature rise (condenser cooling water),Rise in temperature of condensor cooling water from inlet to the outlet of condenser shall not be more than 10°C,Existing thermal power plants,,0.0,10.0,10.0,°c,<=,from inlet to the outlet of condenser,maintain temperature rise below 10°c,Plant Management,water,not specified,not specified,"Chapter Title: Thermal Power Plant - Temperature Limit for Discharge of Condenser Cooling Water
+Requirement Type: effluent limit
+Parameter: temperature rise (condenser cooling water)
+Requirement: Rise in temperature of condensor cooling water from inlet to the outlet of condenser shall not be more than 10°C
+Applicability: Existing thermal power plants
+Limit Min: 0.0
+Limit Max: 10.0
+Limit Value: 10.0
+Unit: °c
+Comparison Operator: <=
+Monitoring Location: from inlet to the outlet of condenser
+Required Action: maintain temperature rise below 10°c
+Responsible Entity: Plant Management
+Compliance Category: water
+Risk Category: not specified
+Notes: not specified"
+chap_63c.csv,CPCB Regulatory Standards,CPCB,63c,Thermal Power Plant - Temperature Limit for Discharge of Condenser Cooling Water,99,Thermal Power Plant,condenser cooling water,INDIRECT,captive thermal power plants located within or adjacent to coal mines must comply with these discharge temperature limits,REQ-TPP-TEMP-004,environmental management,discharge point location,The discharge point shall preferably be located at the bottom of the water body at mid-stream for proper dispersion of thermal discharge,Thermal power plants discharging cooling water,,,,,not specified,unknown,bottom of the water body at mid-stream,locate discharge point at the bottom of water body mid-stream,Plant Management,water,not specified,Guidelines for discharge point (Rule D.1),"Chapter Title: Thermal Power Plant - Temperature Limit for Discharge of Condenser Cooling Water
+Requirement Type: environmental management
+Parameter: discharge point location
+Requirement: The discharge point shall preferably be located at the bottom of the water body at mid-stream for proper dispersion of thermal discharge
+Applicability: Thermal power plants discharging cooling water
+Unit: not specified
+Comparison Operator: unknown
+Monitoring Location: bottom of the water body at mid-stream
+Required Action: locate discharge point at the bottom of water body mid-stream
+Responsible Entity: Plant Management
+Compliance Category: water
+Risk Category: not specified
+Notes: Guidelines for discharge point (Rule D.1)"
+chap_63c.csv,CPCB Regulatory Standards,CPCB,63c,Thermal Power Plant - Temperature Limit for Discharge of Condenser Cooling Water,99,Thermal Power Plant,condenser cooling water,INDIRECT,captive thermal power plants located within or adjacent to coal mines must comply with these discharge temperature limits,REQ-TPP-TEMP-005,environmental management,marine outfall design,Proper marine outfall shall be designed to achieve the prescribed standards. The point of discharge may be selected in consultation with concerned State Authorities / NIO,Thermal power plants discharging cooling water into sea,in case of discharge of cooling water into sea,,,,not specified,unknown,marine outfall,design proper marine outfall and consult state authorities/nio,Plant Management,water,not specified,Guidelines for discharge point (Rule D.2),"Chapter Title: Thermal Power Plant - Temperature Limit for Discharge of Condenser Cooling Water
+Requirement Type: environmental management
+Parameter: marine outfall design
+Requirement: Proper marine outfall shall be designed to achieve the prescribed standards. The point of discharge may be selected in consultation with concerned State Authorities / NIO
+Applicability: Thermal power plants discharging cooling water into sea
+Condition: in case of discharge of cooling water into sea
+Unit: not specified
+Comparison Operator: unknown
+Monitoring Location: marine outfall
+Required Action: design proper marine outfall and consult state authorities/nio
+Responsible Entity: Plant Management
+Compliance Category: water
+Risk Category: not specified
+Notes: Guidelines for discharge point (Rule D.2)"
+chap_63c.csv,CPCB Regulatory Standards,CPCB,63c,Thermal Power Plant - Temperature Limit for Discharge of Condenser Cooling Water,99,Thermal Power Plant,condenser cooling water,INDIRECT,captive thermal power plants located within or adjacent to coal mines must comply with these discharge temperature limits,REQ-TPP-TEMP-006,prohibition,discharge in sensitive areas,"No cooling water discharge shall be permitted in estuaries or near ecologically sensitive areas such as mangroves, coral reefs / spawning and breeding grounds of acquatic flora and fauna",All thermal power plants,,,,,not specified,unknown,estuaries or ecologically sensitive areas,prohibit cooling water discharge in sensitive areas,Plant Management,water,not specified,Guidelines for discharge point (Rule D.3),"Chapter Title: Thermal Power Plant - Temperature Limit for Discharge of Condenser Cooling Water
+Requirement Type: prohibition
+Parameter: discharge in sensitive areas
+Requirement: No cooling water discharge shall be permitted in estuaries or near ecologically sensitive areas such as mangroves, coral reefs / spawning and breeding grounds of acquatic flora and fauna
+Applicability: All thermal power plants
+Unit: not specified
+Comparison Operator: unknown
+Monitoring Location: estuaries or ecologically sensitive areas
+Required Action: prohibit cooling water discharge in sensitive areas
+Responsible Entity: Plant Management
+Compliance Category: water
+Risk Category: not specified
+Notes: Guidelines for discharge point (Rule D.3)"
+chap_64.csv,CPCB Regulatory Standards,CPCB,64.0,WATER QUALITY STANDARDS FOR COASTAL WATERS MARINE OUTFALLS,1,General / Coastal,class swi waters,INDIRECT,coastal mines or associated captive power plants using marine outfalls must not degrade receiving waters below designated best use criteria,REQ-CW-SW1-001,water quality limit,ph range,pH range shall be between 6.5 and 8.5,"Class SW-I Waters (Salt pans, Shell fishing, Mariculture and Ecologically Sensitive Zone)",,6.5,8.5,,ph,>= and <=,coastal receiving water,maintain receiving water quality,Mine / Outfall Operator,water,not specified,not specified,"Chapter Title: WATER QUALITY STANDARDS FOR COASTAL WATERS MARINE OUTFALLS
+Requirement Type: water quality limit
+Parameter: ph range
+Requirement: pH range shall be between 6.5 and 8.5
+Applicability: Class SW-I Waters (Salt pans, Shell fishing, Mariculture and Ecologically Sensitive Zone)
+Limit Min: 6.5
+Limit Max: 8.5
+Unit: ph
+Comparison Operator: >= and <=
+Monitoring Location: coastal receiving water
+Required Action: maintain receiving water quality
+Responsible Entity: Mine / Outfall Operator
+Compliance Category: water
+Risk Category: not specified
+Notes: not specified"
+chap_64.csv,CPCB Regulatory Standards,CPCB,64.0,WATER QUALITY STANDARDS FOR COASTAL WATERS MARINE OUTFALLS,2,General / Coastal,class swi waters,INDIRECT,coastal mines or associated captive power plants using marine outfalls must not degrade receiving waters below designated best use criteria,REQ-CW-SW1-002,water quality limit,dissolved oxygen,"Dissolved Oxygen shall be 5.0 mg / l or 60 percent saturation value, whichever is higher",Class SW-I Waters,,5.0,,5.0,mg/l or 60% saturation,>=,coastal receiving water,maintain receiving water quality,Mine / Outfall Operator,water,not specified,Not less than 3.5 mg/l at any time of the year,"Chapter Title: WATER QUALITY STANDARDS FOR COASTAL WATERS MARINE OUTFALLS
+Requirement Type: water quality limit
+Parameter: dissolved oxygen
+Requirement: Dissolved Oxygen shall be 5.0 mg / l or 60 percent saturation value, whichever is higher
+Applicability: Class SW-I Waters
+Limit Min: 5.0
+Limit Value: 5.0
+Unit: mg/l or 60% saturation
+Comparison Operator: >=
+Monitoring Location: coastal receiving water
+Required Action: maintain receiving water quality
+Responsible Entity: Mine / Outfall Operator
+Compliance Category: water
+Risk Category: not specified
+Notes: Not less than 3.5 mg/l at any time of the year"
+chap_64.csv,CPCB Regulatory Standards,CPCB,64.0,WATER QUALITY STANDARDS FOR COASTAL WATERS MARINE OUTFALLS,2,General / Coastal,class swi waters,INDIRECT,coastal mines or associated captive power plants using marine outfalls must not degrade receiving waters below designated best use criteria,REQ-CW-SW1-003,water quality limit,surfactants,Surfactants should not exceed an upper limit of 1.0 mg / l and the concentration not to cause any visible foam,Class SW-I Waters,,0.0,1.0,1.0,mg/l,<=,coastal receiving water,maintain receiving water quality,Mine / Outfall Operator,water,not specified,Extracted from Floating Matters rationale,"Chapter Title: WATER QUALITY STANDARDS FOR COASTAL WATERS MARINE OUTFALLS
+Requirement Type: water quality limit
+Parameter: surfactants
+Requirement: Surfactants should not exceed an upper limit of 1.0 mg / l and the concentration not to cause any visible foam
+Applicability: Class SW-I Waters
+Limit Min: 0.0
+Limit Max: 1.0
+Limit Value: 1.0
+Unit: mg/l
+Comparison Operator: <=
+Monitoring Location: coastal receiving water
+Required Action: maintain receiving water quality
+Responsible Entity: Mine / Outfall Operator
+Compliance Category: water
+Risk Category: not specified
+Notes: Extracted from Floating Matters rationale"
+chap_64.csv,CPCB Regulatory Standards,CPCB,64.0,WATER QUALITY STANDARDS FOR COASTAL WATERS MARINE OUTFALLS,2,General / Coastal,class swi waters,INDIRECT,coastal mines or associated captive power plants using marine outfalls must not degrade receiving waters below designated best use criteria,REQ-CW-SW1-004,water quality limit,total suspended solids,None from sewage or industrial waste origin,Class SW-I Waters,,,,0.0,sewage/industrial origin,=,coastal receiving water,maintain receiving water quality,Mine / Outfall Operator,water,not specified,not specified,"Chapter Title: WATER QUALITY STANDARDS FOR COASTAL WATERS MARINE OUTFALLS
+Requirement Type: water quality limit
+Parameter: total suspended solids
+Requirement: None from sewage or industrial waste origin
+Applicability: Class SW-I Waters
+Limit Value: 0.0
+Unit: sewage/industrial origin
+Comparison Operator: =
+Monitoring Location: coastal receiving water
+Required Action: maintain receiving water quality
+Responsible Entity: Mine / Outfall Operator
+Compliance Category: water
+Risk Category: not specified
+Notes: not specified"
+chap_64.csv,CPCB Regulatory Standards,CPCB,64.0,WATER QUALITY STANDARDS FOR COASTAL WATERS MARINE OUTFALLS,2,General / Coastal,class swi waters,INDIRECT,coastal mines or associated captive power plants using marine outfalls must not degrade receiving waters below designated best use criteria,REQ-CW-SW1-005,water quality limit,oil and grease,Oil and Grease (including Petroleum Products) shall not exceed 0.1 mg / l,Class SW-I Waters,,0.0,0.1,0.1,mg/l,<=,coastal receiving water,maintain receiving water quality,Mine / Outfall Operator,water,not specified,not specified,"Chapter Title: WATER QUALITY STANDARDS FOR COASTAL WATERS MARINE OUTFALLS
+Requirement Type: water quality limit
+Parameter: oil and grease
+Requirement: Oil and Grease (including Petroleum Products) shall not exceed 0.1 mg / l
+Applicability: Class SW-I Waters
+Limit Min: 0.0
+Limit Max: 0.1
+Limit Value: 0.1
+Unit: mg/l
+Comparison Operator: <=
+Monitoring Location: coastal receiving water
+Required Action: maintain receiving water quality
+Responsible Entity: Mine / Outfall Operator
+Compliance Category: water
+Risk Category: not specified
+Notes: not specified"
+chap_64.csv,CPCB Regulatory Standards,CPCB,64.0,WATER QUALITY STANDARDS FOR COASTAL WATERS MARINE OUTFALLS,2,General / Coastal,class swi waters,INDIRECT,coastal mines or associated captive power plants using marine outfalls must not degrade receiving waters below designated best use criteria,REQ-CW-SW1-006,water quality limit,mercury (as hg),Mercury shall not exceed 0.01 mg / l,Class SW-I Waters,,0.0,0.01,0.01,mg/l,<=,coastal receiving water,maintain receiving water quality,Mine / Outfall Operator,water,high,not specified,"Chapter Title: WATER QUALITY STANDARDS FOR COASTAL WATERS MARINE OUTFALLS
+Requirement Type: water quality limit
+Parameter: mercury (as hg)
+Requirement: Mercury shall not exceed 0.01 mg / l
+Applicability: Class SW-I Waters
+Limit Min: 0.0
+Limit Max: 0.01
+Limit Value: 0.01
+Unit: mg/l
+Comparison Operator: <=
+Monitoring Location: coastal receiving water
+Required Action: maintain receiving water quality
+Responsible Entity: Mine / Outfall Operator
+Compliance Category: water
+Risk Category: high
+Notes: not specified"
+chap_64.csv,CPCB Regulatory Standards,CPCB,64.0,WATER QUALITY STANDARDS FOR COASTAL WATERS MARINE OUTFALLS,2,General / Coastal,class swi waters,INDIRECT,coastal mines or associated captive power plants using marine outfalls must not degrade receiving waters below designated best use criteria,REQ-CW-SW1-007,water quality limit,lead (as pb),Lead shall not exceed 0.01 mg / l,Class SW-I Waters,,0.0,0.01,0.01,mg/l,<=,coastal receiving water,maintain receiving water quality,Mine / Outfall Operator,water,high,not specified,"Chapter Title: WATER QUALITY STANDARDS FOR COASTAL WATERS MARINE OUTFALLS
+Requirement Type: water quality limit
+Parameter: lead (as pb)
+Requirement: Lead shall not exceed 0.01 mg / l
+Applicability: Class SW-I Waters
+Limit Min: 0.0
+Limit Max: 0.01
+Limit Value: 0.01
+Unit: mg/l
+Comparison Operator: <=
+Monitoring Location: coastal receiving water
+Required Action: maintain receiving water quality
+Responsible Entity: Mine / Outfall Operator
+Compliance Category: water
+Risk Category: high
+Notes: not specified"
+chap_64.csv,CPCB Regulatory Standards,CPCB,64.0,WATER QUALITY STANDARDS FOR COASTAL WATERS MARINE OUTFALLS,2,General / Coastal,class swi waters,INDIRECT,coastal mines or associated captive power plants using marine outfalls must not degrade receiving waters below designated best use criteria,REQ-CW-SW1-008,water quality limit,cadmium (as cd),Cadmium shall not exceed 0.01 mg / l,Class SW-I Waters,,0.0,0.01,0.01,mg/l,<=,coastal receiving water,maintain receiving water quality,Mine / Outfall Operator,water,high,not specified,"Chapter Title: WATER QUALITY STANDARDS FOR COASTAL WATERS MARINE OUTFALLS
+Requirement Type: water quality limit
+Parameter: cadmium (as cd)
+Requirement: Cadmium shall not exceed 0.01 mg / l
+Applicability: Class SW-I Waters
+Limit Min: 0.0
+Limit Max: 0.01
+Limit Value: 0.01
+Unit: mg/l
+Comparison Operator: <=
+Monitoring Location: coastal receiving water
+Required Action: maintain receiving water quality
+Responsible Entity: Mine / Outfall Operator
+Compliance Category: water
+Risk Category: high
+Notes: not specified"
+chap_64.csv,CPCB Regulatory Standards,CPCB,64.0,WATER QUALITY STANDARDS FOR COASTAL WATERS MARINE OUTFALLS,3,General / Coastal,class swii waters,INDIRECT,coastal mines or associated captive power plants using marine outfalls must not degrade receiving waters below designated best use criteria,REQ-CW-SW2-009,water quality limit,ph range,pH range shall be between 6.5 and 8.5,"Class SW-II Waters (Bathing, Contact Water Sports and Commercial Fishing)",,6.5,8.5,,ph,>= and <=,coastal receiving water,maintain receiving water quality,Mine / Outfall Operator,water,not specified,not specified,"Chapter Title: WATER QUALITY STANDARDS FOR COASTAL WATERS MARINE OUTFALLS
+Requirement Type: water quality limit
+Parameter: ph range
+Requirement: pH range shall be between 6.5 and 8.5
+Applicability: Class SW-II Waters (Bathing, Contact Water Sports and Commercial Fishing)
+Limit Min: 6.5
+Limit Max: 8.5
+Unit: ph
+Comparison Operator: >= and <=
+Monitoring Location: coastal receiving water
+Required Action: maintain receiving water quality
+Responsible Entity: Mine / Outfall Operator
+Compliance Category: water
+Risk Category: not specified
+Notes: not specified"
+chap_64.csv,CPCB Regulatory Standards,CPCB,64.0,WATER QUALITY STANDARDS FOR COASTAL WATERS MARINE OUTFALLS,3,General / Coastal,class swii waters,INDIRECT,coastal mines or associated captive power plants using marine outfalls must not degrade receiving waters below designated best use criteria,REQ-CW-SW2-010,water quality limit,dissolved oxygen,"Dissolved Oxygen shall be 4.0 mg / l or 50 percent saturation value, whichever is higher",Class SW-II Waters,,4.0,,4.0,mg/l or 50% saturation,>=,coastal receiving water,maintain receiving water quality,Mine / Outfall Operator,water,not specified,Not less than 3.5 mg/l at anytime,"Chapter Title: WATER QUALITY STANDARDS FOR COASTAL WATERS MARINE OUTFALLS
+Requirement Type: water quality limit
+Parameter: dissolved oxygen
+Requirement: Dissolved Oxygen shall be 4.0 mg / l or 50 percent saturation value, whichever is higher
+Applicability: Class SW-II Waters
+Limit Min: 4.0
+Limit Value: 4.0
+Unit: mg/l or 50% saturation
+Comparison Operator: >=
+Monitoring Location: coastal receiving water
+Required Action: maintain receiving water quality
+Responsible Entity: Mine / Outfall Operator
+Compliance Category: water
+Risk Category: not specified
+Notes: Not less than 3.5 mg/l at anytime"
+chap_64.csv,CPCB Regulatory Standards,CPCB,64.0,WATER QUALITY STANDARDS FOR COASTAL WATERS MARINE OUTFALLS,3,General / Coastal,class swii waters,INDIRECT,coastal mines or associated captive power plants using marine outfalls must not degrade receiving waters below designated best use criteria,REQ-CW-SW2-011,water quality limit,turbidity,Turbidity shall not exceed 30 NTU,Class SW-II Waters,measured at 0.9 depth,0.0,30.0,30.0,ntu,<=,coastal receiving water,maintain receiving water quality,Mine / Outfall Operator,water,not specified,not specified,"Chapter Title: WATER QUALITY STANDARDS FOR COASTAL WATERS MARINE OUTFALLS
+Requirement Type: water quality limit
+Parameter: turbidity
+Requirement: Turbidity shall not exceed 30 NTU
+Applicability: Class SW-II Waters
+Condition: measured at 0.9 depth
+Limit Min: 0.0
+Limit Max: 30.0
+Limit Value: 30.0
+Unit: ntu
+Comparison Operator: <=
+Monitoring Location: coastal receiving water
+Required Action: maintain receiving water quality
+Responsible Entity: Mine / Outfall Operator
+Compliance Category: water
+Risk Category: not specified
+Notes: not specified"
+chap_64.csv,CPCB Regulatory Standards,CPCB,64.0,WATER QUALITY STANDARDS FOR COASTAL WATERS MARINE OUTFALLS,3,General / Coastal,class swii waters,INDIRECT,coastal mines or associated captive power plants using marine outfalls must not degrade receiving waters below designated best use criteria,REQ-CW-SW2-012,water quality limit,fecal coliform,Fecal Coliform shall not exceed 100 / 100 ml (MPN),Class SW-II Waters,,0.0,100.0,100.0,mpn/100 ml,<=,coastal receiving water,maintain receiving water quality,Mine / Outfall Operator,water,not specified,Average value not exceeding 200/100 ml in 20 percent of samples in year/monsoon,"Chapter Title: WATER QUALITY STANDARDS FOR COASTAL WATERS MARINE OUTFALLS
+Requirement Type: water quality limit
+Parameter: fecal coliform
+Requirement: Fecal Coliform shall not exceed 100 / 100 ml (MPN)
+Applicability: Class SW-II Waters
+Limit Min: 0.0
+Limit Max: 100.0
+Limit Value: 100.0
+Unit: mpn/100 ml
+Comparison Operator: <=
+Monitoring Location: coastal receiving water
+Required Action: maintain receiving water quality
+Responsible Entity: Mine / Outfall Operator
+Compliance Category: water
+Risk Category: not specified
+Notes: Average value not exceeding 200/100 ml in 20 percent of samples in year/monsoon"
+chap_64.csv,CPCB Regulatory Standards,CPCB,64.0,WATER QUALITY STANDARDS FOR COASTAL WATERS MARINE OUTFALLS,3,General / Coastal,class swii waters,INDIRECT,coastal mines or associated captive power plants using marine outfalls must not degrade receiving waters below designated best use criteria,REQ-CW-SW2-013,water quality limit,biochemical oxygen demand (bod),BOD (3 days at 27°C) shall not exceed 3 mg / l,Class SW-II Waters,,0.0,3.0,3.0,mg/l,<=,coastal receiving water,maintain receiving water quality,Mine / Outfall Operator,water,not specified,not specified,"Chapter Title: WATER QUALITY STANDARDS FOR COASTAL WATERS MARINE OUTFALLS
+Requirement Type: water quality limit
+Parameter: biochemical oxygen demand (bod)
+Requirement: BOD (3 days at 27°C) shall not exceed 3 mg / l
+Applicability: Class SW-II Waters
+Limit Min: 0.0
+Limit Max: 3.0
+Limit Value: 3.0
+Unit: mg/l
+Comparison Operator: <=
+Monitoring Location: coastal receiving water
+Required Action: maintain receiving water quality
+Responsible Entity: Mine / Outfall Operator
+Compliance Category: water
+Risk Category: not specified
+Notes: not specified"
+chap_64.csv,CPCB Regulatory Standards,CPCB,64.0,WATER QUALITY STANDARDS FOR COASTAL WATERS MARINE OUTFALLS,4,General / Coastal,class swiii waters,INDIRECT,coastal mines or associated captive power plants using marine outfalls must not degrade receiving waters below designated best use criteria,REQ-CW-SW3-014,water quality limit,ph range,pH range shall be between 6.5 and 8.5,"Class SW-III Waters (Industrial cooling, Recreation and Aesthetics)",,6.5,8.5,,ph,>= and <=,coastal receiving water,maintain receiving water quality,Mine / Outfall Operator,water,not specified,not specified,"Chapter Title: WATER QUALITY STANDARDS FOR COASTAL WATERS MARINE OUTFALLS
+Requirement Type: water quality limit
+Parameter: ph range
+Requirement: pH range shall be between 6.5 and 8.5
+Applicability: Class SW-III Waters (Industrial cooling, Recreation and Aesthetics)
+Limit Min: 6.5
+Limit Max: 8.5
+Unit: ph
+Comparison Operator: >= and <=
+Monitoring Location: coastal receiving water
+Required Action: maintain receiving water quality
+Responsible Entity: Mine / Outfall Operator
+Compliance Category: water
+Risk Category: not specified
+Notes: not specified"
+chap_64.csv,CPCB Regulatory Standards,CPCB,64.0,WATER QUALITY STANDARDS FOR COASTAL WATERS MARINE OUTFALLS,4,General / Coastal,class swiii waters,INDIRECT,coastal mines or associated captive power plants using marine outfalls must not degrade receiving waters below designated best use criteria,REQ-CW-SW3-015,water quality limit,dissolved oxygen,"Dissolved Oxygen shall be 3.0 mg / l or 40 percent saturation value, whichever is higher",Class SW-III Waters,,3.0,,3.0,mg/l or 40% saturation,>=,coastal receiving water,maintain receiving water quality,Mine / Outfall Operator,water,not specified,not specified,"Chapter Title: WATER QUALITY STANDARDS FOR COASTAL WATERS MARINE OUTFALLS
+Requirement Type: water quality limit
+Parameter: dissolved oxygen
+Requirement: Dissolved Oxygen shall be 3.0 mg / l or 40 percent saturation value, whichever is higher
+Applicability: Class SW-III Waters
+Limit Min: 3.0
+Limit Value: 3.0
+Unit: mg/l or 40% saturation
+Comparison Operator: >=
+Monitoring Location: coastal receiving water
+Required Action: maintain receiving water quality
+Responsible Entity: Mine / Outfall Operator
+Compliance Category: water
+Risk Category: not specified
+Notes: not specified"
+chap_64.csv,CPCB Regulatory Standards,CPCB,64.0,WATER QUALITY STANDARDS FOR COASTAL WATERS MARINE OUTFALLS,4,General / Coastal,class swiii waters,INDIRECT,coastal mines or associated captive power plants using marine outfalls must not degrade receiving waters below designated best use criteria,REQ-CW-SW3-016,water quality limit,fecal coliform,Fecal Coliform shall not exceed 500 / 100 ml (MPN),Class SW-III Waters,,0.0,500.0,500.0,mpn/100 ml,<=,coastal receiving water,maintain receiving water quality,Mine / Outfall Operator,water,not specified,Not exceeding 1000/100 ml in 20 percent of samples,"Chapter Title: WATER QUALITY STANDARDS FOR COASTAL WATERS MARINE OUTFALLS
+Requirement Type: water quality limit
+Parameter: fecal coliform
+Requirement: Fecal Coliform shall not exceed 500 / 100 ml (MPN)
+Applicability: Class SW-III Waters
+Limit Min: 0.0
+Limit Max: 500.0
+Limit Value: 500.0
+Unit: mpn/100 ml
+Comparison Operator: <=
+Monitoring Location: coastal receiving water
+Required Action: maintain receiving water quality
+Responsible Entity: Mine / Outfall Operator
+Compliance Category: water
+Risk Category: not specified
+Notes: Not exceeding 1000/100 ml in 20 percent of samples"
+chap_64.csv,CPCB Regulatory Standards,CPCB,64.0,WATER QUALITY STANDARDS FOR COASTAL WATERS MARINE OUTFALLS,4,General / Coastal,class swiii waters,INDIRECT,coastal mines or associated captive power plants using marine outfalls must not degrade receiving waters below designated best use criteria,REQ-CW-SW3-017,water quality limit,turbidity,Turbidity shall not exceed 30 NTU,Class SW-III Waters,,0.0,30.0,30.0,ntu,<=,coastal receiving water,maintain receiving water quality,Mine / Outfall Operator,water,not specified,not specified,"Chapter Title: WATER QUALITY STANDARDS FOR COASTAL WATERS MARINE OUTFALLS
+Requirement Type: water quality limit
+Parameter: turbidity
+Requirement: Turbidity shall not exceed 30 NTU
+Applicability: Class SW-III Waters
+Limit Min: 0.0
+Limit Max: 30.0
+Limit Value: 30.0
+Unit: ntu
+Comparison Operator: <=
+Monitoring Location: coastal receiving water
+Required Action: maintain receiving water quality
+Responsible Entity: Mine / Outfall Operator
+Compliance Category: water
+Risk Category: not specified
+Notes: not specified"
+chap_64.csv,CPCB Regulatory Standards,CPCB,64.0,WATER QUALITY STANDARDS FOR COASTAL WATERS MARINE OUTFALLS,4,General / Coastal,class swiii waters,INDIRECT,coastal mines or associated captive power plants using marine outfalls must not degrade receiving waters below designated best use criteria,REQ-CW-SW3-018,water quality limit,dissolved iron (as fe),Dissolved Iron shall be 0.5 mg / l or less,Class SW-III Waters,exclusively for industrial cooling purpose,0.0,0.5,0.5,mg/l,<=,coastal receiving water,maintain receiving water quality,Mine / Outfall Operator,water,not specified,not specified,"Chapter Title: WATER QUALITY STANDARDS FOR COASTAL WATERS MARINE OUTFALLS
+Requirement Type: water quality limit
+Parameter: dissolved iron (as fe)
+Requirement: Dissolved Iron shall be 0.5 mg / l or less
+Applicability: Class SW-III Waters
+Condition: exclusively for industrial cooling purpose
+Limit Min: 0.0
+Limit Max: 0.5
+Limit Value: 0.5
+Unit: mg/l
+Comparison Operator: <=
+Monitoring Location: coastal receiving water
+Required Action: maintain receiving water quality
+Responsible Entity: Mine / Outfall Operator
+Compliance Category: water
+Risk Category: not specified
+Notes: not specified"
+chap_64.csv,CPCB Regulatory Standards,CPCB,64.0,WATER QUALITY STANDARDS FOR COASTAL WATERS MARINE OUTFALLS,4,General / Coastal,class swiii waters,INDIRECT,coastal mines or associated captive power plants using marine outfalls must not degrade receiving waters below designated best use criteria,REQ-CW-SW3-019,water quality limit,dissolved manganese (as mn),Dissolved Manganese shall be 0.5 mg / l or less,Class SW-III Waters,exclusively for industrial cooling purpose,0.0,0.5,0.5,mg/l,<=,coastal receiving water,maintain receiving water quality,Mine / Outfall Operator,water,not specified,not specified,"Chapter Title: WATER QUALITY STANDARDS FOR COASTAL WATERS MARINE OUTFALLS
+Requirement Type: water quality limit
+Parameter: dissolved manganese (as mn)
+Requirement: Dissolved Manganese shall be 0.5 mg / l or less
+Applicability: Class SW-III Waters
+Condition: exclusively for industrial cooling purpose
+Limit Min: 0.0
+Limit Max: 0.5
+Limit Value: 0.5
+Unit: mg/l
+Comparison Operator: <=
+Monitoring Location: coastal receiving water
+Required Action: maintain receiving water quality
+Responsible Entity: Mine / Outfall Operator
+Compliance Category: water
+Risk Category: not specified
+Notes: not specified"
+chap_64.csv,CPCB Regulatory Standards,CPCB,64.0,WATER QUALITY STANDARDS FOR COASTAL WATERS MARINE OUTFALLS,5,General / Coastal,class swiv waters,INDIRECT,coastal mines utilizing harbour facilities must prevent runoff from degrading harbour waters,REQ-CW-SW4-020,water quality limit,ph range,pH range shall be between 6.5 and 9.0,Class SW-IV Waters (For Harbour Waters),,6.5,9.0,,ph,>= and <=,coastal receiving water,maintain receiving water quality,Port / Mine Operator,water,not specified,not specified,"Chapter Title: WATER QUALITY STANDARDS FOR COASTAL WATERS MARINE OUTFALLS
+Requirement Type: water quality limit
+Parameter: ph range
+Requirement: pH range shall be between 6.5 and 9.0
+Applicability: Class SW-IV Waters (For Harbour Waters)
+Limit Min: 6.5
+Limit Max: 9.0
+Unit: ph
+Comparison Operator: >= and <=
+Monitoring Location: coastal receiving water
+Required Action: maintain receiving water quality
+Responsible Entity: Port / Mine Operator
+Compliance Category: water
+Risk Category: not specified
+Notes: not specified"
+chap_64.csv,CPCB Regulatory Standards,CPCB,64.0,WATER QUALITY STANDARDS FOR COASTAL WATERS MARINE OUTFALLS,5,General / Coastal,class swiv waters,INDIRECT,coastal mines utilizing harbour facilities must prevent runoff from degrading harbour waters,REQ-CW-SW4-021,water quality limit,"floating materials oil, grease and scum","Floating materials Oil, grease and scum (including Petroleum products) shall not exceed 10 mg / l",Class SW-IV Waters (For Harbour Waters),,0.0,10.0,10.0,mg/l,<=,coastal receiving water,maintain receiving water quality,Port / Mine Operator,water,medium,not specified,"Chapter Title: WATER QUALITY STANDARDS FOR COASTAL WATERS MARINE OUTFALLS
+Requirement Type: water quality limit
+Parameter: floating materials oil, grease and scum
+Requirement: Floating materials Oil, grease and scum (including Petroleum products) shall not exceed 10 mg / l
+Applicability: Class SW-IV Waters (For Harbour Waters)
+Limit Min: 0.0
+Limit Max: 10.0
+Limit Value: 10.0
+Unit: mg/l
+Comparison Operator: <=
+Monitoring Location: coastal receiving water
+Required Action: maintain receiving water quality
+Responsible Entity: Port / Mine Operator
+Compliance Category: water
+Risk Category: medium
+Notes: not specified"
+chap_64.csv,CPCB Regulatory Standards,CPCB,64.0,WATER QUALITY STANDARDS FOR COASTAL WATERS MARINE OUTFALLS,5,General / Coastal,class swiv waters,INDIRECT,coastal mines utilizing harbour facilities must prevent runoff from degrading harbour waters,REQ-CW-SW4-022,water quality limit,biochemical oxygen demand,Biochemical Oxygen Demand (3 days at 27°C) shall not exceed 5 mg / l,Class SW-IV Waters (For Harbour Waters),,0.0,5.0,5.0,mg/l,<=,coastal receiving water,maintain receiving water quality,Port / Mine Operator,water,not specified,not specified,"Chapter Title: WATER QUALITY STANDARDS FOR COASTAL WATERS MARINE OUTFALLS
+Requirement Type: water quality limit
+Parameter: biochemical oxygen demand
+Requirement: Biochemical Oxygen Demand (3 days at 27°C) shall not exceed 5 mg / l
+Applicability: Class SW-IV Waters (For Harbour Waters)
+Limit Min: 0.0
+Limit Max: 5.0
+Limit Value: 5.0
+Unit: mg/l
+Comparison Operator: <=
+Monitoring Location: coastal receiving water
+Required Action: maintain receiving water quality
+Responsible Entity: Port / Mine Operator
+Compliance Category: water
+Risk Category: not specified
+Notes: not specified"
+chap_64.csv,CPCB Regulatory Standards,CPCB,64.0,WATER QUALITY STANDARDS FOR COASTAL WATERS MARINE OUTFALLS,5,General / Coastal,class swv waters,INDIRECT,coastal mines or associated captive power plants using marine outfalls must not degrade receiving waters below designated best use criteria,REQ-CW-SW5-023,water quality limit,ph range,pH range shall be between 6.0 and 9.0,Class SW-V Waters (Navigation and Controlled Waste Disposal),,6.0,9.0,,ph,>= and <=,coastal receiving water,maintain receiving water quality,Mine / Outfall Operator,water,not specified,not specified,"Chapter Title: WATER QUALITY STANDARDS FOR COASTAL WATERS MARINE OUTFALLS
+Requirement Type: water quality limit
+Parameter: ph range
+Requirement: pH range shall be between 6.0 and 9.0
+Applicability: Class SW-V Waters (Navigation and Controlled Waste Disposal)
+Limit Min: 6.0
+Limit Max: 9.0
+Unit: ph
+Comparison Operator: >= and <=
+Monitoring Location: coastal receiving water
+Required Action: maintain receiving water quality
+Responsible Entity: Mine / Outfall Operator
+Compliance Category: water
+Risk Category: not specified
+Notes: not specified"
+chap_66.csv,CPCB Regulatory Standards,CPCB,66.0,STANDARDS AND GUIDELINES FOR CONTROL OF NOISE POLLUTION FROM STATIONARY DIESEL GENERATOR (DG) SETS,1,General / DG Sets,noise standards,INDIRECT,coal mines heavily use stationary dg sets for backup power and remote operations requiring compliance with these noise rules,REQ-DG-NOISE-001,noise limit,total sound power level (lw),"The total sound power level, Lw, of a DG set should be less than 94+10 log10(KVA), dB(A), at the manufacturing stage",DG sets (15-500 KVA),,,,94+10 log10(kva),db(a),<,not specified,procure dg sets meeting sound power level standards,Manufacturer / Mine Management (Procurement),noise,not specified,KVA is the nominal power rating of a DG set.,"Chapter Title: STANDARDS AND GUIDELINES FOR CONTROL OF NOISE POLLUTION FROM STATIONARY DIESEL GENERATOR (DG) SETS
+Requirement Type: noise limit
+Parameter: total sound power level (lw)
+Requirement: The total sound power level, Lw, of a DG set should be less than 94+10 log10(KVA), dB(A), at the manufacturing stage
+Applicability: DG sets (15-500 KVA)
+Limit Value: 94+10 log10(kva)
+Unit: db(a)
+Comparison Operator: <
+Monitoring Location: not specified
+Required Action: procure dg sets meeting sound power level standards
+Responsible Entity: Manufacturer / Mine Management (Procurement)
+Compliance Category: noise
+Risk Category: not specified
+Notes: KVA is the nominal power rating of a DG set."
+chap_66.csv,CPCB Regulatory Standards,CPCB,66.0,STANDARDS AND GUIDELINES FOR CONTROL OF NOISE POLLUTION FROM STATIONARY DIESEL GENERATOR (DG) SETS,1,General / DG Sets,noise standards,INDIRECT,coal mines heavily use stationary dg sets for backup power and remote operations requiring compliance with these noise rules,REQ-DG-NOISE-002,operational requirement,total sound power level (phase-down),"This level should fall by 5 dB(A) every five years, till 2007, i.e. in 2002 and then in 2007",DG sets (15-500 KVA),,,,,db(a),unknown,not specified,implement phased noise reduction,Manufacturer,noise,not specified,not specified,"Chapter Title: STANDARDS AND GUIDELINES FOR CONTROL OF NOISE POLLUTION FROM STATIONARY DIESEL GENERATOR (DG) SETS
+Requirement Type: operational requirement
+Parameter: total sound power level (phase-down)
+Requirement: This level should fall by 5 dB(A) every five years, till 2007, i.e. in 2002 and then in 2007
+Applicability: DG sets (15-500 KVA)
+Unit: db(a)
+Comparison Operator: unknown
+Monitoring Location: not specified
+Required Action: implement phased noise reduction
+Responsible Entity: Manufacturer
+Compliance Category: noise
+Risk Category: not specified
+Notes: not specified"
+chap_66.csv,CPCB Regulatory Standards,CPCB,66.0,STANDARDS AND GUIDELINES FOR CONTROL OF NOISE POLLUTION FROM STATIONARY DIESEL GENERATOR (DG) SETS,1,General / DG Sets,noise standards,INDIRECT,coal mines heavily use stationary dg sets for backup power and remote operations requiring compliance with these noise rules,REQ-DG-NOISE-003,operational requirement,acoustic enclosure / treatment,Noise from the DG set should be controlled by providing an acoustic enclosure or by treating the room acoustically,Stationary DG sets (5 KVA and above),,,,,not specified,unknown,not specified,provide acoustic enclosure or treat the room acoustically,Mine Management,noise,high,not specified,"Chapter Title: STANDARDS AND GUIDELINES FOR CONTROL OF NOISE POLLUTION FROM STATIONARY DIESEL GENERATOR (DG) SETS
+Requirement Type: operational requirement
+Parameter: acoustic enclosure / treatment
+Requirement: Noise from the DG set should be controlled by providing an acoustic enclosure or by treating the room acoustically
+Applicability: Stationary DG sets (5 KVA and above)
+Unit: not specified
+Comparison Operator: unknown
+Monitoring Location: not specified
+Required Action: provide acoustic enclosure or treat the room acoustically
+Responsible Entity: Mine Management
+Compliance Category: noise
+Risk Category: high
+Notes: not specified"
+chap_66.csv,CPCB Regulatory Standards,CPCB,66.0,STANDARDS AND GUIDELINES FOR CONTROL OF NOISE POLLUTION FROM STATIONARY DIESEL GENERATOR (DG) SETS,2,General / DG Sets,noise standards,INDIRECT,coal mines heavily use stationary dg sets for backup power and remote operations requiring compliance with these noise rules,REQ-DG-NOISE-004,noise limit,insertion loss (acoustic enclosure / room),"The acoustic enclosure / acoustic treatment of the room should be designed for minimum 25 dB(A) Insertion Loss or for meeting the ambient noise standards, whichever is on the higher side",Stationary DG sets (5 KVA and above),,25.0,,25,db(a),>=,not specified,design acoustic treatment for minimum 25 db(a) insertion loss,Mine Management,noise,high,"If not possible to check performance, check for noise reduction upto actual ambient noise level, preferably in night time.","Chapter Title: STANDARDS AND GUIDELINES FOR CONTROL OF NOISE POLLUTION FROM STATIONARY DIESEL GENERATOR (DG) SETS
+Requirement Type: noise limit
+Parameter: insertion loss (acoustic enclosure / room)
+Requirement: The acoustic enclosure / acoustic treatment of the room should be designed for minimum 25 dB(A) Insertion Loss or for meeting the ambient noise standards, whichever is on the higher side
+Applicability: Stationary DG sets (5 KVA and above)
+Limit Min: 25.0
+Limit Value: 25
+Unit: db(a)
+Comparison Operator: >=
+Monitoring Location: not specified
+Required Action: design acoustic treatment for minimum 25 db(a) insertion loss
+Responsible Entity: Mine Management
+Compliance Category: noise
+Risk Category: high
+Notes: If not possible to check performance, check for noise reduction upto actual ambient noise level, preferably in night time."
+chap_66.csv,CPCB Regulatory Standards,CPCB,66.0,STANDARDS AND GUIDELINES FOR CONTROL OF NOISE POLLUTION FROM STATIONARY DIESEL GENERATOR (DG) SETS,2,General / DG Sets,noise standards,INDIRECT,coal mines heavily use stationary dg sets for backup power and remote operations requiring compliance with these noise rules,REQ-DG-NOISE-005,noise limit,insertion loss (exhaust muffler),The DG set should also be provided with proper exhaust muffler with Insertion Loss of minimum 25 dB(A),Stationary DG sets (5 KVA and above),,25.0,,25,db(a),>=,not specified,install proper exhaust muffler with minimum 25 db(a) insertion loss,Mine Management,noise,high,not specified,"Chapter Title: STANDARDS AND GUIDELINES FOR CONTROL OF NOISE POLLUTION FROM STATIONARY DIESEL GENERATOR (DG) SETS
+Requirement Type: noise limit
+Parameter: insertion loss (exhaust muffler)
+Requirement: The DG set should also be provided with proper exhaust muffler with Insertion Loss of minimum 25 dB(A)
+Applicability: Stationary DG sets (5 KVA and above)
+Limit Min: 25.0
+Limit Value: 25
+Unit: db(a)
+Comparison Operator: >=
+Monitoring Location: not specified
+Required Action: install proper exhaust muffler with minimum 25 db(a) insertion loss
+Responsible Entity: Mine Management
+Compliance Category: noise
+Risk Category: high
+Notes: not specified"
+chap_66.csv,CPCB Regulatory Standards,CPCB,66.0,STANDARDS AND GUIDELINES FOR CONTROL OF NOISE POLLUTION FROM STATIONARY DIESEL GENERATOR (DG) SETS,2,General / DG Sets,guidelines for users,INDIRECT,coal mines heavily use stationary dg sets for backup power and remote operations requiring compliance with these noise rules,REQ-DG-NOISE-006,environmental management,ambient noise,"The user should make efforts to bring down the noise levels due to the DG set; outside his premises, within the ambient noise requirements by proper siting and control measures",DG sets 5 KVA and above,,,,,not specified,unknown,outside user premises,apply proper siting and control measures to meet ambient standards,Mine Management,noise,not specified,not specified,"Chapter Title: STANDARDS AND GUIDELINES FOR CONTROL OF NOISE POLLUTION FROM STATIONARY DIESEL GENERATOR (DG) SETS
+Requirement Type: environmental management
+Parameter: ambient noise
+Requirement: The user should make efforts to bring down the noise levels due to the DG set; outside his premises, within the ambient noise requirements by proper siting and control measures
+Applicability: DG sets 5 KVA and above
+Unit: not specified
+Comparison Operator: unknown
+Monitoring Location: outside user premises
+Required Action: apply proper siting and control measures to meet ambient standards
+Responsible Entity: Mine Management
+Compliance Category: noise
+Risk Category: not specified
+Notes: not specified"
+chap_66.csv,CPCB Regulatory Standards,CPCB,66.0,STANDARDS AND GUIDELINES FOR CONTROL OF NOISE POLLUTION FROM STATIONARY DIESEL GENERATOR (DG) SETS,2,General / DG Sets,guidelines for users,INDIRECT,coal mines heavily use stationary dg sets for backup power and remote operations requiring compliance with these noise rules,REQ-DG-NOISE-007,noise limit,total sound power level (user end),"The total sound power level of a DG set, at the user's end, shall be within 2 dB(A) of the total sound power level of the DG set, at the manufacturing stage",DG sets 5 KVA and above,,,,manufacturing stage level + 2,db(a),<=,user's end,maintain dg set to keep sound power level within 2 db(a) of factory specs,Mine Management,noise,medium,not specified,"Chapter Title: STANDARDS AND GUIDELINES FOR CONTROL OF NOISE POLLUTION FROM STATIONARY DIESEL GENERATOR (DG) SETS
+Requirement Type: noise limit
+Parameter: total sound power level (user end)
+Requirement: The total sound power level of a DG set, at the user's end, shall be within 2 dB(A) of the total sound power level of the DG set, at the manufacturing stage
+Applicability: DG sets 5 KVA and above
+Limit Value: manufacturing stage level + 2
+Unit: db(a)
+Comparison Operator: <=
+Monitoring Location: user's end
+Required Action: maintain dg set to keep sound power level within 2 db(a) of factory specs
+Responsible Entity: Mine Management
+Compliance Category: noise
+Risk Category: medium
+Notes: not specified"
+chap_66.csv,CPCB Regulatory Standards,CPCB,66.0,STANDARDS AND GUIDELINES FOR CONTROL OF NOISE POLLUTION FROM STATIONARY DIESEL GENERATOR (DG) SETS,2,General / DG Sets,guidelines for users,INDIRECT,coal mines heavily use stationary dg sets for backup power and remote operations requiring compliance with these noise rules,REQ-DG-NOISE-008,operational requirement,installation,Installation of a DG set must be strictly in compliance with the recommendation of the DG set manufacturer,DG sets 5 KVA and above,,,,,not specified,unknown,not specified,install dg set per manufacturer recommendations,Mine Management,operational,not specified,not specified,"Chapter Title: STANDARDS AND GUIDELINES FOR CONTROL OF NOISE POLLUTION FROM STATIONARY DIESEL GENERATOR (DG) SETS
+Requirement Type: operational requirement
+Parameter: installation
+Requirement: Installation of a DG set must be strictly in compliance with the recommendation of the DG set manufacturer
+Applicability: DG sets 5 KVA and above
+Unit: not specified
+Comparison Operator: unknown
+Monitoring Location: not specified
+Required Action: install dg set per manufacturer recommendations
+Responsible Entity: Mine Management
+Compliance Category: operational
+Risk Category: not specified
+Notes: not specified"
+chap_66.csv,CPCB Regulatory Standards,CPCB,66.0,STANDARDS AND GUIDELINES FOR CONTROL OF NOISE POLLUTION FROM STATIONARY DIESEL GENERATOR (DG) SETS,2,General / DG Sets,guidelines for users,INDIRECT,coal mines heavily use stationary dg sets for backup power and remote operations requiring compliance with these noise rules,REQ-DG-NOISE-009,operational requirement,maintenance,A proper routine and preventive maintenance procedure for the DG set should be set and followed in consultation with the DG set manufacturer,DG sets 5 KVA and above,,,,,not specified,unknown,not specified,follow routine and preventive maintenance procedure,Mine Management,operational,not specified,Helps prevent noise levels of the DG set from deteriorating with use.,"Chapter Title: STANDARDS AND GUIDELINES FOR CONTROL OF NOISE POLLUTION FROM STATIONARY DIESEL GENERATOR (DG) SETS
+Requirement Type: operational requirement
+Parameter: maintenance
+Requirement: A proper routine and preventive maintenance procedure for the DG set should be set and followed in consultation with the DG set manufacturer
+Applicability: DG sets 5 KVA and above
+Unit: not specified
+Comparison Operator: unknown
+Monitoring Location: not specified
+Required Action: follow routine and preventive maintenance procedure
+Responsible Entity: Mine Management
+Compliance Category: operational
+Risk Category: not specified
+Notes: Helps prevent noise levels of the DG set from deteriorating with use."

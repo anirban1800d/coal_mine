@@ -1,0 +1,22 @@
+import json
+
+FILE="users.json"
+
+def load_users():
+    try:
+        with open(FILE,"r") as f:
+            return json.load(f)
+    except:
+        return []
+
+def save_user(user):
+    users=load_users()
+    if users:
+        user["id"] = users[-1]["id"]+1
+    else:
+        user["id"] = 1
+    users.append(user)
+
+    with open(FILE,"w") as f:
+        json.dump(users,f,indent=4)
+

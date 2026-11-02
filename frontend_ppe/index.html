@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Real-Time PPE Detection</title>
+
+    <!-- CSS file -->
+    <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+
+    <main class="container">
+
+        <h1>Real-Time PPE Detection</h1>
+
+        <p class="subtitle">
+            Live camera-based safety equipment detection
+        </p>
+
+        <section class="camera-card">
+
+            <div class="video-container">
+                <video
+                    id="camera"
+                    autoplay
+                    muted
+                    playsinline>
+                </video>
+
+                <canvas id="resultCanvas"></canvas>
+            </div>
+
+            <div class="buttons">
+                <button id="startBtn" type="button">
+                    Start Camera
+                </button>
+
+                <button
+                    id="stopBtn"
+                    type="button"
+                    disabled>
+                    Stop Camera
+                </button>
+            </div>
+
+            <p id="status">Camera stopped</p>
+
+        </section>
+
+        <section class="detections-card">
+
+            <h2>Detected Objects</h2>
+
+            <div id="detections">
+                <p class="empty">No detections yet</p>
+            </div>
+
+        </section>
+
+    </main>
+
+    <!-- JavaScript file -->
+    <script src="./app.js" defer></script>
+</body>
+</html>

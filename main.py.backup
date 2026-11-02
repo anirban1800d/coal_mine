@@ -1,0 +1,223 @@
+from register_app.routes import valid_registration
+from register_app.schemas import Register_from
+from register_app.models import load_users, save_user
+
+from Login.schemas import Login_Form
+from Login.routes import validate_login
+
+from fastapi import FastAPI, HTTPException,Request
+from fastapi.responses import JSONResponse
+from fastapi.middleware.cors import CORSMiddleware
+from fastapi.responses import RedirectResponse
+
+
+import os
+import uuid
+
+from starlette.middleware.sessions import SessionMiddleware
+from dotenv import load_dotenv
+from authlib.integrations.starlette_client import OAuth
+from starlette.requests import Request
+
+from otp_reset.schemas import ForgotPasswordRequest, VerifyOTPRequest, ResetPasswordRequest
+from otp_reset.routes import handle_forgot_password, handle_verify_otp, handle_reset_password
+
+
+load_dotenv()
+
+app = FastAPI()
+
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=[
+        "http://localhost:5173",
+        "http://127.0.0.1:5173",
+    ],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
+
+app.add_middleware(
+    SessionMiddleware,
+    secret_key=os.getenv("SESSION_SECRET"),
+    same_site="lax",
+    https_only=False
+)
+
+oauth = OAuth()
+#Register Authentication
+oauth.register(
+    name="google",
+    client_id=os.getenv("GOOGLE_CLIENT_ID"),
+    client_secret=os.getenv("GOOGLE_CLIENT_SECRET"),
+    server_metadata_url=
+      "https://accounts.google.com/.well-known/openid-configuration",
+    client_kwargs={
+        "scope":"openid email profile"
+    }
+)
+
+@app.get('/')
+def home():
+    return {"msg":"Hello mother-fuckers"}
+
+
+@app.post('/register')
+def registration(register:Register_from):
+    try:
+        return valid_registration(register)
+    except Exception as e:
+        return JSONResponse(status_code=500,content=str(e))
+
+@app.post('/login')
+async def login(log:Login_Form,request: Request):
+    try:
+        result = validate_login(log)
+        user_id = result["user_id"]
+        request.session["user_id"] = user_id
+        request.session["provider"] = "local"  # Store the provider in the session
+        return {"message": "Login successful"}
+    except HTTPException as e:
+        raise e
+    except Exception as e:
+        return JSONResponse(status_code=401,content={"detail": str(e)})
+
+@app.get("/login/google")
+async def google_login(request: Request):
+
+    redirect_uri = os.getenv("GOOGLE_REDIRECT_URI")
+
+    return await oauth.google.authorize_redirect(
+        request,
+        redirect_uri
+    )
+
+@app.get("/auth/google/callback")
+async def google_callback(request: Request):
+
+    try:
+        token = await oauth.google.authorize_access_token(request)
+
+        user_info = token.get("userinfo")
+
+        if not user_info:
+            raise Exception("userinfo was not returned by Google")
+
+        email = user_info["email"]
+        name = user_info.get("name", "Google User")
+
+        users = load_users()
+
+        existing_user = None
+
+        for u in users:
+            if u["Email"] == email:
+                existing_user = u
+                break
+
+        if not existing_user:
+
+            name_parts = name.split()
+
+            google_user = {
+                "id": str(uuid.uuid4()),
+                "name": " ".join(name_parts[:-1]) if len(name_parts) > 1 else name,
+                "surname": name_parts[-1] if len(name_parts) > 1 else "",
+                "Email": email,
+                "PhoneNumber": "",
+                "Password": "",
+                "provider": "google"
+            }
+
+            save_user(google_user)
+
+            existing_user = google_user
+
+        # Store logged-in user in session
+        request.session["user_id"] = existing_user["id"]
+        request.session["email"] = existing_user["Email"]
+        request.session["provider"] = "local"  
+
+        return RedirectResponse(
+            url="http://localhost:5173"
+        )
+    except Exception as e:
+        print("GOOGLE CALLBACK ERROR:")
+        print(type(e).__name__)
+        print(str(e))
+
+        raise HTTPException(
+            status_code=500,
+            detail=str(e)
+        )
+
+@app.get("/me")
+async def get_current_user(request: Request):
+    user_id = request.session.get("user_id")
+
+    if not user_id:
+        raise HTTPException(
+            status_code=401,
+            detail="Not authenticated"
+        )
+
+    users = load_users()
+
+    for user in users:
+        if user["id"] == user_id:
+            return {
+                "id": user["id"],
+                "name": user["name"],
+                "surname": user["surname"],
+                "email": user["Email"],
+                "provider": user.get("provider", "local")
+            }
+    request.session.clear()
+
+    raise HTTPException(
+        status_code=404,
+        detail="User not found"
+    )
+
+
+# ─── NEW: Logout ───
+@app.post("/logout")
+async def logout(request: Request):
+    request.session.clear()
+    return {"message": "Logout successful"}
+
+
+# ─── NEW: Forgot Password ───
+@app.post("/forgot-password")
+async def forgot_password(body: ForgotPasswordRequest, request: Request):
+    try:
+        return handle_forgot_password(body.Email, request)
+    except HTTPException:
+        raise
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+
+# ─── NEW: Verify OTP ───
+@app.post("/verify-otp")
+async def verify_otp(body: VerifyOTPRequest, request: Request):
+    try:
+        return handle_verify_otp(body.Email, body.OTP, request)
+    except HTTPException:
+        raise
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+
+# ─── NEW: Reset Password ───
+@app.post("/reset-password")
+async def reset_password(body: ResetPasswordRequest, request: Request):
+    try:
+        return handle_reset_password(body.Email, body.NewPassword, request)
+    except HTTPException:
+        raise
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))

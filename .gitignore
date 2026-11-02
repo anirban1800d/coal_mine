@@ -1,0 +1,40 @@
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+myenv/
+venv/
+.venv/
+
+# Testing
+.pytest_cache/
+.coverage
+
+# Frontend dependencies and build files
+node_modules/
+dist/
+build/
+.vite/
+
+# User data
+users.json
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
